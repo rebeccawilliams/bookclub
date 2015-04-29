@@ -148,6 +148,7 @@ In fact, Washington's opposition was redefining the rules of the political game.
 discussions, we combined some of the objections we were hearing from the administrators into a summary package: 
 
 *We (the agency/ department/ bureaucracy)*
+
 1. know what information we need for our purposes;
 2. understand how and why such information can be adequate for these purposes, but not accurate;
 3. know how to interpret the information we gather;
@@ -156,6 +157,7 @@ discussions, we combined some of the objections we were hearing from the adminis
 6. know how to instruct appropriate recipients in the proper uses of this information.
 
 *You, on the other hand (community organizations):*
+
 1. cannot possibly understand the reasons we gather theinformation we do;
 2. will accuse us of gathering inaccurate information rather thaninformation which is adequate for our purposes (but not for yours);
 3. cannot know how to interpret the information we provide;

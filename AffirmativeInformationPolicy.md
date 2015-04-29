@@ -1,7 +1,8 @@
 
 There are typos, check here: https://drive.google.com/drive/folders/0B50CEAgs-R_ofjF6bEFFV3YxdC1hTFNJYWtENWNyUmxweG5XblNBV2ZuaEZud0hFbGFKQzA
 
-# The Affirmative Information Policy: Opening Up a Closed City JOHN KRETZMANN
+# The Affirmative Information Policy: Opening Up a Closed City 
+## JOHN KRETZMANN
 
 The election of Harold Washington shook Chicago's governmental and political structures to their very foundations. Long-accepted policies and practices, not the least of which was government's habitual secrecy, were suddenly open to scrutiny and debate. In fact, one of the first major challenges facing the new Washington administration in 1983 involved prying open the doors and windows of a government in the back room for half a century, whose business had been conducted in private, and in which public participation in policy formation was considered anathema. The populist orientation of Washington's movement-style campaign virtually guaranteed that this closed and secretive system would be exposed and challenged. 
 

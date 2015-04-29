@@ -77,7 +77,7 @@ The route from conceptualization of the project to its initiation, however, was 
 
 With CBO leadership, discussions took place mainly within the context of the transition team's efforts to define an overall approach to neighborhood policy for the new administration. This latter set of discussions had virtually nothing to do with "information needs," focusing instead on the definition of neighborhood needs, particularly for resources, authority, and vehicles for participation in decision making. 
 
-CBOs in the Transition Process: Neighborhood Needs Begin to Include Information
+## CBOs in the Transition Process: Neighborhood Needs Begin to Include Information
 
 During the transition process, which spanned the new mayor's first months in office, two particular task forces drew widespread interest and participation on the part of neighborhood groups: one focused on policy recommendations in the housing area, and the other more generally on neighborhood-oriented initiatives. The importance of these efforts transcended the particular policy recommendations set forth (although a sizable proportion of those were at least partially implemented by the administration in its first year). Rather, these task forces, and the forums and hearings that they convened, marked for Chicago's CBOs their first officially sanctioned opportunity to discuss needs and priorities across neighborhood boundaries, to discover both common issues and significant differences, and to share together some reasonable (yet often skeptical held) expectations that a cooperative stance vis-a-vis city hall was possible.
 
@@ -145,27 +145,25 @@ In fact, troubled political and bureaucratic waters would delay implementation o
 in the city counm, were alert to the political ramifications of virtually every policy initiative. So, for example, when the Department of Neighborhoods emerged as a major communications conduit between city hall and the communities-sponsoring popular Neighborhood Forums, coordinating outreach, and providing support for initiatives like Affirmative Neighborhood Information-the city council gutted the department's budget and forced the resignation of its head.
 
 In fact, Washington's opposition was redefining the rules of the political game. And the new political context created by this continuing opposition redefined the tone of the administration's policy discussion in the direction of defensiveness. More and more key administration officials were convinced that a rapid consolidation of power by the new regime was out of the question and that the prospect of four years of maneuvering and confrontation between polarized blocs seemed ever more likely. The effect of this defensive tone on policy initiatives was palpable. One department head quoted above now talked about" reform" as a "process that has to be gradual, quiet, almost invisible." He was also the first person I heard using a military metaphor that would become a commonplace over the next year "We've got to fly low," he explained, "under their [the political opposition's] radar." Even within this difficult political context, however, it was bureaucratic inertia that proved most difficult to overcome. Gaining support for the new information initiative from ten different city departments, each with new leadership, all facing severe budget constraints and a volatile political milieu, proved a daunting task. Many of the bureaucratically defined objections to affirmative information concerned a well-defined and deeply held orientation to knowledge and information generally, and are likely to be applicable to situations beyond Chicago. At one point in our long series of
-discussions, we combined some of the objections we were hearing from the administrators into a summary package: We (the agency/ department/ bureaucracy)
-1) know what information we need for our purposes;
-2) understand how and why such information can be adequate for these purposes, but not accurate;
-3) know how to interpret the information we gather;
-4) know what uses are appropriate to this information, and what uses are not;
-5) know how to determine who is and who is not an appropriate
-recipient of this information; and
-6) know how to instruct appropriate recipients in the proper uses of
-this information.
-You, on the other hand (community organizations):
-a) cannot possibly understand the reasons we gather theinformation we do;
-b) will accuse us of gathering inaccurate information rather thaninformation which is adequate for our purposes (but not for yours);
-c) cannot know how to interpret the information we provide;
-d) cannot possibly distinguish between appropriate and inappropriate, responsible and irresponsible uses of this information. Furthermore,
-e) you (community organizations) may very well want to use our
-own information to criticize our operations; and
-f) you might even decide to sue us for providing "inaccurate"
-information.
+discussions, we combined some of the objections we were hearing from the administrators into a summary package: 
 
-Taken in the aggregate, these two sets of propositions summarize the most
-extreme positions taken by city bureaucrats.
+*We (the agency/ department/ bureaucracy)*
+1. know what information we need for our purposes;
+2. understand how and why such information can be adequate for these purposes, but not accurate;
+3. know how to interpret the information we gather;
+4. know what uses are appropriate to this information, and what uses are not;
+5. know how to determine who is and who is not an appropriate recipient of this information; and
+6. know how to instruct appropriate recipients in the proper uses of this information.
+
+*You, on the other hand (community organizations):*
+1. cannot possibly understand the reasons we gather theinformation we do;
+2. will accuse us of gathering inaccurate information rather thaninformation which is adequate for our purposes (but not for yours);
+3. cannot know how to interpret the information we provide;
+4. cannot possibly distinguish between appropriate and inappropriate, responsible and irresponsible uses of this information. Furthermore,
+5. you (community organizations) may very well want to use our own information to criticize our operations; and
+6. you might even decide to sue us for providing "inaccurate" information.
+
+Taken in the aggregate, these two sets of propositions summarize the most extreme positions taken by city bureaucrats.
 
 Most often, the officials advancing these more protective arguments were
 either holdover employees, hired by previous administrations, or middle level "line" bureaucrats with immediate responsibility for department functions that might in fact be expected to draw criticism from community groups (e.g., the Housing Court division of the Law Department). Other officials, including a number of department heads, continued to express support for the initiative.
@@ -174,7 +172,7 @@ In the final analysis, however, the impetus for breaking the bureaucratic
 log jam could be provided only by the decision to schedule a press conference at which
 Mayor Washington woald actually announce the program. This press conference indeed resulted from the continuing pressure and mounting frustration emanating from the community groups, who were growing impatient at the delays. The groups made both the Mayor's Office and the press office aware of their dissatisfaction, and the response was remarkably rapid. By the time the press conference occurred, nearly two years had elapsed since the idea of affirmative information had been conceived. Perhaps there was a trace of irony in the mayor's voice as he intoned, "Ladies and gentlemen, for those of you who have asked me continually what I mean by 'reform,' let me simply point out, this program is what reform is all about."
 
-Reflections on the Affirmative Information Experiment
+## Reflections on the Affirmative Information Experiment
 
 What is to be learned from this policy initiation effort? Final verdicts concerning the viability and usefulness of this newborn, as well as its capacity to thrive and grow, must await further experience and analysis. On the other hand, both the conceptual and practical efforts that defined the inception of this modest model project may well carry implications ranging far beyond the boundaries of Chicago.
  
@@ -205,7 +203,7 @@ ongoing projects and discussions will lead in the post-Washington era is difficu
 It is clear that opening up city government in Chicago, given the situation inherited by the Washington administration in 1983, is a task that is still far from completed. But in this modest experiment called Affirmative Neighborhood Information, and in the ongoing projects to which it led, we have at least begun to meet the challenge to create in our cities a 1J).0re democratized politics of public information. One might hope that more cities
 will soon accept that challenge as well.
 
-NOTES
+## NOTES
 - <a name="footnote1">1</a>: Other members of the group were Andrew Gordon, John McKnight, Robert Le Bailley, and Eric Nyblad.
 - <a name="footnote2">2</a>: Many of these interviews were conducted by Susan Reed.
 - <a name="footnote3">3</a>: Interview, Alderman Martin Oberman, July 1984.

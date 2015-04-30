@@ -4,17 +4,19 @@ There are typos, check here: https://drive.google.com/drive/folders/0B50CEAgs-R_
 # The Affirmative Information Policy: Opening Up a Closed City 
 ## JOHN KRETZMANN
 
-The election of Harold Washington shook Chicago's governmental and
-political structures to their very foundations. Long-accepted policies
-and practices, not the least of which was government's habitual
-secrecy, were suddenly open to scrutiny and debate. In fact, one of
-the first major challenges facing the new Washington administration in
-1983 involved prying open the doors and windows of a government in the
-back room for half a century, whose business had been conducted in
-private, and in which public participation in policy formation was
-considered anathema. The populist orientation of Washington's
-movement-style campaign virtually guaranteed that this closed and
-secretive system would be exposed and challenged.
+The election of
+[Harold Washington](http://en.wikipedia.org/wiki/Harold_Washington)
+shook Chicago's governmental and political structures to their very
+foundations. Long-accepted policies and practices, not the least of
+which was government's habitual secrecy, were suddenly open to
+scrutiny and debate. In fact, one of the first major challenges facing
+the new Washington administration in 1983 involved prying open the
+doors and windows of a government in the back room for half a century,
+whose business had been conducted in private, and in which public
+participation in policy formation was considered anathema. The
+populist orientation of Washington's movement-style campaign virtually
+guaranteed that this closed and secretive system would be exposed and
+challenged.
 
 In fact, Washington's populist campaign themes, backed by strong
 neighborhood-based demands for increased citizen participation, set
@@ -664,14 +666,15 @@ FOI responsibility, with four different information officers serving
 during the first nine months of the Washington administration (a fifth
 was appointed eight months later). The last set of hurdles resulted
 from the political pressures on the new administration induced by the
-paralyzed Chicago context. The mayor's foes, who held the power to
-block legislation in the city council, were alert to the political
-ramifications of virtually every policy initiative. So, for example,
-when the Department of Neighborhoods emerged as a major communications
-conduit between city hall and the communities—sponsoring popular
-Neighborhood Forums, coordinating outreach, and providing support for
-initiatives like Affirmative Neighborhood Information—the city council
-gutted the department's budget and forced the resignation of its head.
+paralyzed Chicago
+context. [The mayor's foes, who held the power to block legislation in the city council](http://en.wikipedia.org/wiki/Council_Wars),
+were alert to the political ramifications of virtually every policy
+initiative. So, for example, when the Department of Neighborhoods
+emerged as a major communications conduit between city hall and the
+communities—sponsoring popular Neighborhood Forums, coordinating
+outreach, and providing support for initiatives like Affirmative
+Neighborhood Information—the city council gutted the department's
+budget and forced the resignation of its head.
 
 In fact, Washington's opposition was redefining the rules of the
 political game. And the new political context created by this
@@ -843,7 +846,7 @@ any municipal government.
 Yet the role of the bureaucracies ia the Chicago case was probably
 skewed by a number of rarer circumstances. First, of course, Chicago's
 bureaucratic structures are larger than those of daily U.S. city
-except New York and therefore more unwieldy than most. In addlition,
+except New York and therefore more unwieldy than most. In addition,
 Chicago's unusually stormy and contentious period of political and
 governmental transition provided a somewhat unusual context for policy
 reform—a context whose effects on the bureaucracies' capacity to

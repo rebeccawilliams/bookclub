@@ -42,7 +42,9 @@ Chicago to experiment with ways of collecting and using
 neighborhood-specific data. Some of our work had introduced
 microcomputers into the organizations and had experimented with new
 ways of making data easily digestible. Involvement in the Washington
-campaign...
+campaign
+
+[couple of pages missing]
 
 City council members who were active in the Daley years provided at
 least a partial listing of the most common techniques used by the

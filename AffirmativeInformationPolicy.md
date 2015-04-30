@@ -1,5 +1,6 @@
+Source:
+P. Clavel and W. Wiewel, eds, *Harold Washington and the Neighbourhoods: Progressive City Government in Chicago* 1983-1987. New Brunswick, N.J.: Rutgers University Press, 1991.
 
-There are typos, check here: https://drive.google.com/drive/folders/0B50CEAgs-R_ofjF6bEFFV3YxdC1hTFNJYWtENWNyUmxweG5XblNBV2ZuaEZud0hFbGFKQzA
 
 # The Affirmative Information Policy: Opening Up a Closed City 
 ## JOHN KRETZMANN

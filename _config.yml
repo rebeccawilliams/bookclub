@@ -5,7 +5,7 @@ markdown: kramdown
 pygments: true
 
 # Title
-name: Civic Tech Book/Philosophy Club
+name: Civic Tech Book Club
 subtitle: 
 
 # When using this template with a project page set the baseurl to '/project-name'
@@ -30,19 +30,19 @@ navigation:
 - text: Home
   url: index.html
   internal: true
-- text: "The Affirmative Information Policy"
+- text: The Affirmative Information Policy
   url: reading1.html
   internal: true
-- text: Book Club Repo 
-  url: https://github.com/rebeccawilliams/bookclub
-  internal: false
+- text: Reading List  
+  url: readinglist.html
+  internal: true
 
 # Repo list
 # List repos that you would like to appear on the homepage here
 repos:
-- name: DOCter
-  description: Jekyll template for docs
-  url: https://github.com/cfpb/DOCter
+- name: Book Club
+  description: Code for this website
+  url: https://github.com/rebeccawilliams/bookclub
 
 # Style Variables
-brand_color: "#2cb34a"
+brand_color: "#eca702"

@@ -5,4 +5,6 @@ date:   2015-05-05 12:00:00
 categories: jekyll update
 ---
 
-We can take notes here on our reading of [The Affirmative Information Policy: Opening Up a Closed City ](civictechbook.club/affirmativeinformationpolicy.html).
+We can take notes here on our reading of [The Affirmative Information Policy: Opening Up a Closed City ](/affirmativeinformationpolicy.html).
+
+Tune in to this [Google Hangout](https://plus.google.com/hangouts/_/calendar/ZmdyZWdnQGdtYWlsLmNvbQ.u15uu7ig62sfj5ulnhd5ft56h0?authuser=0) at 8pm CST/9pm EST. 

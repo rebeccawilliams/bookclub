@@ -5,4 +5,4 @@ date:   2015-05-05 12:00:00
 categories: jekyll update
 ---
 
-We can take notes here on our reading of [The Affirmative Information Policy: Opening Up a Closed City ](/affirmativeinformationpolicy.html).
+We can take notes here on our reading of [The Affirmative Information Policy: Opening Up a Closed City ](/affirmativeinformationpolicy.md).

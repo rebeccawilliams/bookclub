@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Welcome and 'The Affirmative Information Policy'"
+title:  "Welcome and The Affirmative Information Policy: Opening Up a Closed City"
 date:   2015-05-05 12:00:00
 categories: jekyll update
 ---

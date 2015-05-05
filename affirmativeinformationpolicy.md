@@ -940,5 +940,3 @@ challenge as well.
 Interview, community organizer, 1984.
 Catalog available from the Center for Urban Affairs and Policy Research,
 Northwestern University.
-
-# Discussion Notes

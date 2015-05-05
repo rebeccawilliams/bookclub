@@ -1,6 +1,6 @@
 ---
 layout: page
-title:  "The Affirmative Information Policy"
+title:  "Readling List"
 ---
 
 #FG's list

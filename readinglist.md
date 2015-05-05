@@ -1,7 +1,6 @@
 ---
 layout: page
 title:  "Reading List"
-permalink: /readinglist/
 ---
 
 A list for future group reading and also _Further Reading_ generally.

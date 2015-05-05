@@ -1,7 +1,6 @@
 ---
 layout: page
 title:  "The Affirmative Information Policy: Opening Up a Closed City"
-permalink: /affirmativeinformationpolicy/
 ---
 
 Source:

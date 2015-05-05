@@ -17,8 +17,10 @@ baseurl: '/bookclub'
 
 # Author/Organization info to be displayed in the templates
 author:
-  name: Name
-  url: http://localhost:4000
+  name: Forest Gregg
+  url: https://github.com/fgregg
+  name: Rebecca Williams
+  url: https://github.com/rebeccawilliams
 
 # Point the logo URL at a file in your repo or hosted elsewhere by your organization
 logourl:

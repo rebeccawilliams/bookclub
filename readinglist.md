@@ -1,6 +1,6 @@
 ---
 layout: page
-title:  "Readling List"
+title:  "Reading List"
 ---
 
 # FG's list

@@ -8,7 +8,7 @@ P. Clavel and W. Wiewel, eds, *Harold Washington and the Neighbourhoods: Progres
 
 
 # The Affirmative Information Policy: Opening Up a Closed City 
-## JOHN KRETZMANN
+## JOHN KRETZMANN  
 
 The election of
 [Harold Washington](http://en.wikipedia.org/wiki/Harold_Washington)

@@ -3,6 +3,8 @@ layout: page
 title:  "Reading List"
 ---
 
+A list for future group reading and also Further Reading generally.
+
 ### FG's list  
 
 Things I haven't read, but would like to
@@ -30,3 +32,21 @@ Things I've read that I would like to read again
 - Public Relations by Bernays
 - https://hbr.org/1985/11/scenarios-shooting-the-rapids/ar/1
 - From Social Movements to Moral Markets  
+
+### RW's list 
+
+Things I have't read but would like to
+
+- https://en.wikipedia.org/wiki/The_Information:_A_History,_a_Theory,_a_Flood
+- +1 to Cybernetic Revolutionaries
+- protest history generally, e.g. https://en.wikipedia.org/wiki/Parting_of_the_Waters
+- Piketty 
+- history of JSTOR -- I started this and really enjoyed the beginning: http://press.princeton.edu/titles/7678.html
+
+Things I've read that I would like to read again 
+
+- A Pattern Language 
+- Lessig's copyright books 
+- Arendt, generally 
+- Lewis Mumford 
+- lots in: http://books.google.com/books/about/The_City_Reader.html?id=xIBkX8edoewC

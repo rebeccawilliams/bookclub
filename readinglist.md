@@ -18,7 +18,8 @@ Things I haven't read, but would like to
 - Some smart things about CompStat, already read some terrible things
 - Some things about Estonia
 
-Things I've read that I would like to read again
+Things I've read that I would like to read again  
+
 - Public and It's Problems
 - The Phantom Public
 - Cybernetic Revolutionaries
@@ -28,4 +29,4 @@ Things I've read that I would like to read again
 - Clinical vs Statistical Predication
 - Public Relations by Bernays
 - https://hbr.org/1985/11/scenarios-shooting-the-rapids/ar/1
-- From Social Movements to Moral Markets
+- From Social Movements to Moral Markets  

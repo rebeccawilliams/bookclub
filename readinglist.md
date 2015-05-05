@@ -3,7 +3,7 @@ layout: page
 title:  "Reading List"
 ---
 
-A list for future group reading and also Further Reading generally.
+A list for future group reading and also _Further Reading_ generally.
 
 ### FG's list  
 

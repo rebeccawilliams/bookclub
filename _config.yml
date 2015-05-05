@@ -25,7 +25,7 @@ logoalt:
 # List links that should appear in the site sidebar here
 navigation:
 - text: Home
-  url: index
+  url: " "
   internal: true
 - text: "The Affirmative Information Policy: Opening Up a Closed City"
   url: affirmativeinformationpolicy

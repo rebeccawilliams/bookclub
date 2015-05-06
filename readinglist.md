@@ -24,7 +24,7 @@ A list for future group reading and also _Further Reading_ generally. This list 
 - Some things about modern public relations
 - Some things about the Rand Corporation
 - Some things about Herman Kahn and early Hudson Institute
-- Some smart things about microtargeting in commercial marketing and political campaigns
+- Some smart things about microtargeting in commercial marketing and political campaigns (the book here is *The Victory Lab* by Sasha Issenberg)
 - Some things about opposition research, how-tos
 - Some smart things about CompStat, already read some terrible things
 - Some things about Estonia

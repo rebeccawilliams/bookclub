@@ -15,6 +15,7 @@ A list for future group reading and also _Further Reading_ generally. This list 
 - https://hbr.org/1985/11/scenarios-shooting-the-rapids/ar/1
 - http://crookedtimber.org/2012/06/25/seeing-like-a-geek/
 - https://en.wikipedia.org/wiki/The_Information:_A_History,_a_Theory,_a_Flood
+- http://www.amazon.com/Deng-Xiaoping-Transformation-China-Vogel/dp/0674725867
 - http://press.princeton.edu/titles/7678.html
 - http://books.google.com/books/about/The_City_Reader.html?id=xIBkX8edoewC
 - https://en.wikipedia.org/wiki/Parting_of_the_Waters

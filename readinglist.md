@@ -43,6 +43,7 @@ A list for future group reading and also _Further Reading_ generally. This list 
 - Lessig's copyright books 
 - Arendt, generally 
 - Lewis Mumford 
+- [Making of the Second Ghetto](http://press.uchicago.edu/ucp/books/book/chicago/M/bo3627598.html) by Arnold Hirsch
 
 ### Read
 - ["The Affirmative Information Policy: Opening Up a Closed City"](http://civictechbook.club/affirmativeinformationpolicy) by John Kretzmann. Source: P. Clavel and W. Wiewel, eds, Harold Washington and the Neighbourhoods: Progressive City Government in Chicago 1983-1987. New Brunswick, N.J.: Rutgers University Press, 1991.

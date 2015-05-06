@@ -42,6 +42,7 @@ Things I have't read but would like to
 - protest history generally, e.g. https://en.wikipedia.org/wiki/Parting_of_the_Waters
 - Piketty 
 - history of JSTOR -- I started this and really enjoyed the beginning: http://press.princeton.edu/titles/7678.html
+- http://crookedtimber.org/2012/06/25/seeing-like-a-geek/
 
 Things I've read that I would like to read again 
 

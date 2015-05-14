@@ -3,8 +3,6 @@ layout: page
 title:  "Reading List"
 ---
 
-A list for future group reading and also _Further Reading_ generally. This list needs to be cleaned up. 
-
 ### Reading
 - ["Designing Freedom, Regulating a Nation: Socialist Cybernetics in Allende’s Chile*"](http://www.informatics.indiana.edu/edenm/EdenMedinaJLASAugust2006.pdf) by Eden Medina. Source: Journal of Latin American Studies 38 (2006): 571-606. United Kingdom: Cambridge University Press, 2006. 
 

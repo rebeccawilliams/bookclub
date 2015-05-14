@@ -31,10 +31,10 @@ navigation:
   url: readinglist
   internal: true
 - text: "Designing Freedom, Regulating a Nation: Socialist Cybernetics in Allende’s Chile"
-  url: http://www.informatics.indiana.edu/edenm/EdenMedinaJLASAugust2006.pdf
-  internal: false
+  url: 2015-05-05-welcome-and-the-affirmative-information-policy
+  internal: true
 - text: "The Affirmative Information Policy: Opening Up a Closed City"
-  url: affirmativeinformationpolicy
+  url: 2015-05-26-designingfreedomregulatinganation
   internal: true
 
 # Repo list

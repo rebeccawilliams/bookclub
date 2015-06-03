@@ -14,4 +14,4 @@ Tune in at 8pm CST/9pm EST via [Google Hangout](https://plus.google.com/hangouts
 1. What similarities and differences existed between the struggles to attain a *decentralized, worker-participative, anti-bureaucratic* Chile v. a *decentralized, worker-participative, anti-bureaucratic* Cybersyn project?
 2. Medina discusses in detail the "rift between theory and practice" in implementing components of the Cybersyn project. In your view, what primarily caused this rift?
 3. Beer refers to cybernetics as a "neutral language" that "should not develop its own ideology; but it should attest to one." Is Beer's cybernetics neutral? What ideologies did the Cybersyn project attest to?
-4. In the most recent Jacobian, [Eden Medina lists 5 lessons from The Cybersyn Revolution](https://www.jacobinmag.com/2015/04/allende-chile-beer-medina-cybersyn/). What lessons did you take from reading?
+4. In the most recent *Jacobian*, [Eden Medina lists 5 lessons from The Cybersyn Revolution](https://www.jacobinmag.com/2015/04/allende-chile-beer-medina-cybersyn/). What lessons did you take from reading?

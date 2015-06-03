@@ -7,7 +7,7 @@ categories: jekyll update
 
 **Reading: [Designing Freedom, Regulating a Nation: Socialist Cybernetics in Allende’s Chile](http://www.informatics.indiana.edu/edenm/EdenMedinaJLASAugust2006.pdf).**
 
-Tune in at 8pm CST/9pm EST via [Google Hangout](https://plus.google.com/hangouts/_/calendar/d2lsbGlhbXMucmViZWNjYUBnbWFpbC5jb20.44tl9vr5p6gfsnoseaq9r95nm0)
+Tune in at 8pm CST/9pm EST via [Google Hangout](https://plus.google.com/hangouts/_/calendar/d2lsbGlhbXMucmViZWNjYUBnbWFpbC5jb20.44tl9vr5p6gfsnoseaq9r95nm0).
 
 **Questions to lead discussion:**
 

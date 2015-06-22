@@ -4,7 +4,7 @@ title:  "Reading List"
 ---
 
 ### Reading
-- ["Designing Freedom, Regulating a Nation: Socialist Cybernetics in Allende’s Chile*"](http://www.informatics.indiana.edu/edenm/EdenMedinaJLASAugust2006.pdf) by Eden Medina. Source: Journal of Latin American Studies 38 (2006): 571-606. United Kingdom: Cambridge University Press, 2006. 
+- ["The Negro Family: The Case for National Action" (the 1965 Moynihan Report)](https://web.stanford.edu/~mrosenfe/Moynihan%27s%20The%20Negro%20Family.pdf) by Daniel Patrick Moynihan. Source: Office of Policy and Planning. U.S. Department of Labor, March 1965.  
 
 ### To Read
 
@@ -48,6 +48,7 @@ title:  "Reading List"
 - IBM and the Holocaust
 
 ### Read
+- ["Designing Freedom, Regulating a Nation: Socialist Cybernetics in Allende’s Chile*"](http://www.informatics.indiana.edu/edenm/EdenMedinaJLASAugust2006.pdf) by Eden Medina. Source: Journal of Latin American Studies 38 (2006): 571-606. United Kingdom: Cambridge University Press, 2006. 
 - ["The Affirmative Information Policy: Opening Up a Closed City"](http://civictechbook.club/affirmativeinformationpolicy) by John Kretzmann. Source: P. Clavel and W. Wiewel, eds, Harold Washington and the Neighbourhoods: Progressive City Government in Chicago 1983-1987. New Brunswick, N.J.: Rutgers University Press, 1991.
 
 [Submit a Reading](https://github.com/rebeccawilliams/bookclub/blob/gh-pages/readinglist.md)

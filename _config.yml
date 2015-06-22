@@ -30,8 +30,8 @@ navigation:
 - text: Reading List
   url: readinglist
   internal: true
-- text: "The Negro Family: The Case for National Action aka the Moynihan Report"
-  url: the-moynihan-report
+- text: "The Negro Family: The Case for National Action (the 1965 Moynihan Report)"
+  url: the-1965-moynihan-report
   internal: true
 - text: "Designing Freedom, Regulating a Nation: Socialist Cybernetics in Allende’s Chile"
   url: designing-freedom-regulating-a-nation

@@ -8,11 +8,11 @@ title:  "Reading List"
 
 ### To Read
 
-- http://newleftreview.org/II/91/evgeny-morozov-socialize-the-data-centres
-- http://joe-flood.com/aboutthefires/
-- http://www.aaronland.info/weblog/2015/02/24/effort/
-- http://www.culturemachine.net/index.php/cm/article/view/511/526
-- https://hbr.org/1985/11/scenarios-shooting-the-rapids/ar/1
+- ["About The Fires"](http://joe-flood.com/aboutthefires/) by Joe Flood
+- ["The Holodeck of Motive"](http://www.aaronland.info/weblog/2015/02/24/effort/) by Aaron Straup Cope.
+- ["Red PLenty Platforms"](http://www.culturemachine.net/index.php/cm/article/view/511/526) by Nick Dyer-Witheford. Source: Culture Machine Vol 14 (2013).
+- ["Scenarios: Shooting the Rapids"](https://hbr.org/1985/11/scenarios-shooting-the-rapids/ar/1) by Pierre Wack. Source: Harvard Business Review November 1985.
+- ["Socialize the Data Centres!"](http://newleftreview.org/II/91/evgeny-morozov-socialize-the-data-centres) by Evgeny Morozov. Source: New Left Review 91, January-February 2015
 - http://crookedtimber.org/2012/06/25/seeing-like-a-geek/
 - https://en.wikipedia.org/wiki/The_Information:_A_History,_a_Theory,_a_Flood
 - http://www.amazon.com/Deng-Xiaoping-Transformation-China-Vogel/dp/0674725867

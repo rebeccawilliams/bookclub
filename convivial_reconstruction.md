@@ -1,5 +1,7 @@
 #Convivial Reconstruction
 
+http://monoskop.org/images/7/71/Illich_Ivan_Tools_for_Conviviality.pdf
+
 The symptoms of accelerated crisis are widely recognized. Multiple attempts have been made to explain them. I believe that this crisis is rooted in a major twofold experiment which has failed, and I claim that the resolution of the crisis begins with a recognition of the failure. For a hundred years we have tried to make machines work for men and to school men for life in their service. Now it turns out that machines do not "work" and that people cannot be schooled for a life at the service of machines. The hypothesis on which the experiment was built must now be discarded. The hypothesis was that machines can replace slaves. The evidence shows that, used for this purpose, machines enslave men. Neither a dictatorial proletariat nor a leisure mass can escape the dominion of constantly expanding industrial tools.
 
 The crisis can be solved only if we learn to invert the present deep structure of tools; if we give people tools that guarantee their right to work with high, independent efficiency, thus simultaneously eliminating the need for either slaves or masters and enhancing each person's range of freedom. People need new tools to work with rather than tools that "work" for them. They need technology to make the most of the energy and imagination each has, rather than more well-programmed energy slaves.

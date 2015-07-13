@@ -1,5 +1,6 @@
 #Convivial Reconstruction
 
+
 http://monoskop.org/images/7/71/Illich_Ivan_Tools_for_Conviviality.pdf
 
 The symptoms of accelerated crisis are widely recognized. Multiple
@@ -638,7 +639,7 @@ maintained. Control over larger amounts of physical energy was the
 result of psychic manipulation or of political domination.
 
 Men did not need power tools to build the Mexican pyramids of
-Teotihuc‡n or the Philippine rice terraces of IbaguŽ. Their muscles
+Teotihuacán or the Philippine rice terraces of Ibagué. Their muscles
 provided the force to raise St. Peter's and to dig the channels of
 Angkor Vat. Runners carried the messages between Caesar's generals and
 between village chiefs and Inca planners. Hands and feet moved the
@@ -662,7 +663,7 @@ with their muscles than with their horsepower. All the energy tapped
 from the environment to build Athens and Florence did not contribute
 as much controlled power to these classical societies as did their
 men. Only when man lit fires to turn cities into ruins or jungles into
-swiddens did he release--but certainly not control--energies that
+swiddens did he release—but certainly not control—energies that
 overwhelmed the power of the people who used them.
 
 The amount of physical power available to old societies can be
@@ -766,7 +767,7 @@ Power</i> points out that one particular enterprise, namely mining,
 > organic world of the farmer and the craftsman, and tbe spiritual
 > world of the Church, the University and the City. In its destruction
 > of the environment and its indifference to the risks to human life,
-> mining closely resembles warfare--through likewise it often, through
+> mining closely resembles warfare—through likewise it often, through
 > its confrontation of danger and death, brings into existence a
 > tough, self-respecting personality . . . the soldier at his
 > best. But the destructive animus of mining and its punishing routine
@@ -783,7 +784,7 @@ expressed a painful experience to which man is subjected; only in the
 sixteenth century did it become possible to use the verb
 <i>trabajar</i> interchangeably with <i>laborar</i> and <i>sudar</i>
 on the job. Equally significant is what happened in the English
-language. Things began to *work*--first medicines (1600) and then
+language. Things began to *work*—first medicines (1600) and then
 physical tools (1650), even though these were not yet tools driven by
 any outside power. The alchemist's dream of making a homunculus in the
 test tube slowly took the shape of creating robots to *work* for
@@ -808,7 +809,7 @@ New power meant a new relation to time. The lending of money against
 interest was considered 'against nature' by the Church: money
 naturally was a means of exchange to buy necessities, not a capital
 that could *work* or bear fruits. During the seventeenth century even
-the Church abandoned this view-though reluctantly--to accept the fact
+the Church abandoned this view-though reluctantly—to accept the fact
 that Christians had become capitalist merchants. Time became like
 money: I now can *have* a few hours before lunch; how shall I *spend*
 time? . . I am *short* of time so I can't *afford* to *spend* that
@@ -831,7 +832,7 @@ for the invention of new sources of power. The steam engine was a
 product of the Industrial Revolution rather than the cause of
 it. Power plants soon became mobile, and with the railroad the Iron
 Age and the Industrial Revolution came to an end. Industrial ways
-became the status quo.
+became the <i>status quo</i>.
 
 Immense new sources of power were tapped during the twentieth century,
 and much of this power became self-governing. Man has now been almost
@@ -1009,8 +1010,8 @@ professional. Lifelong familiarity with the specific dangers of a
 specific remedy is the best preparation for accepting or rejecting it
 in time of crisis.
 
-Take another tool--transportation--as an example. Under President
-C‡rdenas in the early thirties, Mexico developed a modern system of
+Take another tool—transportation—as an example. Under President
+Cárdenas in the early thirties, Mexico developed a modern system of
 transportation. Within a few years about 80 percent of the population
 had gained access to the advantages of the automobile. Most important,
 villages had been connected by dirt roads or tracks. Heavy, simple,
@@ -1040,7 +1041,7 @@ In exchange for an occasional ride on an upholstered seat in an
 air-conditioned bus, the common man has lost much of the mobility the
 old system gave him, without gaining any new freedom. Research done in
 two typical large states of Mexico-one dominated by deserts, the other
-by mountains and lush growth--confirms this conclusion. Less than one
+by mountains and lush growth—confirms this conclusion. Less than one
 percent of the population in either state traveled a distance of over
 fifteen miles in any one hour during 1970. More appropriate pushcarts
 and bicycles, both motorized when needed, would have presented a
@@ -1068,7 +1069,7 @@ of mental sickness, so is the pretense of higher speed.
 The railroads reflected the class societies they served simply by
 putting different fares on the same speed. But when a society commits
 itself to higher speeds, the speedometer becomes an indicator of
-social class. Any peasant could accompany L‡zaro C‡rdenas on
+social class. Any peasant could accompany Lázaro Cárdenas on
 horseback. Today only his personal staff can accompany a modern
 governor in his private helicopter. In capitalist countries how often
 you can cover great distances is determined by what your can pay. In
@@ -1091,24 +1092,24 @@ into time money economy, and swallows much of the available cash. Pt
 is true that modern transportation does incorporate a region into the
 world market. It also trains the inhabitants for the consumption of
 foreign goods and the acceptance of foreign values. For example,
-throughout history Thailand was known for its *klongs*. These canals
-crisscrossed the country; people, rice, and tax collectors all moved
-easily along them. Some villages were cut off during the dry season,
-but their seasonal rhythm of life turned this periodic isolation into
-an occasion for meditation and festivities. A society that can afford
-long holidays and fill them with activities is certainly not
-poor. During time Past half-decade major *klongs* were filled in to
-build roads. Since bus drivers are paid by the number of miles they
-can cover in a day, and since cars are still few, the Thais for a
-short while will be able to circulate in their country at world-record
-bus speeds. They will pay with the destruction of waterways that took
-millennia to build. The economists argue that busses and trucks pump
-more money per year through the economy. They do, but at the cost of
-depriving most Thais of the independence which their sleek rice boats
-once granted each family. Of course, car owners could never have
-competed with rice boats unless time World Bank had financed roads for
-them and time Thai government had made new laws that permitted them to
-profane the *klongs*.
+throughout history Thailand was known for its <i>klongs</i>. These
+canals crisscrossed the country; people, rice, and tax collectors all
+moved easily along them. Some villages were cut off during the dry
+season, but their seasonal rhythm of life turned this periodic
+isolation into an occasion for meditation and festivities. A society
+that can afford long holidays and fill them with activities is
+certainly not poor. During time Past half-decade major <i>klongs</i>
+were filled in to build roads. Since bus drivers are paid by the
+number of miles they can cover in a day, and since cars are still few,
+the Thais for a short while will be able to circulate in their country
+at world-record bus speeds. They will pay with the destruction of
+waterways that took millennia to build. The economists argue that
+busses and trucks pump more money per year through the economy. They
+do, but at the cost of depriving most Thais of the independence which
+their sleek rice boats once granted each family. Of course, car owners
+could never have competed with rice boats unless time World Bank had
+financed roads for them and time Thai government had made new laws
+that permitted them to profane the <i>klongs</i>.
 
 The building trades are another example of an industry that modern
 nation-states impose on their societies, thereby modernizing the
@@ -1163,8 +1164,8 @@ responsibility of the owner. By 1970 the proportion had gone down to
 11 percent. Meanwhile, *housing* had been discovered as a major
 *problem*. The technological capability to produce tools and materials
 that favor self-building had increased in the intervening decades, but
-social arrangements--like unions, codes, mortgage rules, and
-markets-had turned against this choice.
+social arrangements—like unions, codes, mortgage rules, and
+markets—had turned against this choice.
 
 Most people do not feel at home unless a significant proportion of the
 value of their houses is the result of the input of their own
@@ -1175,7 +1176,7 @@ elements, some convivial tools ranging from power drills to mechanized
 pushcarts, and, probably, to some limited credit. Such an inversion of
 the present policy could give a post-industrial society modern homes
 almost as desirable for its members as those which were standard for
-the old Mayas and are still the rule in Yucat‡n.
+the old Mayas and are still the rule in Yucatán.
 
 Our present tools are engineered to deliver professional
 energies. Such energies come in quanta. Less than a quantum cannot be

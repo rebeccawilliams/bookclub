@@ -438,7 +438,7 @@ and they allow their designers to determine the meaning and
 expectations of others. Most tools today cannot be used in a convivial
 fashion.
 
-<i>Hand tools>/i> are those which adapt man's metabolic energy to a
+<i>Hand tools</i> are those which adapt man's metabolic energy to a
 specific task. They can be multipurpose, like some primitive hammers
 or good modern pocket knives, or again they can be highly specific in
 design such as spindles, looms, or pedal-driven sewing machines, and
@@ -755,8 +755,8 @@ grain-processing protected the guildsman, pro vided him with extra
 holidays, and still maximized the services that he could render to his
 town. Guilds were neither unions nor professional associations.
 
-Lewis Mumford in his The Myth of the Machine: The Pentagon of Power
-points out that one particular enterprise, namely mining,
+Lewis Mumford in his <i>The Myth of the Machine: The Pentagon of
+Power</i> points out that one particular enterprise, namely mining,
 
 > set the pattern for later modes of mechanizadon by its callous
 > disregard for human factors, by its indifference to the pollution
@@ -775,45 +775,45 @@ points out that one particular enterprise, namely mining,
 > negative social results offset the mechanical gains.
 
 This new attitude toward gainful activity is well reflected in the
-introduction of a new term to designate it. Tripaliare meant to
-torture on the trepalium, which was first mentioned in the sixth
-century as an instrument of impalement made out of three wooden
+introduction of a new term to designate it. <i>Tripaliare</i> meant to
+torture on the <i>trepalium</i>, which was first mentioned in the
+sixth century as an instrument of impalement made out of three wooden
 sticks. By the twelfth century the word in both French and Spanish
 expressed a painful experience to which man is subjected; only in the
-sixteenth century did it become possible to use the verb trabajar
-interchangeably with laborar and sudar on the job. Equally significant
-is what happened in the English language. Things began to work--first
-medicines (1600) and then physical tools (1650), even though these
-were not yet tools driven by any outside power. The alchemist's dream
-of making a homunculus in the test tube slowly took the shape of
-creating robots to work for man, and to educate men to work alongside
-them. The ideology of an industrial organization of tools and a
-capitalist organization of the economy preceded by many centuries what
-is usually called the Industrial Revolution. On Baconian premises
-Europeans began, according to Mumford, to save time, shrink space,
-augment power, multiply goods, over-throw organic norms and displace
-real organisms with mechanisms that stimulated them or vastly
-magnified some single function they performed. All these imperatives,
-which have become the groundwork of science as technology in our
-present society, seem axiomatic and absolute only because they remain
-unexamined. The same change of mind appears also in a transfer from
-ritual regularity to mechanical regularity with an emphasis on
-time-keeping, space-measuring, account-keeping, thus translating
-concrete objects and complex events into abstract
-quantities. According to Mumford, it was this capitalistic devotion to
-repetitive order that helped undermine the unmeasurable personal
-balance between the workman and his tools.
+sixteenth century did it become possible to use the verb
+<i>trabajar</i> interchangeably with <i>laborar</i> and <i>sudar</i>
+on the job. Equally significant is what happened in the English
+language. Things began to *work*--first medicines (1600) and then
+physical tools (1650), even though these were not yet tools driven by
+any outside power. The alchemist's dream of making a homunculus in the
+test tube slowly took the shape of creating robots to *work* for
+man, and to educate men to *work* alongside them. The ideology of
+an industrial organization of tools and a capitalist organization of
+the economy preceded by many centuries what is usually called the
+Industrial Revolution. On Baconian premises Europeans began, according
+to Mumford, to save time, shrink space, augment power, multiply goods,
+over-throw organic norms and displace real organisms with mechanisms
+that stimulated them or vastly magnified some single function they
+performed. All these imperatives, which have become the groundwork of
+science as technology in our present society, seem axiomatic and
+absolute only because they remain unexamined. The same change of mind
+appears also in a transfer from ritual regularity to mechanical
+regularity with an emphasis on time-keeping, space-measuring,
+account-keeping, thus translating concrete objects and complex events
+into abstract quantities. According to Mumford, it was this
+capitalistic devotion to repetitive order that helped undermine the
+unmeasurable personal balance between the workman and his tools.
 
 New power meant a new relation to time. The lending of money against
 interest was considered 'against nature' by the Church: money
 naturally was a means of exchange to buy necessities, not a capital
-that could work or bear fruits. During the seventeenth century even
+that could *work* or bear fruits. During the seventeenth century even
 the Church abandoned this view-though reluctantly--to accept the fact
 that Christians had become capitalist merchants. Time became like
-money: I now can have a few hours before lunch; how shall I spend
-time? . . I am short of time so I can't afford to spend that much time
-on a committee; it's not worth the time . . . It world be a waste of
-time; I'd rather save an hour.
+money: I now can *have* a few hours before lunch; how shall I *spend*
+time? . . I am *short* of time so I can't *afford* to *spend* that
+much time on a committee; it's not *worth* the time . . . It world be
+a *waste* of time; I'd rather *save* an hour.
 
 Scientists began to consider man as a power source. They sought to
 measure the maximum daily exertion that might be expected from a man
@@ -869,18 +869,16 @@ inefficient industrial machines in the early periods of steam.
 I have described three types of institutional arrangements within
 which tools can be used. Certain tools can be used effectively within
 only one of these arrangements. There are tools which can be used
-normally for fully satisfying, imaginative, and independent work;
-others tend to be used primarily in activities best labeled as labor;
-and, finally, certain machines can only be operated. The same can be
+normally for fully satisfying, imaginative, and independent *work*;
+others tend to be used primarily in activities best labeled as *labor*;
+and, finally, certain machines can only be *operated*. The same can be
 said about physical artifacts and about the set of rules that define
 formal institutional arrangements. Cars are machines that call for
 highways, and highways pretend to be public utilities while in fact
 they are discriminatory devices. Compulsory schools constitute a huge
 bureaucratic system; no matter how convivially a teacher tries to
 conduct his class, his pupils learn through him to which class they
-belong.
-
-Cars operate on highways as teachers operate in schools. Only in a
+belong. Cars *operate* on highways as teachers operate in schools. Only in a
 very limited sense can what the truck driver and the teacher do be
 called labor. Only exceptionally will a teacher feel that his
 operations within the school system do not directly interfere with his
@@ -961,7 +959,7 @@ colleagues for VD. She was acquitted on a technicality by the judge
 when expert counsel compared her performance with that of the
 U.S. Health Service. Nowhere in the U.S.A. can her achievement be
 considered 'standard,' because she succeeded in making retests on all
-her patients six weeks after their first treatment. Progress should
+her patients six weeks after their first treatment. Progress *should*
 mean growing competence in self-care rather than growing dependence.
 
 The possibilities of lay therapy also run up against our commitment to
@@ -1093,13 +1091,13 @@ into time money economy, and swallows much of the available cash. Pt
 is true that modern transportation does incorporate a region into the
 world market. It also trains the inhabitants for the consumption of
 foreign goods and the acceptance of foreign values. For example,
-throughout history Thailand was known for its klongs. These canals
+throughout history Thailand was known for its *klongs*. These canals
 crisscrossed the country; people, rice, and tax collectors all moved
 easily along them. Some villages were cut off during the dry season,
 but their seasonal rhythm of life turned this periodic isolation into
 an occasion for meditation and festivities. A society that can afford
 long holidays and fill them with activities is certainly not
-poor. During time Past half-decade major klongs were filled in to
+poor. During time Past half-decade major *klongs* were filled in to
 build roads. Since bus drivers are paid by the number of miles they
 can cover in a day, and since cars are still few, the Thais for a
 short while will be able to circulate in their country at world-record
@@ -1110,7 +1108,7 @@ depriving most Thais of the independence which their sleek rice boats
 once granted each family. Of course, car owners could never have
 competed with rice boats unless time World Bank had financed roads for
 them and time Thai government had made new laws that permitted them to
-profane the klongs.
+profane the *klongs*.
 
 The building trades are another example of an industry that modern
 nation-states impose on their societies, thereby modernizing the
@@ -1137,13 +1135,13 @@ funds meant to improve the living quarters of the poor are monopolized
 for the building of new towns next to the provincial and regional
 capitals where government employees, unionized workers, and people
 with good connections can live. These are all people who are employed
-in the modern sector of the economy, that is, people who hold
+in the modern sector of the economy, that is, people who *hold*
 jobs. They can be easily distinguished from other Mexicans because
-they have learned to speak about their trabajo as a noun, while the
-unemployed or the occasionally employed or those who live near the
+they have learned to speak about their <i>trabajo</i> as a noun, while
+the unemployed or the occasionally employed or those who live near the
 subsistence level do not use the noun form when they go to work.
 
-These people, who have work, not only get subsidies for the building
+These people, who *have* work, not only get subsidies for the building
 of their homes; the entire public-service sector is rearranged and
 developed to serve them. In Mexico City it has been estimated that 10
 percent of the people use 50 percent of the household water, and on
@@ -1162,8 +1160,8 @@ also happened in Massachusetts. In 1945, 32 percent of all one-family
 housing units in Massachusetts were still self-built: either built by
 their owners from foundation to roof or constructed under the full
 responsibility of the owner. By 1970 the proportion had gone down to
-11 percent. Meanwhile, housing had been discovered as a major
-problem. The technological capability to produce tools and materials
+11 percent. Meanwhile, *housing* had been discovered as a major
+*problem*. The technological capability to produce tools and materials
 that favor self-building had increased in the intervening decades, but
 social arrangements--like unions, codes, mortgage rules, and
 markets-had turned against this choice.
@@ -1324,8 +1322,8 @@ their constituents for the day when a majority of voters will choose
 limits for all rather than promises of equal consumption. It appears
 equally hopeless to expect inverse insight from humanitarian liberals
 who have come to feel that feeding the starving millions is their
-vocation. They forget that people eat, amid that people die when they
-are fed. These self-appointed keepers of their brothers make other
+vocation. They forget that people *eat*, amid that people die when they
+are *fed*. These self-appointed keepers of their brothers make other
 people's survival depend on their own growing efficiency. By shifting
 from the production of guns to the production of grains they reduce
 their sense of guilt amid increase their sense of power. They are

@@ -41,14 +41,11 @@ _See our [Discussions](/)._
 - ["The Politics of Information Reform in Chicago: An Experiment in Democratization" by John P Kretzmann](https://www.worldcat.org/title/politics-of-information-reform-in-chicago-an-experiment-in-democratization/oclc/14881489) Source: Ph. D. (Sociology)--Northwestern University, 1985.
 - ["The Public and its Problems" by John Dewey](https://en.wikipedia.org/wiki/The_Public_and_its_Problems) Source: Henry Holt and Company, 1927.
 - Some things about information systems within corporations, maybe something about Toyota and Walmart 
-- Some things about modern public relations
-- Some things about the Rand Corporation
 - Some things about Herman Kahn and early Hudson Institute
 - Some smart things about microtargeting in commercial marketing and political campaigns
 - Some things about opposition research, how-tos
 - Some smart things about CompStat, already read some terrible things
 - Some things about Estonia
 - Some things about IBM and the Holocaust
-- Some things about Dewey
 
 #### [Submit a Reading, Correct a Citation](https://github.com/rebeccawilliams/bookclub/blob/gh-pages/readinglist.md)

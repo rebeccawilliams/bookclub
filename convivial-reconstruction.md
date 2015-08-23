@@ -3,11 +3,11 @@ layout: page
 title:  "Convivial Reconstruction"
 ---
 
-_"Tools for Conviviality"_ by Ivan Illich. Source: [© Ivan lllich, 1973](http://monoskop.org/images/7/71/Illich_Ivan_Tools_for_Conviviality.pdf). Harper & Row in their World
+_"Tools for Conviviality"_ by Ivan Illich. Source: [© Ivan lllich 1973](http://monoskop.org/images/7/71/Illich_Ivan_Tools_for_Conviviality.pdf). Harper & Row in their World
 Perspective Series, edited by Ruth Nanda Anshen, 1973.
 
-# Convivial Reconstruction
-## Ivan lllich
+# Convivial Reconstruction  
+## Ivan lllich  
 
 The symptoms of accelerated crisis are widely recognized. Multiple
 attempts have been made to explain them. I believe that this crisis is

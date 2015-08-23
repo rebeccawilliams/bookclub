@@ -6,12 +6,13 @@ title:  "Reading List"
 ### Currently Reading: [“The Drama! Teen Conflict, Gossip, and Bullying in Networked Publics” by Alice E. Marwick and Danah Boyd](http://papers.ssrn.com/sol3/papers.cfm?abstract_id=1926349)
 
 ### ✔ Read 
-_See our [Discussions](/)._
 
 - [Convivial Reconstruction from “Tools for Conviviality” by Ivan Illich](http://civictechbook.club/convivial-reconstruction) Source: Fontana/Collins, 1973.
 - ["The Negro Family: The Case for National Action" (the 1965 Moynihan Report) by Daniel Patrick Moynihan](https://web.stanford.edu/~mrosenfe/Moynihan%27s%20The%20Negro%20Family.pdf) Source: Office of Policy and Planning. U.S. Department of Labor, March 1965.
 - ["Designing Freedom, Regulating a Nation: Socialist Cybernetics in Allende’s Chile*"  by Eden Medina](http://www.informatics.indiana.edu/edenm/EdenMedinaJLASAugust2006.pdf) Source: Journal of Latin American Studies 38 (2006): 571-606. United Kingdom: Cambridge University Press, 2006.
 - ["The Affirmative Information Policy: Opening Up a Closed City" by John Kretzman](http://civictechbook.club/affirmativeinformationpolicy) Source: P. Clavel and W. Wiewel, eds, Harold Washington and the Neighbourhoods: Progressive City Government in Chicago 1983-1987. New Brunswick, N.J.: Rutgers University Press, 1991.
+
+_See our [Discussions](/)._
 
 ### Should we read these together?
 

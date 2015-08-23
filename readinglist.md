@@ -6,8 +6,7 @@ title:  "Reading List"
 ### Currently Reading: [“The Drama! Teen Conflict, Gossip, and Bullying in Networked Publics” by Alice E. Marwick and Danah Boyd](http://papers.ssrn.com/sol3/papers.cfm?abstract_id=1926349)
 
 ### ✔ Read 
-
-##### See our [Discussions](/).
+_See our [Discussions](/)._
 
 - [Convivial Reconstruction from “Tools for Conviviality” by Ivan Illich](http://civictechbook.club/convivial-reconstruction) Source: Fontana/Collins, 1973.
 - ["The Negro Family: The Case for National Action" (the 1965 Moynihan Report) by Daniel Patrick Moynihan](https://web.stanford.edu/~mrosenfe/Moynihan%27s%20The%20Negro%20Family.pdf) Source: Office of Policy and Planning. U.S. Department of Labor, March 1965.

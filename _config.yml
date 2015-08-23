@@ -30,7 +30,7 @@ navigation:
 - text: Reading List
   url: readinglist
   internal: true  
-- text: "Updates"
+- text: "Join the Club"
   url: https://groups.google.com/forum/#!forum/civictechbookclub
   internal: false    
 

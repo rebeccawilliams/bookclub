@@ -30,6 +30,9 @@ navigation:
 - text: Reading List
   url: readinglist
   internal: true  
+- text: "Tools for Conviviality"
+  url: convivial-reconstruction
+  internal: true  
 - text: "The Negro Family: The Case for National Action (the 1965 Moynihan Report)"
   url: the-1965-moynihan-report
   internal: true

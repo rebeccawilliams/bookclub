@@ -5,7 +5,7 @@ title:  "Reading List"
 
 ### Currently Reading: [“The Drama! Teen Conflict, Gossip, and Bullying in Networked Publics” by Alice E. Marwick and Danah Boyd](http://papers.ssrn.com/sol3/papers.cfm?abstract_id=1926349)
 
-### ✅ Read 
+### ✔ Read 
 _See our [Discussions](/index)._
 
 - [Convivial Reconstruction by Ivan Illich](http://civictechbook.club/convivial-reconstruction) _Source: “Tools for Conviviality” © Ivan lllich 1973._

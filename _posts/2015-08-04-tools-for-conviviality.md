@@ -1,0 +1,10 @@
+---
+layout: post
+title:  "Tools for Conviviality"
+date:   2015-05-05 12:00:00
+categories: jekyll update
+---
+
+**Reading: ["Tools for Conviviality" by Ivan Illich](/affirmativeinformationpolicy.html).**
+
+Tune in at 8pm CST/9pm EST via [Google Hangout](https://plus.google.com/hangouts/_/calendar/ZmdyZWdnQGdtYWlsLmNvbQ.uaipecg8anfjp0nqb5g5idob1c?authuser=0).

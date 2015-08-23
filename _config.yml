@@ -33,18 +33,6 @@ navigation:
 - text: "Updates"
   url: https://groups.google.com/forum/#!forum/civictechbookclub
   internal: false    
-- text: "Tools for Conviviality"
-  url: convivial-reconstruction
-  internal: true  
-- text: "The Negro Family: The Case for National Action (the 1965 Moynihan Report)"
-  url: the-1965-moynihan-report
-  internal: true
-- text: "Designing Freedom, Regulating a Nation: Socialist Cybernetics in Allende’s Chile"
-  url: designing-freedom-regulating-a-nation
-  internal: true
-- text: "The Affirmative Information Policy: Opening Up a Closed City"
-  url: welcome-and-the-affirmative-information-policy
-  internal: true
 
 # Repo list
 # List repos that you would like to appear on the homepage here

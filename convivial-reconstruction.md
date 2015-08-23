@@ -5,7 +5,7 @@ title:  "Convivial Reconstruction"
 
 Source: [_"Tools for Conviviality"_ © Ivan lllich 1973](http://monoskop.org/images/7/71/Illich_Ivan_Tools_for_Conviviality.pdf).
 
-# Tools for Conviviality
+# Convivial Reconstruction
 
 ## IVAN lLLICH
 

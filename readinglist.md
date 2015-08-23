@@ -3,10 +3,7 @@ layout: page
 title:  "Reading List"
 ---
 
-[Submit a Reading](https://github.com/rebeccawilliams/bookclub/blob/gh-pages/readinglist.md)
-
-### Currently Reading 
-[“The Drama! Teen Conflict, Gossip, and Bullying in Networked Publics”](http://papers.ssrn.com/sol3/papers.cfm?abstract_id=1926349) by Alice E. Marwick and Danah Boyd.  
+### Currently Reading: [“The Drama! Teen Conflict, Gossip, and Bullying in Networked Publics”](http://papers.ssrn.com/sol3/papers.cfm?abstract_id=1926349) by Alice E. Marwick and Danah Boyd.  
 
 ### Read (see [Discussions](/index))
 
@@ -14,7 +11,8 @@ title:  "Reading List"
 - ["Designing Freedom, Regulating a Nation: Socialist Cybernetics in Allende’s Chile*"](http://www.informatics.indiana.edu/edenm/EdenMedinaJLASAugust2006.pdf) by Eden Medina. Source: Journal of Latin American Studies 38 (2006): 571-606. United Kingdom: Cambridge University Press, 2006. 
 - ["The Affirmative Information Policy: Opening Up a Closed City"](http://civictechbook.club/affirmativeinformationpolicy) by John Kretzmann. Source: P. Clavel and W. Wiewel, eds, Harold Washington and the Neighbourhoods: Progressive City Government in Chicago 1983-1987. New Brunswick, N.J.: Rutgers University Press, 1991.
 
-### To Read or Not to Read
+### Should we read these together?
+[Submit a Reading](https://github.com/rebeccawilliams/bookclub/blob/gh-pages/readinglist.md)
 
 - ["About The Fires"](http://joe-flood.com/aboutthefires/) by Joe Flood
 - ["The Holodeck of Motive"](http://www.aaronland.info/weblog/2015/02/24/effort/) by Aaron Straup Cope.

@@ -3,8 +3,16 @@ layout: page
 title:  "Reading List"
 ---
 
-### Reading
-- ["The Negro Family: The Case for National Action" (the 1965 Moynihan Report)](https://web.stanford.edu/~mrosenfe/Moynihan%27s%20The%20Negro%20Family.pdf) by Daniel Patrick Moynihan. Source: Office of Policy and Planning. U.S. Department of Labor, March 1965.  
+[Submit a Reading](https://github.com/rebeccawilliams/bookclub/blob/gh-pages/readinglist.md)
+
+### Currently Reading 
+[“The Drama! Teen Conflict, Gossip, and Bullying in Networked Publics”](http://papers.ssrn.com/sol3/papers.cfm?abstract_id=1926349) by Alice E. Marwick and Danah Boyd.  
+
+### Read
+
+- ["The Negro Family: The Case for National Action" (the 1965 Moynihan Report)](https://web.stanford.edu/~mrosenfe/Moynihan%27s%20The%20Negro%20Family.pdf) by Daniel Patrick Moynihan. Source: Office of Policy and Planning. U.S. Department of Labor, March 1965.
+- ["Designing Freedom, Regulating a Nation: Socialist Cybernetics in Allende’s Chile*"](http://www.informatics.indiana.edu/edenm/EdenMedinaJLASAugust2006.pdf) by Eden Medina. Source: Journal of Latin American Studies 38 (2006): 571-606. United Kingdom: Cambridge University Press, 2006. 
+- ["The Affirmative Information Policy: Opening Up a Closed City"](http://civictechbook.club/affirmativeinformationpolicy) by John Kretzmann. Source: P. Clavel and W. Wiewel, eds, Harold Washington and the Neighbourhoods: Progressive City Government in Chicago 1983-1987. New Brunswick, N.J.: Rutgers University Press, 1991.
 
 ### To Read
 
@@ -19,36 +27,3 @@ title:  "Reading List"
 - http://press.princeton.edu/titles/7678.html
 - http://books.google.com/books/about/The_City_Reader.html?id=xIBkX8edoewC
 - https://en.wikipedia.org/wiki/Parting_of_the_Waters
-- Tools for Conviviality
-- Some things about information systems within corporations, maybe something about Toyota and Walmart 
-- Some things about modern public relations
-- Some things about the Rand Corporation
-- Some things about Herman Kahn and early Hudson Institute
-- Some smart things about microtargeting in commercial marketing and political campaigns
-- Some things about opposition research, how-tos
-- Some smart things about CompStat, already read some terrible things
-- Some things about Estonia
-- Public and It's Problems
-- The Phantom Public
-- From Counterculture to Cyberculture
-- Affective Disorders of the State
-- The Politics of Information Reform in Chicago: An experiment in decentralization
-- Clinical vs Statistical Predication
-- Public Relations by Bernays
-- From Social Movements to Moral Markets  
-- protest history
-- Piketty 
-- history of JSTOR 
-- A Pattern Language 
-- Lessig's copyright books 
-- Arendt, generally 
-- Lewis Mumford 
-- Dewey
-- Seeing Like a State
-- IBM and the Holocaust
-
-### Read
-- ["Designing Freedom, Regulating a Nation: Socialist Cybernetics in Allende’s Chile*"](http://www.informatics.indiana.edu/edenm/EdenMedinaJLASAugust2006.pdf) by Eden Medina. Source: Journal of Latin American Studies 38 (2006): 571-606. United Kingdom: Cambridge University Press, 2006. 
-- ["The Affirmative Information Policy: Opening Up a Closed City"](http://civictechbook.club/affirmativeinformationpolicy) by John Kretzmann. Source: P. Clavel and W. Wiewel, eds, Harold Washington and the Neighbourhoods: Progressive City Government in Chicago 1983-1987. New Brunswick, N.J.: Rutgers University Press, 1991.
-
-[Submit a Reading](https://github.com/rebeccawilliams/bookclub/blob/gh-pages/readinglist.md)

@@ -24,12 +24,12 @@ logoalt:
 # Navigation
 # List links that should appear in the site sidebar here
 navigation:
-- text: Home
+- text: Discussions
   url: " "
   internal: true
 - text: Reading List
   url: readinglist
-  internal: true
+  internal: true  
 - text: "The Negro Family: The Case for National Action (the 1965 Moynihan Report)"
   url: the-1965-moynihan-report
   internal: true

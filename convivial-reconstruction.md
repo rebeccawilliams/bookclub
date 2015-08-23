@@ -7,6 +7,7 @@ _"Tools for Conviviality"_ by Ivan Illich. Source: [© Ivan lllich 1973](http://
 Perspective Series, edited by Ruth Nanda Anshen, 1973.
 
 # Convivial Reconstruction  
+
 ## Ivan lllich  
 
 The symptoms of accelerated crisis are widely recognized. Multiple

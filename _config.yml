@@ -24,7 +24,7 @@ logoalt:
 # Navigation
 # List links that should appear in the site sidebar here
 navigation:
-- text: Discussions
+- text: Home
   url: " "
   internal: true
 - text: Reading List

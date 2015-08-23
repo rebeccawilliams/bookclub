@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Tools for Conviviality"
-date:   2015-05-05 12:00:00
+date:   2015-08-04 12:00:00
 categories: jekyll update
 ---
 

@@ -21,4 +21,4 @@ _See our [Discussions](/)._
 - ["The Fires: How a Computer Formula, Big Ideas, and the Best of Intentions Burned Down New Yo rk City--and Determined the Future of Cities" by Joe Flood](http://joe-flood.com/aboutthefires/) Source: Riverhead Books, The Penguin Group, 2010. 
 - ["The Holodeck of Motive" by Aaron Straup Cope](http://www.aaronland.info/weblog/2015/02/24/effort/) Source: aaronland.info, February 2015.
 
-#### [Submit a Reading](https://github.com/rebeccawilliams/bookclub/blob/gh-pages/readinglist.md)
+#### [Submit a Reading, Correct a Citation](https://github.com/rebeccawilliams/bookclub/blob/gh-pages/readinglist.md)

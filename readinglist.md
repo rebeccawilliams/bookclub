@@ -24,7 +24,7 @@ _See our [Discussions](/)._
 - ["Crises of the Republic: Lying in Politics, Civil Disobedience, On Violence, and Thoughts on Politics and Revolution" by Hannah Ardent]() Source: Harcourt Brace Jovanovich, 1972.
 - ["Deng Xiaoping and the Transformation of China Paperback" by Ezra F. Vogel](http://www.amazon.com/Deng-Xiaoping-Transformation-China-Vogel/dp/0674725867) Source: The Belknap Press of Harvard University Press, October 14, 2013.
 - ["From Counterculture to Cyberculture: Stewart Brand, the Whole Earth Network, and the Rise of Digital Utopianism " by Fred Turner](http://www.press.uchicago.edu/ucp/books/book/chicago/F/bo3773600.html) Source: The University of Chicago Press, 2006.
-- ["From Social Movement to Moral Market: How the Circuit Riders Sparked an IT Revolution and Created a Technology Market" by Paul-Brian McInerney](http://www.sup.org/books/title/?id=11113) Source: Stanford University Press, 2014
+- ["From Social Movement to Moral Market: How the Circuit Riders Sparked an IT Revolution and Created a Technology Market" by Paul-Brian McInerney](http://www.sup.org/books/title/?id=11113) Source: Stanford University Press, 2014.
 - ["JSTOR: A History" by Roger C. Schonfeld](http://press.princeton.edu/titles/7678.html) Source: Princeton Unviersity Press, 2003.
 - ["Parting the Waters: America in the King Years 1954-63" by Taylor Branch](https://en.wikipedia.org/wiki/America_in_the_King_Years) Source: Simon & Schuster, 1988.
 - ["Public Relations" by Edward L. Bernays](http://www.amazon.com/Public-Relations-Edward-L-Bernays/dp/0806114576) Source: Norman, 1952.
@@ -37,7 +37,7 @@ _See our [Discussions](/)._
 - ["The Fires: How a Computer Formula, Big Ideas, and the Best of Intentions Burned Down New Yo rk City--and Determined the Future of Cities" by Joe Flood](http://joe-flood.com/aboutthefires/) Source: Riverhead Books, The Penguin Group, 2010. 
 - ["The Holodeck of Motive" by Aaron Straup Cope](http://www.aaronland.info/weblog/2015/02/24/effort/) Source: aaronland.info, February 2015.
 - ["The Information: A History, a Theory, a Flood" by James Gleick ](https://en.wikipedia.org/wiki/The_Information:_A_History,_a_Theory,_a_Flood) Source: Pantheon Books, March 2011. 
-- ["The Phantom Public" by Walter Lippmann](https://en.wikipedia.org/wiki/The_Phantom_Public) Source: Transaction Publishers, 1925
+- ["The Phantom Public" by Walter Lippmann](https://en.wikipedia.org/wiki/The_Phantom_Public) Source: Transaction Publishers, 1925.
 - ["The Politics of Information Reform in Chicago: An Experiment in Democratization" by John P Kretzmann](https://www.worldcat.org/title/politics-of-information-reform-in-chicago-an-experiment-in-democratization/oclc/14881489) Source: Ph. D. (Sociology)--Northwestern University, 1985.
 - ["The Public and its Problems" by John Dewey](https://en.wikipedia.org/wiki/The_Public_and_its_Problems) Source: Henry Holt and Company, 1927.
 - Some things about information systems within corporations, maybe something about Toyota and Walmart 

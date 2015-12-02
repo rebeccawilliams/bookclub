@@ -9,6 +9,6 @@ categories: jekyll update
 
 **Questions:**
 
-TBD/
+TBD.
 
-Tune in at 5pm CST/9pm EST via Google Hangout.
+Tune in at 5pm CST/6pm EST via Google Hangout.

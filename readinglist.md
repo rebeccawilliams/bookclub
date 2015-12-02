@@ -3,7 +3,7 @@ layout: page
 title:  "Reading List"
 ---
 
-### Currently Reading: ["So you want to reform demcoracy" by Josh Tauberer](https://medium.com/@joshuatauberer/so-you-want-to-reform-democracy-7f3b1ef10597#.qh36p8m0c)
+### Currently Reading: ["So you want to reform democracy" by Josh Tauberer](https://medium.com/@joshuatauberer/so-you-want-to-reform-democracy-7f3b1ef10597#.qh36p8m0c)
 
 ### ✔ Read 
 

@@ -3,10 +3,11 @@ layout: page
 title:  "Reading List"
 ---
 
-### Currently Reading: ["So you want to reform democracy" by Josh Tauberer](https://medium.com/@joshuatauberer/so-you-want-to-reform-democracy-7f3b1ef10597#.qh36p8m0c)
+### Currently Reading: [Predictive Policing: The Role of Crime Forecasting in Law Enforcement Operations](https://www.rand.org/content/dam/rand/pubs/research_reports/RR200/RR233/RAND_RR233.pdf) by Walter L. Perry, Brian McInnis, Carter C. Price, Susan C. Smith, John S. Hollywood (Rand Corporation)
 
 ### ✔ Read 
 
+- ["So you want to reform democracy" by Josh Tauberer](https://medium.com/@joshuatauberer/so-you-want-to-reform-democracy-7f3b1ef10597#.qh36p8m0c)
 - [“The Drama! Teen Conflict, Gossip, and Bullying in Networked Publics” by Alice E. Marwick and danah boyd](http://papers.ssrn.com/sol3/papers.cfm?abstract_id=1926349)  
 - [Convivial Reconstruction from “Tools for Conviviality” by Ivan Illich](http://civictechbook.club/convivial-reconstruction) Source: Fontana/Collins, 1973.
 - ["The Negro Family: The Case for National Action" (the 1965 Moynihan Report) by Daniel Patrick Moynihan](https://web.stanford.edu/~mrosenfe/Moynihan%27s%20The%20Negro%20Family.pdf) Source: Office of Policy and Planning. U.S. Department of Labor, March 1965.

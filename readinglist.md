@@ -3,7 +3,7 @@ layout: page
 title:  "Reading List"
 ---
 
-### Currently Reading: [Predictive Policing: The Role of Crime Forecasting in Law Enforcement Operations](https://www.rand.org/content/dam/rand/pubs/research_reports/RR200/RR233/RAND_RR233.pdf) by Walter L. Perry, Brian McInnis, Carter C. Price, Susan C. Smith, John S. Hollywood (Rand Corporation)
+### Currently Reading: [Predictive Policing: The Role of Crime Forecasting in Law Enforcement Operations by Walter L. Perry, Brian McInnis, Carter C. Price, Susan C. Smith, John S. Hollywood](https://www.rand.org/content/dam/rand/pubs/research_reports/RR200/RR233/RAND_RR233.pdf)  Source: RAND Corporation, 2013.
 
 ### ✔ Read 
 

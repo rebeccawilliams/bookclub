@@ -10,7 +10,7 @@ permalink: /
 <div id="home">
   <h2>Discussions</h2>
   <ul class="posts">
-    {% for page in site.posts %}
+    {% for posts in site.posts %}
       <li>
         <a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a>
             <span class="post-date">{{ post.date | date: "%m/%d/%Y" }}</span>

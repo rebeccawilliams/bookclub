@@ -3,7 +3,7 @@ layout: page
 title:  "Reading List"
 ---
 
-### Currently Reading: [The Third Reconstruction: How a Moral Movement Is Overcoming the Politics of Division and Fear Kindle Edition by Rev Dr William J. Barber II](https://www.amazon.com/dp/B00WCY4YK4/ref=dp-kindle-redirect?_encoding=UTF8&btkr=1)
+### Currently Reading: [The Third Reconstruction: How a Moral Movement Is Overcoming the Politics of Division and Fear by Rev Dr William J. Barber II](https://www.amazon.com/dp/B00WCY4YK4/ref=dp-kindle-redirect?_encoding=UTF8&btkr=1)
 
 ### ✔ Read 
 

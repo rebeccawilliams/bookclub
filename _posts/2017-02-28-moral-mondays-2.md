@@ -13,4 +13,4 @@ categories: jekyll update
 * Chapter 8: A Moral Movement for the Nation
 * Chapter 9: America’s Third Reconstruction
 
-Tune in at 6pm PST/8pm CST/9pm EST via Google Hangout.
+Tune in at 6pm PST/8pm CST/9pm EST via [Google Hangout](https://hangouts.google.com/hangouts/_/calendar/d2lsbGlhbXMucmViZWNjYUBnbWFpbC5jb20.e81ccpqtl9a7ga3ggcvdo8fju8?authuser=0).

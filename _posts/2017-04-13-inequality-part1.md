@@ -16,4 +16,4 @@ I. Diagnosis
 3 - The Economics of Inequality  
 A Summing-Up So Far  
 
-Tune in at 8pm CST/9pm EST via [Google Hangout]().
+Tune in at 8pm CDT/9pm EDT via [Google Hangout]().

@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Inequality: What Can Be Done? III. Can It Be Done?"
+title:  "Inequality: What Can Be Done? Part III. Can It Be Done?"
 date:   2017-05-11 20:00:00
 categories: jekyll update
 ---
@@ -9,10 +9,10 @@ categories: jekyll update
 
 This book is neatly organized in 3 parts, which is how we'll read it. 
 
-III. Can It Be Done?
-9 - Shrinking the Cake?
-10 - Globalisation Prevents Action?
-11 - Can We Afford It?
-The Way Forward
+III. Can It Be Done?  
+9 - Shrinking the Cake?  
+10 - Globalisation Prevents Action?  
+11 - Can We Afford It?  
+The Way Forward  
 
 Tune in at 8pm CDT/9pm EDT via [Google Hangout]().

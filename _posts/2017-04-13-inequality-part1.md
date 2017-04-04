@@ -7,6 +7,8 @@ categories: jekyll update
 
 [Inequality: What Can Be Done? by Anthony B. Atkinson](https://www.amazon.com/dp/B00WQRFC30/ref=dp-kindle-redirect?_encoding=UTF8&btkr=1)
 
+This book is neatly organized in 3 parts, which is how we'll read it. 
+
 Introduction  
 I. Diagnosis  
 1. Setting the Scene  

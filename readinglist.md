@@ -3,10 +3,11 @@ layout: page
 title:  "Reading List"
 ---
 
-### Currently Reading: [The Third Reconstruction: How a Moral Movement Is Overcoming the Politics of Division and Fear by Rev Dr William J. Barber II](https://www.amazon.com/dp/B00WCY4YK4/ref=dp-kindle-redirect?_encoding=UTF8&btkr=1)
+### Currently Reading: [Inequality: What Can Be Done? by Anthony B. Atkinson](https://www.amazon.com/dp/B00WQRFC30/ref=dp-kindle-redirect?_encoding=UTF8&btkr=1)
 
 ### ✔ Read 
 
+- [The Third Reconstruction: How a Moral Movement Is Overcoming the Politics of Division and Fear by Rev Dr William J. Barber II](https://www.amazon.com/dp/B00WCY4YK4/ref=dp-kindle-redirect?_encoding=UTF8&btkr=1)
 - [Predictive Policing: The Role of Crime Forecasting in Law Enforcement Operations by Walter L. Perry, Brian McInnis, Carter C. Price, Susan C. Smith, John S. Hollywood](https://www.rand.org/content/dam/rand/pubs/research_reports/RR200/RR233/RAND_RR233.pdf)  Source: RAND Corporation, 2013.
 - ["So you want to reform democracy" by Josh Tauberer](https://medium.com/@joshuatauberer/so-you-want-to-reform-democracy-7f3b1ef10597#.qh36p8m0c)
 - [“The Drama! Teen Conflict, Gossip, and Bullying in Networked Publics” by Alice E. Marwick and danah boyd](http://papers.ssrn.com/sol3/papers.cfm?abstract_id=1926349)  

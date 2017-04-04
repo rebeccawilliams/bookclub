@@ -11,9 +11,9 @@ This book is neatly organized in 3 parts, which is how we'll read it.
 
 Introduction  
 I. Diagnosis  
-1. Setting the Scene  
-2. Learning from History  
-3. The Economics of Inequality  
+1 - Setting the Scene  
+2 - Learning from History  
+3 - The Economics of Inequality  
 A Summing-Up So Far  
 
 Tune in at 8pm CST/9pm EST via [Google Hangout]().

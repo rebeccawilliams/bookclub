@@ -17,4 +17,4 @@ II. Proposals for Action
 8 - Social Security for All  
 Proposals to Reduce the Extent of Inequality  
 
-Tune in at 8pm CDT/9pm EDT via [Google Hangout]().
+Tune in at 8pm CDT/9pm EDT via [Google Hangout](https://plus.google.com/hangouts/_/calendar/d2lsbGlhbXMucmViZWNjYUBnbWFpbC5jb20.p0lg3acrvf1t1jvr2rth2eqmp8?authuser=0).

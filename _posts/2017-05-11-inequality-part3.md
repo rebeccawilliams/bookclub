@@ -15,4 +15,4 @@ III. Can It Be Done?
 11 - Can We Afford It?  
 The Way Forward  
 
-Tune in at 8pm CDT/9pm EDT via [Google Hangout]().
+Tune in at 8pm CDT/9pm EDT via [Google Hangout](https://plus.google.com/hangouts/_/calendar/d2lsbGlhbXMucmViZWNjYUBnbWFpbC5jb20.7aj3gv9igehucifs9n3a0h7eo0?authuser=0).

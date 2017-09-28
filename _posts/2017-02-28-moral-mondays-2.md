@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "The Third Reconstruction: How a Moral Movement Is Overcoming the Politics of Division and Fear (Pt 2)"
+title:  "The Third Reconstruction: How a Moral Movement Is Overcoming the Politics of Division and Fear (part 2)"
 date:   2017-03-21 20:00:00
 categories: jekyll update
 ---

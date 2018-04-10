@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Joyful Militancy: Building Thriving Resistance in Toxic Times (Anarchist Interventions)"
+title:  "Joyful Militancy: Building Thriving Resistance in Toxic Times (Anarchist Interventions) Ch. 3,4"
 date:   2018-04-09 20:00:00
 categories: jekyll update
 ---
@@ -9,4 +9,4 @@ categories: jekyll update
 
 Read Chapter 3 + 4
 
-Tune in at 8pm CDT/9pm EDT via [Google Hangout](https://plus.google.com/hangouts/_/calendar/d2lsbGlhbXMucmViZWNjYUBnbWFpbC5jb20._8gsj6d9g8l2jcba568okcb9k6osjeb9p612kcb9p8ookadi188o3gdpo68?authuser=0).
+Tune in at 8pm CDT/9pm EDT via [Google Hangout](https://hangouts.google.com/hangouts/_/calendar/ZmdyZWdnQGdtYWlsLmNvbQ.63no0g2qet5fj5n020jmqfvqb2?authuser=0).

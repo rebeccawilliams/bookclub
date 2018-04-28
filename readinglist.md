@@ -3,7 +3,7 @@ layout: page
 title:  "Reading List"
 ---
 
-### Currently Reading: [Building Thriving Resistance in Toxic Times (Anarchist Interventions) by Carla Bergman and Nick Montgomery](https://www.amazon.com/Joyful-Militancy-Resistance-Anarchist-Interventions/dp/1849352887) 
+### Currently Reading: [Joyful Militancy: Building Thriving Resistance in Toxic Times (Anarchist Interventions) by Carla Bergman and Nick Montgomery](https://www.amazon.com/Joyful-Militancy-Resistance-Anarchist-Interventions/dp/1849352887) 
 
 
 

@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "The Death and Life of Great American Cities, Part Three: Forces of Decline and Regulation"
-date:   2018-10-22 21:00:00
+date:   2018-10-29 21:00:00
 categories: jekyll update
 ---
 

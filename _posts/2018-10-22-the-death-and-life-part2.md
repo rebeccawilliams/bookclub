@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "The Death and Life of Great American Cities, Part Two: The Conditions for City Diversity"
-date:   2018-10-15 21:00:00
+date:   2018-10-22 21:00:00
 categories: jekyll update
 ---
 

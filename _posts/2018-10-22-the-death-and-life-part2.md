@@ -9,4 +9,4 @@ categories: jekyll update
 
 Read Part Two
 
-Tune in at 8pm CT/9pm ET via [Google Hangout](https://calendar.google.com/event?action=TEMPLATE&tmeid=N2M1Mm1yb29jc3MybWRhOGg5YzZsdjA1bzggd2lsbGlhbXMucmViZWNjYUBt&tmsrc=williams.rebecca%40gmail.com).
+Tune in at 8pm CT/9pm ET via [Google Hangout](https://hangouts.google.com/hangouts/_/calendar/d2lsbGlhbXMucmViZWNjYUBnbWFpbC5jb20.600ks8bq7n6cfqekd3a5qutngc?authuser=0).

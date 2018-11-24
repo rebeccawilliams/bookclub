@@ -3,11 +3,10 @@ layout: page
 title:  "Reading List"
 ---
 
-### Currently Reading: [Joyful Militancy: Building Thriving Resistance in Toxic Times (Anarchist Interventions) by Carla Bergman and Nick Montgomery](https://www.amazon.com/Joyful-Militancy-Resistance-Anarchist-Interventions/dp/1849352887) 
-
-
+### Currently Reading: [The Death and Life of Great American Cities by Jane Jacobs](http://www.petkovstudio.com/bg/wp-content/uploads/2017/03/The-Death-and-Life-of-Great-American-Cities_Jane-Jacobs-Complete-book.pdf) 
 
 ### ✔ Read 
+- [Joyful Militancy: Building Thriving Resistance in Toxic Times (Anarchist Interventions) by Carla Bergman and Nick Montgomery](https://www.amazon.com/Joyful-Militancy-Resistance-Anarchist-Interventions/dp/1849352887) 
 - [Leverage Points: Places to Intervene in a System by Donella Meadows](http://donellameadows.org/archives/leverage-points-places-to-intervene-in-a-system/) 
 - [Inequality: What Can Be Done? by Anthony B. Atkinson](https://www.amazon.com/dp/B00WQRFC30/ref=dp-kindle-redirect?_encoding=UTF8&btkr=1)
 - [The Third Reconstruction: How a Moral Movement Is Overcoming the Politics of Division and Fear by Rev Dr William J. Barber II](https://www.amazon.com/dp/B00WCY4YK4/ref=dp-kindle-redirect?_encoding=UTF8&btkr=1)

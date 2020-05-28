@@ -8,7 +8,7 @@ title:  "Reading List"
 <u>Read</u>
 * [Convivial Reconstruction from “Tools for Conviviality” by Ivan Illich](http://civictechbook.club/convivial-reconstruction) Source: Fontana/Collins, 1973.
 * [The Death and Life of Great American Cities by Jane Jacobs](http://www.petkovstudio.com/bg/wp-content/uploads/2017/03/The-Death-and-Life-of-Great-American-Cities_Jane-Jacobs-Complete-book.pdf).
-* ["Designing Freedom, Regulating a Nation: Socialist Cybernetics in Allende’s Chile*"  by Eden Medina](http://www.informatics.indiana.edu/edenm/EdenMedinaJLASAugust2006.pdf) Source: Journal of Latin American Studies 38 (2006): 571-606. United Kingdom: Cambridge University Press, 2006.
+* ["Designing Freedom, Regulating a Nation: Socialist Cybernetics in Allende’s Chile"  by Eden Medina](http://www.informatics.indiana.edu/edenm/EdenMedinaJLASAugust2006.pdf) Source: Journal of Latin American Studies 38 (2006): 571-606. United Kingdom: Cambridge University Press, 2006.
 * [Joyful Militancy: Building Thriving Resistance in Toxic Times (Anarchist Interventions) by Carla Bergman and Nick Montgomery](https://www.amazon.com/Joyful-Militancy-Resistance-Anarchist-Interventions/dp/1849352887).
 * [Inequality: What Can Be Done? by Anthony B. Atkinson](https://www.amazon.com/dp/B00WQRFC30/ref=dp-kindle-redirect?_encoding=UTF8&btkr=1)
 * [Leverage Points: Places to Intervene in a System by Donella Meadows](http://donellameadows.org/archives/leverage-points-places-to-intervene-in-a-system/). 

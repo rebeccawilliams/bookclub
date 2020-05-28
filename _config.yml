@@ -2,7 +2,7 @@
 permalink: /:title
 exclude: [".rvmrc", ".rbenv-version", "README.md", "Rakefile", "changelog.md"]
 markdown: kramdown
-pygments: true
+rouge: true
 future: true
 
 # Title

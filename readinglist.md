@@ -6,27 +6,26 @@ title:  "Reading List"
 ### Currently Reading: ?
 
 ### ✔ Read 
-- [The Death and Life of Great American Cities by Jane Jacobs](http://www.petkovstudio.com/bg/wp-content/uploads/2017/03/The-Death-and-Life-of-Great-American-Cities_Jane-Jacobs-Complete-book.pdf) 
-- [Joyful Militancy: Building Thriving Resistance in Toxic Times (Anarchist Interventions) by Carla Bergman and Nick Montgomery](https://www.amazon.com/Joyful-Militancy-Resistance-Anarchist-Interventions/dp/1849352887) 
-- [Leverage Points: Places to Intervene in a System by Donella Meadows](http://donellameadows.org/archives/leverage-points-places-to-intervene-in-a-system/) 
-- [Inequality: What Can Be Done? by Anthony B. Atkinson](https://www.amazon.com/dp/B00WQRFC30/ref=dp-kindle-redirect?_encoding=UTF8&btkr=1)
-- [The Third Reconstruction: How a Moral Movement Is Overcoming the Politics of Division and Fear by Rev Dr William J. Barber II](https://www.amazon.com/dp/B00WCY4YK4/ref=dp-kindle-redirect?_encoding=UTF8&btkr=1)
-- [Predictive Policing: The Role of Crime Forecasting in Law Enforcement Operations by Walter L. Perry, Brian McInnis, Carter C. Price, Susan C. Smith, John S. Hollywood](https://www.rand.org/content/dam/rand/pubs/research_reports/RR200/RR233/RAND_RR233.pdf)  Source: RAND Corporation, 2013.
-- ["So you want to reform democracy" by Josh Tauberer](https://medium.com/@joshuatauberer/so-you-want-to-reform-democracy-7f3b1ef10597#.qh36p8m0c)
-- [“The Drama! Teen Conflict, Gossip, and Bullying in Networked Publics” by Alice E. Marwick and danah boyd](http://papers.ssrn.com/sol3/papers.cfm?abstract_id=1926349)  
-- [Convivial Reconstruction from “Tools for Conviviality” by Ivan Illich](http://civictechbook.club/convivial-reconstruction) Source: Fontana/Collins, 1973.
-- ["The Negro Family: The Case for National Action" (the 1965 Moynihan Report) by Daniel Patrick Moynihan](https://web.stanford.edu/~mrosenfe/Moynihan%27s%20The%20Negro%20Family.pdf) Source: Office of Policy and Planning. U.S. Department of Labor, March 1965.
-- ["Designing Freedom, Regulating a Nation: Socialist Cybernetics in Allende’s Chile*"  by Eden Medina](http://www.informatics.indiana.edu/edenm/EdenMedinaJLASAugust2006.pdf) Source: Journal of Latin American Studies 38 (2006): 571-606. United Kingdom: Cambridge University Press, 2006.
-- ["The Affirmative Information Policy: Opening Up a Closed City" by John Kretzman](http://civictechbook.club/affirmativeinformationpolicy) Source: P. Clavel and W. Wiewel, eds, Harold Washington and the Neighbourhoods: Progressive City Government in Chicago 1983-1987. New Brunswick, N.J.: Rutgers University Press, 1991.
+✔ [The Death and Life of Great American Cities by Jane Jacobs](http://www.petkovstudio.com/bg/wp-content/uploads/2017/03/The-Death-and-Life-of-Great-American-Cities_Jane-Jacobs-Complete-book.pdf) 
+✔ [Joyful Militancy: Building Thriving Resistance in Toxic Times (Anarchist Interventions) by Carla Bergman and Nick Montgomery](https://www.amazon.com/Joyful-Militancy-Resistance-Anarchist-Interventions/dp/1849352887) 
+✔ [Leverage Points: Places to Intervene in a System by Donella Meadows](http://donellameadows.org/archives/leverage-points-places-to-intervene-in-a-system/) 
+✔ [Inequality: What Can Be Done? by Anthony B. Atkinson](https://www.amazon.com/dp/B00WQRFC30/ref=dp-kindle-redirect?_encoding=UTF8&btkr=1)
+✔ [The Third Reconstruction: How a Moral Movement Is Overcoming the Politics of Division and Fear by Rev Dr William J. Barber II](https://www.amazon.com/dp/B00WCY4YK4/ref=dp-kindle-redirect?_encoding=UTF8&btkr=1)
+✔ [Predictive Policing: The Role of Crime Forecasting in Law Enforcement Operations by Walter L. Perry, Brian McInnis, Carter C. Price, Susan C. Smith, John S. Hollywood](https://www.rand.org/content/dam/rand/pubs/research_reports/RR200/RR233/RAND_RR233.pdf)  Source: RAND Corporation, 2013.
+✔ ["So you want to reform democracy" by Josh Tauberer](https://medium.com/@joshuatauberer/so-you-want-to-reform-democracy-7f3b1ef10597#.qh36p8m0c)
+✔ [“The Drama! Teen Conflict, Gossip, and Bullying in Networked Publics” by Alice E. Marwick and danah boyd](http://papers.ssrn.com/sol3/papers.cfm?abstract_id=1926349)  
+✔ [Convivial Reconstruction from “Tools for Conviviality” by Ivan Illich](http://civictechbook.club/convivial-reconstruction) Source: Fontana/Collins, 1973.
+✔ ["The Negro Family: The Case for National Action" (the 1965 Moynihan Report) by Daniel Patrick Moynihan](https://web.stanford.edu/~mrosenfe/Moynihan%27s%20The%20Negro%20Family.pdf) Source: Office of Policy and Planning. U.S. Department of Labor, March 1965.
+✔ ["Designing Freedom, Regulating a Nation: Socialist Cybernetics in Allende’s Chile*"  by Eden Medina](http://www.informatics.indiana.edu/edenm/EdenMedinaJLASAugust2006.pdf) Source: Journal of Latin American Studies 38 (2006): 571-606. United Kingdom: Cambridge University Press, 2006.
+✔ ["The Affirmative Information Policy: Opening Up a Closed City" by John Kretzman](http://civictechbook.club/affirmativeinformationpolicy) Source: P. Clavel and W. Wiewel, eds, Harold Washington and the Neighbourhoods: Progressive City Government in Chicago 1983-1987. New Brunswick, N.J.: Rutgers University Press, 1991.
 
 _See our [Discussions](/)._
 
 ### Should we read these together?
-- ["A Pattern Language: Towns, Buildings, Construction" by Christopher Alexander, Murray Silverstein, and Sara Ishikawa](https://en.wikipedia.org/wiki/A_Pattern_Language) Source: Oxford Unviersity Press, 1977.
+❏ ["A Pattern Language: Towns, Buildings, Construction" by Christopher Alexander, Murray Silverstein, and Sara Ishikawa](https://en.wikipedia.org/wiki/A_Pattern_Language) Source: Oxford Unviersity Press, 1977.
 - ["Affective Disorders of the State: A Spinozan Diagnosis and Cure" by Ericka Tucker](http://www.cpp.edu/~jet/Documents/JET/Jet7/Tucker97-119.pdf) Source: Journal of East-West Thought: 3 (2):97-120, 2013.
 - ["Capital in the Twenty-First Century" by Thomas Piketty](https://en.wikipedia.org/wiki/Capital_in_the_Twenty-First_Century) Source: Harvard University Press, 2013. 
-- ["Clinical Versus Statistical Prediction: A Theoretical Analysis and a Review of the Evidence" by Paul E. Meehl](http://www.amazon.com/Clinical-Versus-Statistical-Prediction-Theoretical/dp/0963878492) Source: Echo Point Books & Media, 2013.
-- ["Code 2.0" by Lawrence Lessig](http://www.codev2.cc/download+remix/Lessig-Codev2.pdf) Source: Basic Books, 2006. 
+- ["Clinical Versus Statistical Prediction: A Theoretical Analysis and a Review of the Evidence" by Paul E. Meehl](http://www.amazon.com/Clinical-Versus-Statistical-Prediction-Theoretical/dp/0963878492) Source: Echo Point Books & Media, 2013. 
 - ["Crises of the Republic: Lying in Politics, Civil Disobedience, On Violence, and Thoughts on Politics and Revolution" by Hannah Arendt]() Source: Harcourt Brace Jovanovich, 1972.
 - ["Deng Xiaoping and the Transformation of China Paperback" by Ezra F. Vogel](http://www.amazon.com/Deng-Xiaoping-Transformation-China-Vogel/dp/0674725867) Source: The Belknap Press of Harvard University Press, October 14, 2013.
 - ["From Counterculture to Cyberculture: Stewart Brand, the Whole Earth Network, and the Rise of Digital Utopianism " by Fred Turner](http://www.press.uchicago.edu/ucp/books/book/chicago/F/bo3773600.html) Source: The University of Chicago Press, 2006.

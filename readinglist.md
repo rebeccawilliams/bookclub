@@ -3,23 +3,23 @@ layout: page
 title:  "Reading List"
 ---
 
-### Currently Reading: ?
+_Currently Reading_: ?
 
-### Read
+_Read_
 * [Convivial Reconstruction from “Tools for Conviviality” by Ivan Illich](http://civictechbook.club/convivial-reconstruction) Source: Fontana/Collins, 1973.
 * [The Death and Life of Great American Cities by Jane Jacobs](http://www.petkovstudio.com/bg/wp-content/uploads/2017/03/The-Death-and-Life-of-Great-American-Cities_Jane-Jacobs-Complete-book.pdf).
 * ["Designing Freedom, Regulating a Nation: Socialist Cybernetics in Allende’s Chile*"  by Eden Medina](http://www.informatics.indiana.edu/edenm/EdenMedinaJLASAugust2006.pdf) Source: Journal of Latin American Studies 38 (2006): 571-606. United Kingdom: Cambridge University Press, 2006.
 * [Joyful Militancy: Building Thriving Resistance in Toxic Times (Anarchist Interventions) by Carla Bergman and Nick Montgomery](https://www.amazon.com/Joyful-Militancy-Resistance-Anarchist-Interventions/dp/1849352887).
 * [Inequality: What Can Be Done? by Anthony B. Atkinson](https://www.amazon.com/dp/B00WQRFC30/ref=dp-kindle-redirect?_encoding=UTF8&btkr=1)
 * [Leverage Points: Places to Intervene in a System by Donella Meadows](http://donellameadows.org/archives/leverage-points-places-to-intervene-in-a-system/). 
-* [Predictive Policing: The Role of Crime Forecasting in Law Enforcement Operations by Walter L. Perry, Brian McInnis, Carter C. Price, Susan C. Smith, John S. Hollywood]
+* [Predictive Policing: The Role of Crime Forecasting in Law Enforcement Operations by Walter L. Perry, Brian McInnis, Carter C. Price, Susan C. Smith, John S. Hollywood](https://www.rand.org/content/dam/rand/pubs/research_reports/RR200/RR233/RAND_RR233.pdf) Source: RAND Corporation, 2013
 * ["So you want to reform democracy" by Josh Tauberer](https://medium.com/@joshuatauberer/so-you-want-to-reform-democracy-7f3b1ef10597#.qh36p8m0c).
 * ["The Affirmative Information Policy: Opening Up a Closed City" by John Kretzman](http://civictechbook.club/affirmativeinformationpolicy) Source: P. Clavel and W. Wiewel, eds, Harold Washington and the Neighbourhoods: Progressive City Government in Chicago 1983-1987. New Brunswick, N.J.: Rutgers University Press, 1991.
 * [“The Drama! Teen Conflict, Gossip, and Bullying in Networked Publics” by Alice E. Marwick and danah boyd](http://papers.ssrn.com/sol3/papers.cfm?abstract_id=1926349).
 * [The Third Reconstruction: How a Moral Movement Is Overcoming the Politics of Division and Fear by Rev Dr William J. Barber II](https://www.amazon.com/dp/B00WCY4YK4/ref=dp-kindle-redirect?_encoding=UTF8&btkr=1).
 * ["The Negro Family: The Case for National Action" (the 1965 Moynihan Report) by Daniel Patrick Moynihan](https://web.stanford.edu/~mrosenfe/Moynihan%27s%20The%20Negro%20Family.pdf) Source: Office of Policy and Planning. U.S. Department of Labor, March 1965.
 
-### To Read
+_To Read_
 * ["A Pattern Language: Towns, Buildings, Construction" by Christopher Alexander, Murray Silverstein, and Sara Ishikawa](https://en.wikipedia.org/wiki/A_Pattern_Language) Source: Oxford Unviersity Press, 1977.
 * ["Affective Disorders of the State: A Spinozan Diagnosis and Cure" by Ericka Tucker](http://www.cpp.edu/~jet/Documents/JET/Jet7/Tucker97-119.pdf) Source: Journal of East-West Thought: 3 (2):97-120, 2013.
 * ["Capital in the Twenty-First Century" by Thomas Piketty](https://en.wikipedia.org/wiki/Capital_in_the_Twenty-First_Century) Source: Harvard University Press, 2013. 
@@ -30,7 +30,6 @@ title:  "Reading List"
 * ["From Social Movement to Moral Market: How the Circuit Riders Sparked an IT Revolution and Created a Technology Market" by Paul-Brian McInerney](http://www.sup.org/books/title/?id=11113) Source: Stanford University Press, 2014.
 * ["JSTOR: A History" by Roger C. Schonfeld](http://press.princeton.edu/titles/7678.html) Source: Princeton Unviersity Press, 2003.
 * ["Parting the Waters: America in the King Years 1954-63" by Taylor Branch](https://en.wikipedia.org/wiki/America_in_the_King_Years) Source: Simon & Schuster, 1988.
-(https://www.rand.org/content/dam/rand/pubs/research_reports/RR200/RR233/RAND_RR233.pdf)  Source: RAND Corporation, 2013
 * ["Public Relations" by Edward L. Bernays](http://www.amazon.com/Public-Relations-Edward-L-Bernays/dp/0806114576) Source: Norman, 1952.
 * ["Red Plenty Platforms" by Nick Dyer-Witheford](http://www.culturemachine.net/index.php/cm/article/view/511/526) Source: Culture Machine Vol 14, 2013.
 * ["Scenarios: Shooting the Rapids" by Pierre Wack](https://hbr.org/1985/11/scenarios-shooting-the-rapids/ar/1) Source: Harvard Business Review November, 1985.

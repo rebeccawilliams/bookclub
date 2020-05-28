@@ -3,9 +3,9 @@ layout: page
 title:  "Reading List"
 ---
 
-_Currently Reading_: ?
+<u>Currently Reading</u>: ?
 
-_Read_
+<u>Read</u>
 * [Convivial Reconstruction from “Tools for Conviviality” by Ivan Illich](http://civictechbook.club/convivial-reconstruction) Source: Fontana/Collins, 1973.
 * [The Death and Life of Great American Cities by Jane Jacobs](http://www.petkovstudio.com/bg/wp-content/uploads/2017/03/The-Death-and-Life-of-Great-American-Cities_Jane-Jacobs-Complete-book.pdf).
 * ["Designing Freedom, Regulating a Nation: Socialist Cybernetics in Allende’s Chile*"  by Eden Medina](http://www.informatics.indiana.edu/edenm/EdenMedinaJLASAugust2006.pdf) Source: Journal of Latin American Studies 38 (2006): 571-606. United Kingdom: Cambridge University Press, 2006.
@@ -19,7 +19,7 @@ _Read_
 * [The Third Reconstruction: How a Moral Movement Is Overcoming the Politics of Division and Fear by Rev Dr William J. Barber II](https://www.amazon.com/dp/B00WCY4YK4/ref=dp-kindle-redirect?_encoding=UTF8&btkr=1).
 * ["The Negro Family: The Case for National Action" (the 1965 Moynihan Report) by Daniel Patrick Moynihan](https://web.stanford.edu/~mrosenfe/Moynihan%27s%20The%20Negro%20Family.pdf) Source: Office of Policy and Planning. U.S. Department of Labor, March 1965.
 
-_To Read_
+<u>To Read</u>
 * ["A Pattern Language: Towns, Buildings, Construction" by Christopher Alexander, Murray Silverstein, and Sara Ishikawa](https://en.wikipedia.org/wiki/A_Pattern_Language) Source: Oxford Unviersity Press, 1977.
 * ["Affective Disorders of the State: A Spinozan Diagnosis and Cure" by Ericka Tucker](http://www.cpp.edu/~jet/Documents/JET/Jet7/Tucker97-119.pdf) Source: Journal of East-West Thought: 3 (2):97-120, 2013.
 * ["Capital in the Twenty-First Century" by Thomas Piketty](https://en.wikipedia.org/wiki/Capital_in_the_Twenty-First_Century) Source: Harvard University Press, 2013. 
@@ -48,4 +48,4 @@ _To Read_
 * ["The Politics of Information Reform in Chicago: An Experiment in Democratization" by John P Kretzmann](https://www.worldcat.org/title/politics-of-information-reform-in-chicago-an-experiment-in-democratization/oclc/14881489) Source: Ph. D. (Sociology)--Northwestern University, 1985.
 * ["The Public and its Problems" by John Dewey](https://en.wikipedia.org/wiki/The_Public_and_its_Problems) Source: Henry Holt and Company, 1927.
 
-#### [Submit a Reading, Correct a Citation](https://github.com/rebeccawilliams/bookclub/blob/gh-pages/readinglist.md)
+_[Submit a Reading, Correct a Citation](https://github.com/rebeccawilliams/bookclub/blob/gh-pages/readinglist.md)_

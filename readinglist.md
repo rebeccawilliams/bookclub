@@ -8,8 +8,10 @@ title:  "Reading List"
 ### Reading List
 _✓ = Read as a group, see our [Discussions](/), ❏ = Recommended Reading._
 
-* ❏ ["A Pattern Language: Towns, Buildings, Construction" by Christopher Alexander, Murray Silverstein, and Sara Ishikawa](https://en.wikipedia.org/wiki/A_Pattern_Language) Source: Oxford Unviersity Press, 1977.
-* ❏ ["Affective Disorders of the State: A Spinozan Diagnosis and Cure" by Ericka Tucker](http://www.cpp.edu/~jet/Documents/JET/Jet7/Tucker97-119.pdf) Source: Journal of East-West Thought: 3 (2):97-120, 2013.
+❏ ["A Pattern Language: Towns, Buildings, Construction" by Christopher Alexander, Murray Silverstein, and Sara Ishikawa](https://en.wikipedia.org/wiki/A_Pattern_Language) Source: Oxford Unviersity Press, 1977.
+
+❏ ["Affective Disorders of the State: A Spinozan Diagnosis and Cure" by Ericka Tucker](http://www.cpp.edu/~jet/Documents/JET/Jet7/Tucker97-119.pdf) Source: Journal of East-West Thought: 3 (2):97-120, 2013.
+
 * ❏ ["Capital in the Twenty-First Century" by Thomas Piketty](https://en.wikipedia.org/wiki/Capital_in_the_Twenty-First_Century) Source: Harvard University Press, 2013. 
 * ❏ ["Clinical Versus Statistical Prediction: A Theoretical Analysis and a Review of the Evidence" by Paul E. Meehl](http://www.amazon.com/Clinical-Versus-Statistical-Prediction-Theoretical/dp/0963878492) Source: Echo Point Books & Media, 2013. 
 * ✓ [Convivial Reconstruction from “Tools for Conviviality” by Ivan Illich](http://civictechbook.club/convivial-reconstruction) Source: Fontana/Collins, 1973.

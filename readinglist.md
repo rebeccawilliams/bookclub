@@ -40,9 +40,11 @@ _See our [Discussions](/)._
 - ["Seeing Like a State" by James C. Scott](http://yalepress.yale.edu/book.asp?isbn=9780300078152) Source: Yale University Press, 1999.
 - ["Socialize the Data Centres!" by Evgeny Morozov](http://newleftreview.org/II/91/evgeny-morozov-socialize-the-data-centres) Source: New Left Review 91, January-February 2015.
 - ["Some Thoughts" by Various on Sidewalk Toronto](https://some-thoughts.org/) Source, some-thoughts.org, 2019.
+- ["Sorting Things Out: Classification and Its Consequences" by Geoffrey C. Bowker and Susan Leigh Star](https://mitpress.mit.edu/books/sorting-things-out) Source: MIT Press, September 1999.  
 - ["Smart Enough City" by Ben Green](https://smartenoughcity.mitpress.mit.edu/) Source: MIT Press, 2019.
 - ["The City Reader" edited by Richard T. LeGates, Frederic Stout](https://books.google.com/books/about/The_City_Reader.html?id=xIBkX8edoewC) Source: Psychology Press, 2003.
 - ["The Fires: How a Computer Formula, Big Ideas, and the Best of Intentions Burned Down New Yo rk City--and Determined the Future of Cities" by Joe Flood](http://joe-flood.com/aboutthefires/) Source: Riverhead Books, The Penguin Group, 2010. 
+- ["The Government Machine: A Revolutionary History of the Computer" by Jon Agar](https://mitpress.mit.edu/books/government-machine) Source: MIT Press, September 2003.  
 - ["The Holodeck of Motive" by Aaron Straup Cope](http://www.aaronland.info/weblog/2015/02/24/effort/) Source: aaronland.info, February 2015.
 - ["The Information: A History, a Theory, a Flood" by James Gleick ](https://en.wikipedia.org/wiki/The_Information:_A_History,_a_Theory,_a_Flood) Source: Pantheon Books, March 2011. 
 - ["The Phantom Public" by Walter Lippmann](https://en.wikipedia.org/wiki/The_Phantom_Public) Source: Transaction Publishers, 1925.

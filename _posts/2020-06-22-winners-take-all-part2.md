@@ -9,6 +9,6 @@ categories: jekyll update
 
 * Ch 3: Rebel-kings in worrisome berets
 * Ch 4: The critic and the thought leader
-*Ch 5: Arsonists make the best firefighters
+* Ch 5: Arsonists make the best firefighters
 
 Tune in at 8pm CT/9pm ET via [Google Hangout](https://calendar.google.com/event?action=TEMPLATE&tmeid=MW9tbWU2Z2JnNTVvaHF1Z2RkdGQwaGlhNjIgd2lsbGlhbXMucmViZWNjYUBt&tmsrc=williams.rebecca%40gmail.com)

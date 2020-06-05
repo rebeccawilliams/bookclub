@@ -4,7 +4,6 @@ title: Discussions
 ---
 
 <div id="home">
-  <h2>Discussions</h2>
   <ul class="posts">
     {% for post in site.posts %}
       <li>

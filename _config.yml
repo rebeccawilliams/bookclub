@@ -25,13 +25,13 @@ logoalt:
 # Navigation
 # List links that should appear in the site sidebar here
 navigation:
-- text: Home
+- text: Discussions
   url: " "
   internal: true
 - text: Reading List
   url: readinglist
   internal: true  
-- text: "Club Updates"
+- text: "Join the Club"
   url: https://groups.google.com/forum/#!forum/civictechbookclub
   internal: false    
 

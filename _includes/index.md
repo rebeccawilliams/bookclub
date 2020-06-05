@@ -1,1 +1,1 @@
-A book club that meets very irregulary to discuss readings on civics and technology.
+A virtual book club that meets irregulary to discuss readings on civics and technology.

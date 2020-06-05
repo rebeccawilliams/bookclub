@@ -4,7 +4,7 @@ title:  "Reading List"
 ---
 
 <u>Currently Reading</u>: 
-[Winner Takes All by Anand Giridharadas](https://bookshop.org/books/winners-take-all-the-elite-charade-of-changing-the-world/9781101972670)
+[Winners Take All by Anand Giridharadas](https://bookshop.org/books/winners-take-all-the-elite-charade-of-changing-the-world/9781101972670)
 
 <u>Read</u>
 * [Convivial Reconstruction from “Tools for Conviviality” by Ivan Illich](http://civictechbook.club/convivial-reconstruction) Source: Fontana/Collins, 1973.

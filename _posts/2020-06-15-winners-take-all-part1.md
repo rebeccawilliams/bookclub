@@ -5,7 +5,7 @@ date:   2020-06-15 21:00:00
 categories: jekyll update
 ---
 
-[Winners Takes All by Anand Giridharadas](https://bookshop.org/books/winners-take-all-the-elite-charade-of-changing-the-world/9781101972670) 
+[Winners Take All by Anand Giridharadas](https://bookshop.org/books/winners-take-all-the-elite-charade-of-changing-the-world/9781101972670) 
 
 * Prologue
 * Ch 1: But how is the world changed?

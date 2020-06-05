@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Winner Takes All, Part One"
+title:  "Winners Take All, Part One"
 date:   2020-06-15 21:00:00
 categories: jekyll update
 ---
@@ -11,4 +11,4 @@ categories: jekyll update
 * Ch 1: But how is the world changed?
 * Ch 2: Win-win
 
-Tune in at 8pm CT/9pm ET via [Google Hangout]()
+Tune in at 8pm CT/9pm ET via [Google Hangout](https://calendar.google.com/event?action=TEMPLATE&tmeid=NDA4OGk5bDBmdXRrOGhsMThvOW9xdjM2YnYgd2lsbGlhbXMucmViZWNjYUBt&tmsrc=williams.rebecca%40gmail.com)

@@ -38,6 +38,7 @@ title:  "Reading List"
 * ["Seeing Like a State" by James C. Scott](http://yalepress.yale.edu/book.asp?isbn=9780300078152) Source: Yale University Press, 1999.
 * ["Socialize the Data Centres!" by Evgeny Morozov](http://newleftreview.org/II/91/evgeny-morozov-socialize-the-data-centres) Source: New Left Review 91, January-February 2015.
 * ["Some Thoughts" by Various on Sidewalk Toronto](https://some-thoughts.org/) Source, some-thoughts.org, 2019.
+* ["Solidarity Not Charity: Mutual Aid for Mobilization and Survivial" by Dean Spade](http://www.deanspade.net/wp-content/uploads/2020/03/Mutual-Aid-Article-Social-Text-Final.pdf)
 * ["Sorting Things Out: Classification and Its Consequences" by Geoffrey C. Bowker and Susan Leigh Star](https://mitpress.mit.edu/books/sorting-things-out) Source: MIT Press, September 1999.  
 * ["Smart Enough City" by Ben Green](https://smartenoughcity.mitpress.mit.edu/) Source: MIT Press, 2019.
 * ["The City Reader" edited by Richard T. LeGates, Frederic Stout](https://books.google.com/books/about/The_City_Reader.html?id=xIBkX8edoewC) Source: Psychology Press, 2003.

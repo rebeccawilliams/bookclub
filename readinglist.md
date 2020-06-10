@@ -50,5 +50,6 @@ title:  "Reading List"
 * ["The Phantom Public" by Walter Lippmann](https://en.wikipedia.org/wiki/The_Phantom_Public) Source: Transaction Publishers, 1925.
 * ["The Politics of Information Reform in Chicago: An Experiment in Democratization" by John P Kretzmann](https://www.worldcat.org/title/politics-of-information-reform-in-chicago-an-experiment-in-democratization/oclc/14881489) Source: Ph. D. (Sociology)--Northwestern University, 1985.
 * ["The Public and its Problems" by John Dewey](https://en.wikipedia.org/wiki/The_Public_and_its_Problems) Source: Henry Holt and Company, 1927.
+* ["Truth and Politics" by Hannah Arendt](https://idanlandau.files.wordpress.com/2014/12/arendt-truth-and-politics.pdf) Source: The New Yorker, 1967.
 
 _[Submit a Reading, Correct a Citation](https://github.com/rebeccawilliams/bookclub/blob/gh-pages/readinglist.md)_

@@ -4,7 +4,7 @@ title:  "Reading List"
 ---
 
 <u>Currently Reading</u>: 
-[Winners Take All by Anand Giridharadas](https://bookshop.org/books/winners-take-all-the-elite-charade-of-changing-the-world/9781101972670)
+* [Violence and Economic Activity:  Evidence from African American Patents, 1870 to 1940 by Lisa D. Cook](https://lisadcook.net/wp-content/uploads/2014/02/pats_paper17_1013_final_web.pdf) Source: Michigan State University, 2013.
 
 <u>Read</u>
 * [Convivial Reconstruction from “Tools for Conviviality” by Ivan Illich](http://civictechbook.club/convivial-reconstruction) Source: Fontana/Collins, 1973.
@@ -19,6 +19,7 @@ title:  "Reading List"
 * [“The Drama! Teen Conflict, Gossip, and Bullying in Networked Publics” by Alice E. Marwick and danah boyd](http://papers.ssrn.com/sol3/papers.cfm?abstract_id=1926349).
 * ["The Negro Family: The Case for National Action" (the 1965 Moynihan Report) by Daniel Patrick Moynihan](https://web.stanford.edu/~mrosenfe/Moynihan%27s%20The%20Negro%20Family.pdf) Source: Office of Policy and Planning. U.S. Department of Labor, March 1965.
 * [The Third Reconstruction: How a Moral Movement Is Overcoming the Politics of Division and Fear by Rev Dr William J. Barber II](https://www.amazon.com/dp/B00WCY4YK4/ref=dp-kindle-redirect?_encoding=UTF8&btkr=1).
+* [Winners Take All by Anand Giridharadas](https://bookshop.org/books/winners-take-all-the-elite-charade-of-changing-the-world/9781101972670)
 
 <u>To Read</u>
 * ["A Pattern Language: Towns, Buildings, Construction" by Christopher Alexander, Murray Silverstein, and Sara Ishikawa](https://en.wikipedia.org/wiki/A_Pattern_Language) Source: Oxford Unviersity Press, 1977.

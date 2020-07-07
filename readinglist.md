@@ -4,22 +4,23 @@ title:  "Reading List"
 ---
 
 <u>Currently Reading</u>: 
-* [Violence and Economic Activity:  Evidence from African American Patents, 1870 to 1940 by Lisa D. Cook](https://lisadcook.net/wp-content/uploads/2014/02/pats_paper17_1013_final_web.pdf) Source: Michigan State University, 2013.
+* [Race After Technology: Abolitionist Tools for the New Jim Code by Ruha Benjamin](https://www.wiley.com/en-us/Race+After+Technology:+Abolitionist+Tools+for+the+New+Jim+Code-p-9781509526437) Source: Polity, July 2019. 
 
 <u>Read</u>
-* [Convivial Reconstruction from “Tools for Conviviality” by Ivan Illich](http://civictechbook.club/convivial-reconstruction) Source: Fontana/Collins, 1973.
-* [The Death and Life of Great American Cities by Jane Jacobs](http://www.petkovstudio.com/bg/wp-content/uploads/2017/03/The-Death-and-Life-of-Great-American-Cities_Jane-Jacobs-Complete-book.pdf).
+* ["Convivial Reconstruction" by Ivan Illich from "Tools for Conviviality” ](http://civictechbook.club/convivial-reconstruction) Source: Fontana/Collins, 1973.
+* ["The Death and Life of Great American Cities" by Jane Jacobs](http://www.petkovstudio.com/bg/wp-content/uploads/2017/03/The-Death-and-Life-of-Great-American-Cities_Jane-Jacobs-Complete-book.pdf).
 * ["Designing Freedom, Regulating a Nation: Socialist Cybernetics in Allende’s Chile"  by Eden Medina](http://www.informatics.indiana.edu/edenm/EdenMedinaJLASAugust2006.pdf) Source: Journal of Latin American Studies 38 (2006): 571-606. United Kingdom: Cambridge University Press, 2006.
-* [Joyful Militancy: Building Thriving Resistance in Toxic Times (Anarchist Interventions) by Carla Bergman and Nick Montgomery](https://www.amazon.com/Joyful-Militancy-Resistance-Anarchist-Interventions/dp/1849352887).
-* [Inequality: What Can Be Done? by Anthony B. Atkinson](https://www.amazon.com/dp/B00WQRFC30/ref=dp-kindle-redirect?_encoding=UTF8&btkr=1)
+* ["Joyful Militancy: Building Thriving Resistance in Toxic Times (Anarchist Interventions)" by Carla Bergman and Nick Montgomery](https://www.amazon.com/Joyful-Militancy-Resistance-Anarchist-Interventions/dp/1849352887).
+* ["Inequality: What Can Be Done?" by Anthony B. Atkinson](https://www.amazon.com/dp/B00WQRFC30/ref=dp-kindle-redirect?_encoding=UTF8&btkr=1)
 * [Leverage Points: Places to Intervene in a System by Donella Meadows](http://donellameadows.org/archives/leverage-points-places-to-intervene-in-a-system/). 
-* [Predictive Policing: The Role of Crime Forecasting in Law Enforcement Operations by Walter L. Perry, Brian McInnis, Carter C. Price, Susan C. Smith, John S. Hollywood](https://www.rand.org/content/dam/rand/pubs/research_reports/RR200/RR233/RAND_RR233.pdf) Source: RAND Corporation, 2013
+* ["Predictive Policing: The Role of Crime Forecasting in Law Enforcement Operations" by Walter L. Perry, Brian McInnis, Carter C. Price, Susan C. Smith, John S. Hollywood](https://www.rand.org/content/dam/rand/pubs/research_reports/RR200/RR233/RAND_RR233.pdf) Source: RAND Corporation, 2013
 * ["So you want to reform democracy" by Josh Tauberer](https://medium.com/@joshuatauberer/so-you-want-to-reform-democracy-7f3b1ef10597#.qh36p8m0c).
 * ["The Affirmative Information Policy: Opening Up a Closed City" by John Kretzman](http://civictechbook.club/affirmativeinformationpolicy) Source: P. Clavel and W. Wiewel, eds, Harold Washington and the Neighbourhoods: Progressive City Government in Chicago 1983-1987. New Brunswick, N.J.: Rutgers University Press, 1991.
 * [“The Drama! Teen Conflict, Gossip, and Bullying in Networked Publics” by Alice E. Marwick and danah boyd](http://papers.ssrn.com/sol3/papers.cfm?abstract_id=1926349).
 * ["The Negro Family: The Case for National Action" (the 1965 Moynihan Report) by Daniel Patrick Moynihan](https://web.stanford.edu/~mrosenfe/Moynihan%27s%20The%20Negro%20Family.pdf) Source: Office of Policy and Planning. U.S. Department of Labor, March 1965.
-* [The Third Reconstruction: How a Moral Movement Is Overcoming the Politics of Division and Fear by Rev Dr William J. Barber II](https://www.amazon.com/dp/B00WCY4YK4/ref=dp-kindle-redirect?_encoding=UTF8&btkr=1).
-* [Winners Take All by Anand Giridharadas](https://bookshop.org/books/winners-take-all-the-elite-charade-of-changing-the-world/9781101972670)
+* ["The Third Reconstruction: How a Moral Movement Is Overcoming the Politics of Division and Fear" by Rev Dr William J. Barber II](https://www.amazon.com/dp/B00WCY4YK4/ref=dp-kindle-redirect?_encoding=UTF8&btkr=1).
+* ["Violence and Economic Activity:  Evidence from African American Patents, 1870 to 1940" by Lisa D. Cook](https://lisadcook.net/wp-content/uploads/2014/02/pats_paper17_1013_final_web.pdf) Source: Michigan State University, 2013.
+* ["Winners Take All" by Anand Giridharadas](https://bookshop.org/books/winners-take-all-the-elite-charade-of-changing-the-world/9781101972670)
 
 <u>To Read</u>
 * ["A Pattern Language: Towns, Buildings, Construction" by Christopher Alexander, Murray Silverstein, and Sara Ishikawa](https://en.wikipedia.org/wiki/A_Pattern_Language) Source: Oxford Unviersity Press, 1977.
@@ -27,8 +28,10 @@ title:  "Reading List"
 * ["Capital in the Twenty-First Century" by Thomas Piketty](https://en.wikipedia.org/wiki/Capital_in_the_Twenty-First_Century) Source: Harvard University Press, 2013. 
 * ["Clinical Versus Statistical Prediction: A Theoretical Analysis and a Review of the Evidence" by Paul E. Meehl](http://www.amazon.com/Clinical-Versus-Statistical-Prediction-Theoretical/dp/0963878492) Source: Echo Point Books & Media, 2013. 
 * ["Crises of the Republic: Lying in Politics, Civil Disobedience, On Violence, and Thoughts on Politics and Revolution" by Hannah Arendt]() Source: Harcourt Brace Jovanovich, 1972.
+* [Debt: The First 5,000 Years by David Graeber](https://www.mhpbooks.com/books/debt/) Source: Melville House, July 2011.
 * ["Deng Xiaoping and the Transformation of China Paperback" by Ezra F. Vogel](http://www.amazon.com/Deng-Xiaoping-Transformation-China-Vogel/dp/0674725867) Source: The Belknap Press of Harvard University Press, October 14, 2013. 
-* ["From Counterculture to Cyberculture: Stewart Brand, the Whole Earth Network, and the Rise of Digital Utopianism " by Fred Turner](http://www.press.uchicago.edu/ucp/books/book/chicago/F/bo3773600.html) Source: The University of Chicago Press, 2006.
+* ["Digital Democracy, Analogue Politics: How the Internet Era Is Transforming Kenya" by Nanjala Nyabola](https://bookshop.org/books/digital-democracy-analogue-politics-how-the-internet-era-is-transforming-kenya/9781786994318) Source: Zed Books, December 2018.
+* ["From Counterculture to Cyberculture: Stewart Brand, the Whole Earth Network, and the Rise of Digital Utopianism" by Fred Turner](http://www.press.uchicago.edu/ucp/books/book/chicago/F/bo3773600.html) Source: The University of Chicago Press, 2006.
 * ["From Social Movement to Moral Market: How the Circuit Riders Sparked an IT Revolution and Created a Technology Market" by Paul-Brian McInerney](http://www.sup.org/books/title/?id=11113) Source: Stanford University Press, 2014.
 * ["JSTOR: A History" by Roger C. Schonfeld](http://press.princeton.edu/titles/7678.html) Source: Princeton Unviersity Press, 2003.
 * ["Parting the Waters: America in the King Years 1954-63" by Taylor Branch](https://en.wikipedia.org/wiki/America_in_the_King_Years) Source: Simon & Schuster, 1988.

@@ -28,7 +28,7 @@ title:  "Reading List"
 * ["Capital in the Twenty-First Century" by Thomas Piketty](https://en.wikipedia.org/wiki/Capital_in_the_Twenty-First_Century) Source: Harvard University Press, 2013. 
 * ["Clinical Versus Statistical Prediction: A Theoretical Analysis and a Review of the Evidence" by Paul E. Meehl](http://www.amazon.com/Clinical-Versus-Statistical-Prediction-Theoretical/dp/0963878492) Source: Echo Point Books & Media, 2013. 
 * ["Crises of the Republic: Lying in Politics, Civil Disobedience, On Violence, and Thoughts on Politics and Revolution" by Hannah Arendt]() Source: Harcourt Brace Jovanovich, 1972.
-* [Debt: The First 5,000 Years by David Graeber](https://www.mhpbooks.com/books/debt/) Source: Melville House, July 2011.
+* ["Debt: The First 5,000 Years by David Graeber](https://www.mhpbooks.com/books/debt/") Source: Melville House, July 2011.
 * ["Deng Xiaoping and the Transformation of China Paperback" by Ezra F. Vogel](http://www.amazon.com/Deng-Xiaoping-Transformation-China-Vogel/dp/0674725867) Source: The Belknap Press of Harvard University Press, October 14, 2013. 
 * ["Digital Democracy, Analogue Politics: How the Internet Era Is Transforming Kenya" by Nanjala Nyabola](https://bookshop.org/books/digital-democracy-analogue-politics-how-the-internet-era-is-transforming-kenya/9781786994318) Source: Zed Books, December 2018.
 * ["From Counterculture to Cyberculture: Stewart Brand, the Whole Earth Network, and the Rise of Digital Utopianism" by Fred Turner](http://www.press.uchicago.edu/ucp/books/book/chicago/F/bo3773600.html) Source: The University of Chicago Press, 2006.

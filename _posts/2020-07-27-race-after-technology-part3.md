@@ -10,4 +10,4 @@ categories: jekyll update
 * 4    Technological Benevolence: Do Fixes Fix Us?
 * 5    Retooling Solidarity, Reimagining Justice
 
-Tune in at 8pm CT/9pm ET via [Google Hangout](https://calendar.google.com/event?action=TEMPLATE&tmeid=MWduaDVpdDhyM3AzNDBrNGd1ZGl2dGg4aWQgd2lsbGlhbXMucmViZWNjYUBt&tmsrc=williams.rebecca%40gmail.com)
+Tune in at 8pm CT/9pm ET via [Google Hangout](https://calendar.google.com/event?action=TEMPLATE&tmeid=NDF2aDkzNXBtNmQ4MDlvYTh1b2g5OTN2YWEgd2lsbGlhbXMucmViZWNjYUBt&tmsrc=williams.rebecca%40gmail.com)

@@ -4,7 +4,7 @@ title:  "Reading List"
 ---
 
 <u>Currently Reading</u>: 
-* [Race After Technology: Abolitionist Tools for the New Jim Code by Ruha Benjamin](https://www.wiley.com/en-us/Race+After+Technology:+Abolitionist+Tools+for+the+New+Jim+Code-p-9781509526437) Source: Polity, July 2019. 
+* ["Race After Technology: Abolitionist Tools for the New Jim Code" by Ruha Benjamin](https://www.wiley.com/en-us/Race+After+Technology:+Abolitionist+Tools+for+the+New+Jim+Code-p-9781509526437) Source: Polity, July 2019. 
 
 <u>Read</u>
 * ["Convivial Reconstruction" by Ivan Illich from "Tools for Conviviality” ](http://civictechbook.club/convivial-reconstruction) Source: Fontana/Collins, 1973.

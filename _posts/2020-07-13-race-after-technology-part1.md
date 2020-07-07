@@ -11,4 +11,4 @@ categories: jekyll update
 * Introduction:   The New Jim Code     
 * 1 Engineered Inequity: Are Robots Racist?
 
-Tune in at 8pm CT/9pm ET via [Google Hangout](https://calendar.google.com/event?action=TEMPLATE&tmeid=MWduaDVpdDhyM3AzNDBrNGd1ZGl2dGg4aWQgd2lsbGlhbXMucmViZWNjYUBt&tmsrc=williams.rebecca%40gmail.com)
+Tune in at 8pm CT/9pm ET via [Google Hangout](https://calendar.google.com/event?action=TEMPLATE&tmeid=NzBwNDJnZGk4dGYxZzQ3MmhmZTRhbDVyc2Ygd2lsbGlhbXMucmViZWNjYUBt&tmsrc=williams.rebecca%40gmail.com)

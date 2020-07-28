@@ -4,7 +4,7 @@ title:  "Reading List"
 ---
 
 <u>Currently Reading</u>: 
-* ["Race After Technology: Abolitionist Tools for the New Jim Code" by Ruha Benjamin](https://www.wiley.com/en-us/Race+After+Technology:+Abolitionist+Tools+for+the+New+Jim+Code-p-9781509526437) Source: Polity, July 2019. 
+* ["Roles for Computing in Social Change" by Rediet Abebe, Solon Barocas, Jon Kleinberg, Karen Levy, Manish Raghavan, David G. Robinson](https://arxiv.org/abs/1912.04883) Source: Cornell University, 2019.
 
 <u>Read</u>
 * ["Convivial Reconstruction" by Ivan Illich from "Tools for Conviviality” ](http://civictechbook.club/convivial-reconstruction) Source: Fontana/Collins, 1973.
@@ -14,6 +14,7 @@ title:  "Reading List"
 * ["Inequality: What Can Be Done?" by Anthony B. Atkinson](https://www.amazon.com/dp/B00WQRFC30/ref=dp-kindle-redirect?_encoding=UTF8&btkr=1)
 * [Leverage Points: Places to Intervene in a System by Donella Meadows](http://donellameadows.org/archives/leverage-points-places-to-intervene-in-a-system/). 
 * ["Predictive Policing: The Role of Crime Forecasting in Law Enforcement Operations" by Walter L. Perry, Brian McInnis, Carter C. Price, Susan C. Smith, John S. Hollywood](https://www.rand.org/content/dam/rand/pubs/research_reports/RR200/RR233/RAND_RR233.pdf) Source: RAND Corporation, 2013
+* ["Race After Technology: Abolitionist Tools for the New Jim Code" by Ruha Benjamin](https://www.wiley.com/en-us/Race+After+Technology:+Abolitionist+Tools+for+the+New+Jim+Code-p-9781509526437) Source: Polity, July 2019. 
 * ["So you want to reform democracy" by Josh Tauberer](https://medium.com/@joshuatauberer/so-you-want-to-reform-democracy-7f3b1ef10597#.qh36p8m0c).
 * ["The Affirmative Information Policy: Opening Up a Closed City" by John Kretzman](http://civictechbook.club/affirmativeinformationpolicy) Source: P. Clavel and W. Wiewel, eds, Harold Washington and the Neighbourhoods: Progressive City Government in Chicago 1983-1987. New Brunswick, N.J.: Rutgers University Press, 1991.
 * [“The Drama! Teen Conflict, Gossip, and Bullying in Networked Publics” by Alice E. Marwick and danah boyd](http://papers.ssrn.com/sol3/papers.cfm?abstract_id=1926349).
@@ -45,6 +46,7 @@ title:  "Reading List"
 * ["Solidarity Not Charity: Mutual Aid for Mobilization and Survivial" by Dean Spade](http://www.deanspade.net/wp-content/uploads/2020/03/Mutual-Aid-Article-Social-Text-Final.pdf)
 * ["Sorting Things Out: Classification and Its Consequences" by Geoffrey C. Bowker and Susan Leigh Star](https://mitpress.mit.edu/books/sorting-things-out) Source: MIT Press, September 1999.  
 * ["Smart Enough City" by Ben Green](https://smartenoughcity.mitpress.mit.edu/) Source: MIT Press, 2019.
+* ["The Age of Surveillance Capitalism: The Fight for a Human Future at the New Frontier of Power" by Shoshana Zuboff](https://www.publicaffairsbooks.com/titles/shoshana-zuboff/the-age-of-surveillance-capitalism/9781610395694/) Source: Public Affairs, 2019.
 * ["The City Reader" edited by Richard T. LeGates, Frederic Stout](https://books.google.com/books/about/The_City_Reader.html?id=xIBkX8edoewC) Source: Psychology Press, 2003.
 * ["The Fires: How a Computer Formula, Big Ideas, and the Best of Intentions Burned Down New Yo rk City--and Determined the Future of Cities" by Joe Flood](http://joe-flood.com/aboutthefires/) Source: Riverhead Books, The Penguin Group, 2010. 
 * ["The Government Machine: A Revolutionary History of the Computer" by Jon Agar](https://mitpress.mit.edu/books/government-machine) Source: MIT Press, September 2003.  

@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Winners Take All, Part Three"
+title:  "Winners Take All, Part 3"
 date:   2020-06-29 21:00:00
 categories: jekyll update
 ---

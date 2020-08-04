@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Inequality: What Can Be Done? (part 2 and part 3)"
+title:  "Inequality: What Can Be Done? (2/2)"
 date:   2017-04-27 20:00:00
 categories: jekyll update
 ---

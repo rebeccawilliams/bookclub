@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Joyful Militancy: Building Thriving Resistance in Toxic Times (Anarchist Interventions) Ch. 1,2"
+title:  "Joyful Militancy: Building Thriving Resistance in Toxic Times (Anarchist Interventions) (1/3)"
 date:   2018-03-05 20:00:00
 categories: jekyll update
 ---

@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "The Age of Surveillance Capitalism, Part 1"
+title:  "The Age of Surveillance Capitalism (1/3)"
 date:   2020-08-10 21:00:00
 categories: jekyll update
 ---

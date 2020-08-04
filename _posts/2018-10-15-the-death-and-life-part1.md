@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "The Death and Life of Great American Cities, Part One: The Peculiar Nature of Cities"
+title:  "The Death and Life of Great American Cities, Part 1: The Peculiar Nature of Cities"
 date:   2018-10-15 21:00:00
 categories: jekyll update
 ---

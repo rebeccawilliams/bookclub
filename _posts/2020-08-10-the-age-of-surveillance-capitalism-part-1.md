@@ -7,8 +7,8 @@ categories: jekyll update
 
 * ["The Age of Surveillance Capitalism: The Fight for a Human Future at the New Frontier of Power" by Shoshana Zuboff](https://www.publicaffairsbooks.com/titles/shoshana-zuboff/the-age-of-surveillance-capitalism/9781610395694/) Source: Public Affairs, 2019.
 
-INTRODUCTION 
-1 Home or Exile in the Digital Future 
+INTRODUCTION  
+1 Home or Exile in the Digital Future  
 
 PART I THE FOUNDATIONS OF SURVEILLANCE CAPITALISM  
 

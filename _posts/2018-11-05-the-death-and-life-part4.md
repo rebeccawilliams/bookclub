@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "The Death and Life of Great American Cities, Part Four: Different Tactics"
+title:  "The Death and Life of Great American Cities, Part 4: Different Tactics"
 date:   2018-11-05 21:00:00
 categories: jekyll update
 ---

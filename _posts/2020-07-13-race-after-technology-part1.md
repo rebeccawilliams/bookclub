@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Race After Technology: Abolitionist Tools for the New Jim Code Part 1"
+title:  "Race After Technology: Abolitionist Tools for the New Jim Code, Part 1"
 date:   2020-07-13 21:00:00
 categories: jekyll update
 ---

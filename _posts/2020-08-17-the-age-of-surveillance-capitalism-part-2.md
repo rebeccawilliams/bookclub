@@ -14,4 +14,4 @@ PART II THE ADVANCE OF SURVEILLANCE CAPITALISM
 10 Make Them Dance  
 11 The Right to the Future Tense  
 
-Tune in at 8pm CT/9pm ET via [Google Meet](https://calendar.google.com/event?action=TEMPLATE&tmeid=Nm04c2UxaGdoN2c3ODJvOWFqcjBxdjE0dXYgd2lsbGlhbXMucmViZWNjYUBt&tmsrc=williams.rebecca%40gmail.com)  
+Tune in at 8pm CT/9pm ET via [Google Meet](https://calendar.google.com/event?action=TEMPLATE&tmeid=MGY5bmlvanExbWM2MmNpMDVmNGhkaW1wNmogd2lsbGlhbXMucmViZWNjYUBt&tmsrc=williams.rebecca%40gmail.com)  

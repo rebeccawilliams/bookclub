@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "The Age of Surveillance Capitalism (1/3)"
+title:  "The Age of Surveillance Capitalism (1/5)"
 date:   2020-08-10 21:00:00
 categories: jekyll update
 ---
@@ -13,9 +13,6 @@ INTRODUCTION
 PART I THE FOUNDATIONS OF SURVEILLANCE CAPITALISM  
 
 2 August 9, 2011: Setting the Stage for Surveillance Capitalism  
-3 The Discovery of Behavioral Surplus  
-4 The Moat Around the Castle  
-5 The Elaboration of Surveillance Capitalism: Kidnap, Corner, Compete  
-6 Hijacked: The Division of Learning in Society  
+3 The Discovery of Behavioral Surplus    
 
 Tune in at 8pm CT/9pm ET via [Google Meet](https://calendar.google.com/event?action=TEMPLATE&tmeid=Nm04c2UxaGdoN2c3ODJvOWFqcjBxdjE0dXYgd2lsbGlhbXMucmViZWNjYUBt&tmsrc=williams.rebecca%40gmail.com)  

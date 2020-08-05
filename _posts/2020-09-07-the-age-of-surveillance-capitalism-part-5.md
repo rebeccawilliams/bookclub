@@ -15,4 +15,4 @@ categories: jekyll update
 CONCLUSION   
 18 A Coup from Above  
 
-Tune in at 8pm CT/9pm ET via [Google Meet](https://calendar.google.com/event?action=TEMPLATE&tmeid=N2NtcjFkN2cwaGQ3N2NrMTRlaWY4YXVjYjAgd2lsbGlhbXMucmViZWNjYUBt&tmsrc=williams.rebecca%40gmail.com)  
+Tune in at 8pm CT/9pm ET via [Google Meet](https://calendar.google.com/event?action=TEMPLATE&tmeid=MXFzdDkwNnNzcThwNWIwaG9uNDMzaGxjc3Ygd2lsbGlhbXMucmViZWNjYUBt&tmsrc=williams.rebecca%40gmail.com)  

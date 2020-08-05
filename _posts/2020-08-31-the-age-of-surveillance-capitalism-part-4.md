@@ -14,4 +14,4 @@ PART III INSTRUMENTARIAN POWER FOR A THIRD MODERNITY
 12 Two Species of Power  
 13 Big Other and the Rise of Instrumentarian Power  
 
-Tune in at 8pm CT/9pm ET via [Google Meet](https://calendar.google.com/event?action=TEMPLATE&tmeid=N2NtcjFkN2cwaGQ3N2NrMTRlaWY4YXVjYjAgd2lsbGlhbXMucmViZWNjYUBt&tmsrc=williams.rebecca%40gmail.com) 
+Tune in at 8pm CT/9pm ET via [Google Meet](https://calendar.google.com/event?action=TEMPLATE&tmeid=NzJubjdubHZxY2didXI2NWZsdHZwaG1lcWogd2lsbGlhbXMucmViZWNjYUBt&tmsrc=williams.rebecca%40gmail.com) 

@@ -27,6 +27,8 @@ title:  "Reading List"
 <u>To Read</u>
 * ["A Pattern Language: Towns, Buildings, Construction" by Christopher Alexander, Murray Silverstein, and Sara Ishikawa](https://en.wikipedia.org/wiki/A_Pattern_Language) Source: Oxford Unviersity Press, 1977.
 * ["Affective Disorders of the State: A Spinozan Diagnosis and Cure" by Ericka Tucker](http://www.cpp.edu/~jet/Documents/JET/Jet7/Tucker97-119.pdf) Source: Journal of East-West Thought: 3 (2):97-120, 2013.
+* ["All Data Are Local: Thinking Critically in a Data-Driven Society" by Yanni Alexander Loukissas](https://mitpress.mit.edu/books/all-data-are-local) Soure: MIT Press, April 2019.  
+* ["Algorithms of Oppression: How Search Engines Reinforce Racism" by Safiya Umoja Noble](https://nyupress.org/9781479837243/algorithms-of-oppression/) Source: NYU Press, 2018.  
 * ["Capital in the Twenty-First Century" by Thomas Piketty](https://en.wikipedia.org/wiki/Capital_in_the_Twenty-First_Century) Source: Harvard University Press, 2013. 
 * ["Clinical Versus Statistical Prediction: A Theoretical Analysis and a Review of the Evidence" by Paul E. Meehl](http://www.amazon.com/Clinical-Versus-Statistical-Prediction-Theoretical/dp/0963878492) Source: Echo Point Books & Media, 2013. 
 * ["Crises of the Republic: Lying in Politics, Civil Disobedience, On Violence, and Thoughts on Politics and Revolution" by Hannah Arendt]() Source: Harcourt Brace Jovanovich, 1972.
@@ -48,6 +50,7 @@ title:  "Reading List"
 * ["Sorting Things Out: Classification and Its Consequences" by Geoffrey C. Bowker and Susan Leigh Star](https://mitpress.mit.edu/books/sorting-things-out) Source: MIT Press, September 1999.  
 * ["Smart Enough City" by Ben Green](https://smartenoughcity.mitpress.mit.edu/) Source: MIT Press, 2019.
 * ["The City Reader" edited by Richard T. LeGates, Frederic Stout](https://books.google.com/books/about/The_City_Reader.html?id=xIBkX8edoewC) Source: Psychology Press, 2003.
+* ["The Color of Law: A Forgotten History of How Our Government Segregated America" by Richard Rothstein](https://www.epi.org/publication/the-color-of-law-a-forgotten-history-of-how-our-government-segregated-america/) Source: Economic Policy Institute, 2017.  
 * ["The Fires: How a Computer Formula, Big Ideas, and the Best of Intentions Burned Down New Yo rk City--and Determined the Future of Cities" by Joe Flood](http://joe-flood.com/aboutthefires/) Source: Riverhead Books, The Penguin Group, 2010. 
 * ["The Government Machine: A Revolutionary History of the Computer" by Jon Agar](https://mitpress.mit.edu/books/government-machine) Source: MIT Press, September 2003.  
 * ["The Holodeck of Motive" by Aaron Straup Cope](http://www.aaronland.info/weblog/2015/02/24/effort/) Source: aaronland.info, February 2015.

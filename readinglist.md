@@ -5,8 +5,6 @@ title:  "Reading List"
 
 _[Civic Tech Book Club Reading List on Bookshop.org](https://bookshop.org/lists/civic-tech-book-club-reading-list)_  
 
-_[Submit a Reading, Correct a Citation](https://github.com/rebeccawilliams/bookclub/blob/gh-pages/readinglist.md)_
-
 <u>Currently Reading</u>: ["The Age of Surveillance Capitalism: The Fight for a Human Future at the New Frontier of Power" by Shoshana Zuboff](https://www.publicaffairsbooks.com/titles/shoshana-zuboff/the-age-of-surveillance-capitalism/9781610395694/) Source: Public Affairs, 2019.
 
 <u>Read</u>
@@ -62,3 +60,5 @@ _[Submit a Reading, Correct a Citation](https://github.com/rebeccawilliams/bookc
 * ["The Politics of Information Reform in Chicago: An Experiment in Democratization" by John P Kretzmann](https://www.worldcat.org/title/politics-of-information-reform-in-chicago-an-experiment-in-democratization/oclc/14881489) Source: Ph. D. (Sociology)--Northwestern University, 1985.
 * ["The Public and its Problems" by John Dewey](https://en.wikipedia.org/wiki/The_Public_and_its_Problems) Source: Henry Holt and Company, 1927.
 * ["Truth and Politics" by Hannah Arendt](https://idanlandau.files.wordpress.com/2014/12/arendt-truth-and-politics.pdf) Source: The New Yorker, 1967.
+
+_[Submit a Reading, Correct a Citation](https://github.com/rebeccawilliams/bookclub/blob/gh-pages/readinglist.md)_

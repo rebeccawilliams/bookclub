@@ -3,7 +3,7 @@ layout: page
 title:  "Reading List"
 ---
 
-<a href="https://bookshop.org/lists/civic-tech-book-club-reading-list"><img src="https://raw.githubusercontent.com/rebeccawilliams/bookclub/gh-pages/assets/img/Screen%20Shot%202020-09-01%20at%206.01.09%20PM.png" alt="Bookshop image" width: "100%" height: "auto"></a>
+<a href="https://bookshop.org/lists/civic-tech-book-club-reading-list"><img src="https://raw.githubusercontent.com/rebeccawilliams/bookclub/gh-pages/assets/img/Screen%20Shot%202020-09-01%20at%206.01.09%20PM.png" alt="Bookshop image" width="100%" height="auto"></a>
 
 <u>Currently Reading</u>: ["The Age of Surveillance Capitalism: The Fight for a Human Future at the New Frontier of Power" by Shoshana Zuboff](https://www.publicaffairsbooks.com/titles/shoshana-zuboff/the-age-of-surveillance-capitalism/9781610395694/) Source: Public Affairs, 2019.
 

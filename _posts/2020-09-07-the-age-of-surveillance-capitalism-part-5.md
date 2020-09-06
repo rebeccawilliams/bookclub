@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "The Age of Surveillance Capitalism (5/5)"
-date:   2020-09-07 21:00:00
+date:   2020-09-14 21:00:00
 categories: jekyll update
 ---
 
@@ -15,4 +15,4 @@ categories: jekyll update
 CONCLUSION   
 18 A Coup from Above  
 
-Tune in at 8pm CT/9pm ET via [Google Meet](https://calendar.google.com/event?action=TEMPLATE&tmeid=MXFzdDkwNnNzcThwNWIwaG9uNDMzaGxjc3Ygd2lsbGlhbXMucmViZWNjYUBt&tmsrc=williams.rebecca%40gmail.com)  
+Tune in at 8pm CT/9pm ET via [Jitsi link TBD]  

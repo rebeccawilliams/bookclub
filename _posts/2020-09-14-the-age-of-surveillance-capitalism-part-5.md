@@ -15,4 +15,4 @@ categories: jekyll update
 CONCLUSION   
 18 A Coup from Above  
 
-Tune in at 8pm CT/9pm ET via [Jitsi link TBD]  
+Tune in at 8pm CT/9pm ET via [Jitsi](https://meet.jit.si/CivicTechBookClub)

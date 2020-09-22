@@ -9,4 +9,4 @@ categories: jekyll update
 
 Part 2: Discussion covering chapters 6 – 10 (pp. 139–290)
 
-Tune in at 8pm CT/9pm ET via [TBD Jitsi link]
+Tune in at 8pm CT/9pm ET via [Jitsi](https://meet.jit.si/CivicTechBookClub)

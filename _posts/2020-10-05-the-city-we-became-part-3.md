@@ -9,4 +9,4 @@ categories: jekyll update
 
 Part 3: Discussion covering chapters 11 – coda (pp. 291–434)
 
-Tune in at 8pm CT/9pm ET via [TBD Jitsi link]
+Tune in at 8pm CT/9pm ET via [Jitsi](https://meet.jit.si/CivicTechBookClub)

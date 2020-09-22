@@ -9,4 +9,4 @@ categories: jekyll update
 
 Part 1: Discussion covering prologue – chapter 5 (pp. 1–138)
 
-Tune in at 8pm CT/9pm ET via [TBD Jitsi link]
+Tune in at 8pm CT/9pm ET via [Jitsi](https://meet.jit.si/CivicTechBookClub)

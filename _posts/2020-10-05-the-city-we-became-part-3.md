@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "The City We Became (3/3)"
-date:   2020-10-05 21:00:00
+date:   2020-10-12 21:00:00
 categories: jekyll update
 ---
 

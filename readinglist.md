@@ -28,7 +28,7 @@ title:  "Reading List"
 
 <u>To Read</u>  
 
-<u>_[Get the Reading List on Bookshop.org](https://bookshop.org/lists/civic-tech-book-club-reading-list)_. All items not on Bookshop, below:</u>  
+_[Get the Reading List on Bookshop.org](https://bookshop.org/lists/civic-tech-book-club-reading-list)_. All items not on Bookshop, below: 
 
 * ["Affective Disorders of the State: A Spinozan Diagnosis and Cure" by Ericka Tucker](http://www.cpp.edu/~jet/Documents/JET/Jet7/Tucker97-119.pdf) Source: Journal of East-West Thought: 3 (2):97-120, 2013.
 * ["The Government Machine: A Revolutionary History of the Computer" by Jon Agar](https://mitpress.mit.edu/books/government-machine) Source: MIT Press, September 2003.  

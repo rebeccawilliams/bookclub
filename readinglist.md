@@ -4,7 +4,6 @@ title:  "Reading List"
 ---
 
 <a href="https://bookshop.org/lists/civic-tech-book-club-reading-list"><img src="https://raw.githubusercontent.com/rebeccawilliams/bookclub/gh-pages/assets/img/Screen%20Shot%202020-09-01%20at%206.01.09%20PM.png" alt="Bookshop image" width="100%" height="auto"></a>
-_[Get the Reading List on Bookshop.org](https://bookshop.org/lists/civic-tech-book-club-reading-list)_
 
 <u>Currently Reading</u>: ["The City We Became" by N. K. Jemisin](https://bookshop.org/a/13448/9780316509848) Source: Orbit, 2020. 
 
@@ -28,8 +27,7 @@ _[Get the Reading List on Bookshop.org](https://bookshop.org/lists/civic-tech-bo
 * ["Winners Take All" by Anand Giridharadas](https://bookshop.org/books/winners-take-all-the-elite-charade-of-changing-the-world/9781101972670)
 
 <u>To Read</u>
-_[Get the Reading List on Bookshop.org](https://bookshop.org/lists/civic-tech-book-club-reading-list)_. 
-All items not on Bookshop, below:  
+<u>_[Get the Reading List on Bookshop.org](https://bookshop.org/lists/civic-tech-book-club-reading-list)_. All items not on Bookshop, below:</u>  
 * ["Affective Disorders of the State: A Spinozan Diagnosis and Cure" by Ericka Tucker](http://www.cpp.edu/~jet/Documents/JET/Jet7/Tucker97-119.pdf) Source: Journal of East-West Thought: 3 (2):97-120, 2013.
 * ["The Government Machine: A Revolutionary History of the Computer" by Jon Agar](https://mitpress.mit.edu/books/government-machine) Source: MIT Press, September 2003.  
 * ["The Holodeck of Motive" by Aaron Straup Cope](http://www.aaronland.info/weblog/2015/02/24/effort/) Source: aaronland.info, February 2015.

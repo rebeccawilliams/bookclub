@@ -28,7 +28,8 @@ _[Get the Reading List on Bookshop.org](https://bookshop.org/lists/civic-tech-bo
 * ["Winners Take All" by Anand Giridharadas](https://bookshop.org/books/winners-take-all-the-elite-charade-of-changing-the-world/9781101972670)
 
 <u>To Read</u>
-See Bookshop link above. All items not on Bookshop, below: 
+_[Get the Reading List on Bookshop.org](https://bookshop.org/lists/civic-tech-book-club-reading-list)_. 
+All items not on Bookshop, below:  
 * ["Affective Disorders of the State: A Spinozan Diagnosis and Cure" by Ericka Tucker](http://www.cpp.edu/~jet/Documents/JET/Jet7/Tucker97-119.pdf) Source: Journal of East-West Thought: 3 (2):97-120, 2013.
 * ["The Government Machine: A Revolutionary History of the Computer" by Jon Agar](https://mitpress.mit.edu/books/government-machine) Source: MIT Press, September 2003.  
 * ["The Holodeck of Motive" by Aaron Straup Cope](http://www.aaronland.info/weblog/2015/02/24/effort/) Source: aaronland.info, February 2015.

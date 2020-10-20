@@ -25,3 +25,6 @@ Brooklyn brownstones are celebrated as uniquely part of New York, and even the a
 handicap elevator to the front makes the space less Brooklyn.
 Yet even these rows of brownstones were at some point a housing project for the middle-to-uppper
 class of another era.
+
+## Do legal boundaries matter?
+Was it reasonable to have a different avatar for each borough? Is there even a "New York" if legal boundaries are amorphous?

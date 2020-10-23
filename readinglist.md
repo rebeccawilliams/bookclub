@@ -3,8 +3,8 @@ layout: page
 title:  "Reading List"
 ---
 
-<u>Currently Reading</u>: [Investigation on Competition in Digital Markets](https://judiciary.house.gov/uploadedfiles/competition_in_digital_markets.pdf) Source: United States House Judiciary Subcommittee on Antitrust, Commercial and Administrative Law, 2020. & [U.S. v. Google](https://www.justice.gov/opa/press-release/file/1328941/download) Source: Department of Justice, 2020. 
-_[See Previous Discussions](/discussions)_. 
+<u>Currently Reading</u>: [Investigation on Competition in Digital Markets](https://judiciary.house.gov/uploadedfiles/competition_in_digital_markets.pdf) Source: United States House Judiciary Subcommittee on Antitrust, Commercial and Administrative Law, 2020. & [U.S. v. Google](https://www.justice.gov/opa/press-release/file/1328941/download) Source: Department of Justice, 2020.  
+_[See Previous Discussions](/discussions)_.  
 
 <a href="https://bookshop.org/lists/civic-tech-book-club-reading-list"><img src="https://raw.githubusercontent.com/rebeccawilliams/bookclub/gh-pages/assets/img/Screen%20Shot%202020-09-01%20at%206.01.09%20PM.png" alt="Bookshop image" width="100%" height="auto"></a>
 _[Get the Reading List on Bookshop.org](https://bookshop.org/lists/civic-tech-book-club-reading-list)_. 

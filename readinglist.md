@@ -3,8 +3,6 @@ layout: page
 title:  "Reading List"
 ---
 
-<a href="https://bookshop.org/lists/civic-tech-book-club-reading-list"><img src="https://raw.githubusercontent.com/rebeccawilliams/bookclub/gh-pages/assets/img/Screen%20Shot%202020-09-01%20at%206.01.09%20PM.png" alt="Bookshop image" width="100%" height="auto"></a>
-
 <u>Currently Reading</u>: [Investigation on Competition in Digital Markets](https://judiciary.house.gov/uploadedfiles/competition_in_digital_markets.pdf) Source: United States House Judiciary Subcommittee on Antitrust, Commercial and Administrative Law, 2020. & [U.S. v. Google](https://www.justice.gov/opa/press-release/file/1328941/download) Source: Department of Justice, 2020. 
 
 <u>Read</u>
@@ -12,9 +10,9 @@ title:  "Reading List"
 * ["The Age of Surveillance Capitalism: The Fight for a Human Future at the New Frontier of Power" by Shoshana Zuboff](https://www.publicaffairsbooks.com/titles/shoshana-zuboff/the-age-of-surveillance-capitalism/9781610395694/) Source: Public Affairs, 2019.
 * ["The City We Became" by N. K. Jemisin](https://bookshop.org/a/13448/9780316509848) Source: Orbit, 2020. 
 * ["Convivial Reconstruction" by Ivan Illich from "Tools for Conviviality” ](http://civictechbook.club/convivial-reconstruction) Source: Fontana/Collins, 1973.
-* [“The Drama! Teen Conflict, Gossip, and Bullying in Networked Publics” by Alice E. Marwick and danah boyd](http://papers.ssrn.com/sol3/papers.cfm?abstract_id=1926349).
 * ["The Death and Life of Great American Cities" by Jane Jacobs](https://bookshop.org/books/the-death-and-life-of-great-american-cities-9780679741954/9780679741954?aid=13448).
 * ["Designing Freedom, Regulating a Nation: Socialist Cybernetics in Allende’s Chile"  by Eden Medina](http://www.informatics.indiana.edu/edenm/EdenMedinaJLASAugust2006.pdf) Source: Journal of Latin American Studies 38 (2006): 571-606. United Kingdom: Cambridge University Press, 2006.
+* [“The Drama! Teen Conflict, Gossip, and Bullying in Networked Publics” by Alice E. Marwick and danah boyd](http://papers.ssrn.com/sol3/papers.cfm?abstract_id=1926349).
 * ["Joyful Militancy: Building Thriving Resistance in Toxic Times (Anarchist Interventions)" by Carla Bergman and Nick Montgomery](https://bookshop.org/books/joyful-militancy-building-thriving-resistance-in-toxic-times/9781849352888?aid=13448).
 * ["Inequality: What Can Be Done?" by Anthony B. Atkinson](https://bookshop.org/books/inequality-what-can-be-done/9780674979789?aid=13448)
 * [Leverage Points: Places to Intervene in a System by Donella Meadows](http://donellameadows.org/archives/leverage-points-places-to-intervene-in-a-system/). 
@@ -29,6 +27,7 @@ title:  "Reading List"
 
 <u>To Read</u>  
 
+<a href="https://bookshop.org/lists/civic-tech-book-club-reading-list"><img src="https://raw.githubusercontent.com/rebeccawilliams/bookclub/gh-pages/assets/img/Screen%20Shot%202020-09-01%20at%206.01.09%20PM.png" alt="Bookshop image" width="100%" height="auto"></a>
 _[Get the Reading List on Bookshop.org](https://bookshop.org/lists/civic-tech-book-club-reading-list)_. All items not on Bookshop, below: 
 
 * ["Affective Disorders of the State: A Spinozan Diagnosis and Cure" by Ericka Tucker](http://www.cpp.edu/~jet/Documents/JET/Jet7/Tucker97-119.pdf) Source: Journal of East-West Thought: 3 (2):97-120, 2013.

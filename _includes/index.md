@@ -1,1 +1,1 @@
-A virtual book club that meets sporadically to discuss readings on civics and technology.
+A virtual book club that meets sporadically to discuss readings related to civics and technology. If you have questions or have issues joining reach out to the site maintainers. 

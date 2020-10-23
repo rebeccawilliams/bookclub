@@ -10,3 +10,5 @@ categories: jekyll update
 Part 3: Discussion covering chapters 11 – coda (pp. 291–434)
 
 Tune in at 8pm CT/9pm ET via [Zoom](https://harvard.zoom.us/j/94119863253?pwd=VmlXU0MweGFnN2lOemQyckVyVlhndz09)
+
+[Notes](https://github.com/rebeccawilliams/bookclub/blob/gh-pages/book%20notes/18-Jemisin-The%20City%20We%20Became.md)

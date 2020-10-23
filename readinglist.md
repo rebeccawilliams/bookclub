@@ -4,32 +4,26 @@ title:  "Reading List"
 ---
 
 <u>Currently Reading</u>: [Investigation on Competition in Digital Markets](https://judiciary.house.gov/uploadedfiles/competition_in_digital_markets.pdf) Source: United States House Judiciary Subcommittee on Antitrust, Commercial and Administrative Law, 2020. & [U.S. v. Google](https://www.justice.gov/opa/press-release/file/1328941/download) Source: Department of Justice, 2020. 
+_[See Previous Discussions](/discussions)_. 
+
+<a href="https://bookshop.org/lists/civic-tech-book-club-reading-list"><img src="https://raw.githubusercontent.com/rebeccawilliams/bookclub/gh-pages/assets/img/Screen%20Shot%202020-09-01%20at%206.01.09%20PM.png" alt="Bookshop image" width="100%" height="auto"></a>
+_[Get the Reading List on Bookshop.org](https://bookshop.org/lists/civic-tech-book-club-reading-list)_. 
+ 
+All items not on Bookshop, below: 
 
 <u>Read</u>
 * ["The Affirmative Information Policy: Opening Up a Closed City" by John Kretzman](http://civictechbook.club/affirmativeinformationpolicy) Source: P. Clavel and W. Wiewel, eds, Harold Washington and the Neighbourhoods: Progressive City Government in Chicago 1983-1987. New Brunswick, N.J.: Rutgers University Press, 1991.
-* ["The Age of Surveillance Capitalism: The Fight for a Human Future at the New Frontier of Power" by Shoshana Zuboff](https://www.publicaffairsbooks.com/titles/shoshana-zuboff/the-age-of-surveillance-capitalism/9781610395694/) Source: Public Affairs, 2019.
-* ["The City We Became" by N. K. Jemisin](https://bookshop.org/a/13448/9780316509848) Source: Orbit, 2020. 
 * ["Convivial Reconstruction" by Ivan Illich from "Tools for Conviviality” ](http://civictechbook.club/convivial-reconstruction) Source: Fontana/Collins, 1973.
-* ["The Death and Life of Great American Cities" by Jane Jacobs](https://bookshop.org/books/the-death-and-life-of-great-american-cities-9780679741954/9780679741954?aid=13448).
 * ["Designing Freedom, Regulating a Nation: Socialist Cybernetics in Allende’s Chile"  by Eden Medina](http://www.informatics.indiana.edu/edenm/EdenMedinaJLASAugust2006.pdf) Source: Journal of Latin American Studies 38 (2006): 571-606. United Kingdom: Cambridge University Press, 2006.
 * [“The Drama! Teen Conflict, Gossip, and Bullying in Networked Publics” by Alice E. Marwick and danah boyd](http://papers.ssrn.com/sol3/papers.cfm?abstract_id=1926349).
-* ["Joyful Militancy: Building Thriving Resistance in Toxic Times (Anarchist Interventions)" by Carla Bergman and Nick Montgomery](https://bookshop.org/books/joyful-militancy-building-thriving-resistance-in-toxic-times/9781849352888?aid=13448).
-* ["Inequality: What Can Be Done?" by Anthony B. Atkinson](https://bookshop.org/books/inequality-what-can-be-done/9780674979789?aid=13448)
 * [Leverage Points: Places to Intervene in a System by Donella Meadows](http://donellameadows.org/archives/leverage-points-places-to-intervene-in-a-system/). 
 * ["The Negro Family: The Case for National Action" (the 1965 Moynihan Report) by Daniel Patrick Moynihan](https://web.stanford.edu/~mrosenfe/Moynihan%27s%20The%20Negro%20Family.pdf) Source: Office of Policy and Planning. U.S. Department of Labor, March 1965.
 * ["Predictive Policing: The Role of Crime Forecasting in Law Enforcement Operations" by Walter L. Perry, Brian McInnis, Carter C. Price, Susan C. Smith, John S. Hollywood](https://www.rand.org/content/dam/rand/pubs/research_reports/RR200/RR233/RAND_RR233.pdf) Source: RAND Corporation, 2013
-* ["Race After Technology: Abolitionist Tools for the New Jim Code" by Ruha Benjamin](https://bookshop.org/books/race-after-technology-abolitionist-tools-for-the-new-jim-code/9781509526406?aid=13448) Source: Polity, July 2019. 
 * ["Roles for Computing in Social Change" by Rediet Abebe, Solon Barocas, Jon Kleinberg, Karen Levy, Manish Raghavan, David G. Robinson](https://arxiv.org/abs/1912.04883) Source: Cornell University, 2019.
 * ["So you want to reform democracy" by Josh Tauberer](https://medium.com/@joshuatauberer/so-you-want-to-reform-democracy-7f3b1ef10597#.qh36p8m0c).
-* ["The Third Reconstruction: How a Moral Movement Is Overcoming the Politics of Division and Fear" by Rev Dr William J. Barber II](https://bookshop.org/books/the-third-reconstruction-how-a-moral-movement-is-overcoming-the-politics-of-division-and-fear/9780807007419?aid=13448).
 * ["Violence and Economic Activity:  Evidence from African American Patents, 1870 to 1940" by Lisa D. Cook](https://lisadcook.net/wp-content/uploads/2014/02/pats_paper17_1013_final_web.pdf) Source: Michigan State University, 2013.
-* ["Winners Take All" by Anand Giridharadas](https://bookshop.org/books/winners-take-all-the-elite-charade-of-changing-the-world/9781101972670)
 
-<u>To Read</u>  
-
-<a href="https://bookshop.org/lists/civic-tech-book-club-reading-list"><img src="https://raw.githubusercontent.com/rebeccawilliams/bookclub/gh-pages/assets/img/Screen%20Shot%202020-09-01%20at%206.01.09%20PM.png" alt="Bookshop image" width="100%" height="auto"></a>
-_[Get the Reading List on Bookshop.org](https://bookshop.org/lists/civic-tech-book-club-reading-list)_. All items not on Bookshop, below: 
-
+<u>To Read</u> 
 * ["Affective Disorders of the State: A Spinozan Diagnosis and Cure" by Ericka Tucker](http://www.cpp.edu/~jet/Documents/JET/Jet7/Tucker97-119.pdf) Source: Journal of East-West Thought: 3 (2):97-120, 2013.
 * ["The Government Machine: A Revolutionary History of the Computer" by Jon Agar](https://mitpress.mit.edu/books/government-machine) Source: MIT Press, September 2003.  
 * ["The Holodeck of Motive" by Aaron Straup Cope](http://www.aaronland.info/weblog/2015/02/24/effort/) Source: aaronland.info, February 2015.

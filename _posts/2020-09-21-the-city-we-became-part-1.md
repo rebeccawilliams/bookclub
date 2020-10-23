@@ -10,3 +10,5 @@ categories: jekyll update
 Part 1: Discussion covering prologue – chapter 5 (pp. 1–138)
 
 Tune in at 8pm CT/9pm ET via [Jitsi](https://meet.jit.si/CivicTechBookClub)
+
+[Notes](https://github.com/rebeccawilliams/bookclub/blob/gh-pages/book%20notes/18-Jemisin-The%20City%20We%20Became.md)

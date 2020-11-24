@@ -4,7 +4,6 @@ title:  "Reading List"
 ---
 
 <u>Currently Reading</u>: [Investigation on Competition in Digital Markets](https://judiciary.house.gov/uploadedfiles/competition_in_digital_markets.pdf) Source: United States House Judiciary Subcommittee on Antitrust, Commercial and Administrative Law, 2020. & [U.S. v. Google](https://www.justice.gov/opa/press-release/file/1328941/download) Source: Department of Justice, 2020.  
-_[See Previous Discussions](/discussions)_.  
 
 <a href="https://bookshop.org/lists/civic-tech-book-club-reading-list"><img src="https://raw.githubusercontent.com/rebeccawilliams/bookclub/gh-pages/assets/img/Screen%20Shot%202020-09-01%20at%206.01.09%20PM.png" alt="Bookshop image" width="100%" height="auto"></a>
 _[Get the Reading List on Bookshop.org](https://bookshop.org/lists/civic-tech-book-club-reading-list)_. 
@@ -12,6 +11,7 @@ _[Get the Reading List on Bookshop.org](https://bookshop.org/lists/civic-tech-bo
 All items not on Bookshop, below: 
 
 <u>Read</u>
+_[See Previous Discussions](/discussions)_.  
 * ["The Affirmative Information Policy: Opening Up a Closed City" by John Kretzman](http://civictechbook.club/affirmativeinformationpolicy) Source: P. Clavel and W. Wiewel, eds, Harold Washington and the Neighbourhoods: Progressive City Government in Chicago 1983-1987. New Brunswick, N.J.: Rutgers University Press, 1991.
 * ["Convivial Reconstruction" by Ivan Illich from "Tools for Conviviality” ](http://civictechbook.club/convivial-reconstruction) Source: Fontana/Collins, 1973.
 * ["Designing Freedom, Regulating a Nation: Socialist Cybernetics in Allende’s Chile"  by Eden Medina](http://www.informatics.indiana.edu/edenm/EdenMedinaJLASAugust2006.pdf) Source: Journal of Latin American Studies 38 (2006): 571-606. United Kingdom: Cambridge University Press, 2006.

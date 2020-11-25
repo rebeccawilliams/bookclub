@@ -10,7 +10,7 @@ _[Get the Reading List on Bookshop.org](https://bookshop.org/lists/civic-tech-bo
  
 All items not on Bookshop, below: 
 
-<u>Read</u>
+<u>Read</u>  
 _[See Previous Discussions](/discussions)_.  
 * ["The Affirmative Information Policy: Opening Up a Closed City" by John Kretzman](http://civictechbook.club/affirmativeinformationpolicy) Source: P. Clavel and W. Wiewel, eds, Harold Washington and the Neighbourhoods: Progressive City Government in Chicago 1983-1987. New Brunswick, N.J.: Rutgers University Press, 1991.
 * ["Convivial Reconstruction" by Ivan Illich from "Tools for Conviviality” ](http://civictechbook.club/convivial-reconstruction) Source: Fontana/Collins, 1973.

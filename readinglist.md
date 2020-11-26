@@ -3,10 +3,10 @@ layout: page
 title:  "Reading List"
 ---
 
-[Get the Reading List on Bookshop.org](https://bookshop.org/lists/civic-tech-book-club-reading-list). All items not on Bookshop, below: 
+[Get the Reading List on Bookshop.org](https://bookshop.org/lists/civic-tech-book-club-reading-list). All items not on Bookshop are listed below.
 
 ### Currently Reading
-* Movie. 
+* [SNCC](https://vimeo.com/461037507) (film) by Danny Lyon.
 
 ### Read 
 * ["The Affirmative Information Policy: Opening Up a Closed City" by John Kretzman](http://civictechbook.club/affirmativeinformationpolicy) Source: P. Clavel and W. Wiewel, eds, Harold Washington and the Neighbourhoods: Progressive City Government in Chicago 1983-1987. New Brunswick, N.J.: Rutgers University Press, 1991.

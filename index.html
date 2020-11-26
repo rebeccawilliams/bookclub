@@ -8,8 +8,24 @@ permalink: /
 {% capture index %}{% include index.md %}{% endcapture %}
 {{ index | markdownify }}
 
-<a href="https://bookshop.org/lists/civic-tech-book-club-reading-list"><img src="https://raw.githubusercontent.com/rebeccawilliams/bookclub/gh-pages/assets/img/Screen%20Shot%202020-09-01%20at%206.01.09%20PM.png" alt="Bookshop image" width="100%" height="auto"></a>
-<a href"https://bookshop.org/lists/civic-tech-book-club-reading-list">Get the Reading List on Bookshop.org</a>
+{% if site.group %}
+<section id="repositories">
+  <h2>Join</h2>
+  <ul class="repo-list group">
+    <li class="list-icon">
+      <img src="assets/img/octocat.png" width="25px" alt="">
+    </li>
+    {% for group in site.group %}
+      <li>
+        <a href="{{ group.url }}">
+          <h4>{{ group.name }}</h4>
+          <p>{{ group.description }}</p>
+        </a>
+      </li>
+    {% endfor %}
+  </ul>
+</section>
+{% endif %}
 
 {% if site.repos %}
 <section id="repositories">
@@ -30,23 +46,6 @@ permalink: /
 </section>
 {% endif %}
 
-{% if site.group %}
-<section id="repositories">
-  <h2>Join</h2>
-  <ul class="repo-list group">
-    <li class="list-icon">
-      <img src="assets/img/octocat.png" width="25px" alt="">
-    </li>
-    {% for group in site.group %}
-      <li>
-        <a href="{{ group.url }}">
-          <h4>{{ group.name }}</h4>
-          <p>{{ group.description }}</p>
-        </a>
-      </li>
-    {% endfor %}
-  </ul>
-</section>
-{% endif %}
+
 
 

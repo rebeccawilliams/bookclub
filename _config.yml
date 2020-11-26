@@ -45,5 +45,10 @@ repos:
   description: Code for this website
   url: https://github.com/rebeccawilliams/bookclub
 
+group:
+- name: Civic Tech Book Clube
+  description: Google Group Listserv
+  url: https://groups.google.com/forum/#!forum/civictechbookclub
+
 # Style Variables
 brand_color: "#eca702"

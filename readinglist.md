@@ -3,10 +3,7 @@ layout: page
 title:  "Reading List"
 ---
 
-<a href="https://bookshop.org/lists/civic-tech-book-club-reading-list"><img src="https://raw.githubusercontent.com/rebeccawilliams/bookclub/gh-pages/assets/img/Screen%20Shot%202020-09-01%20at%206.01.09%20PM.png" alt="Bookshop image" width="100%" height="auto"></a>
-_[Get the Reading List on Bookshop.org](https://bookshop.org/lists/civic-tech-book-club-reading-list)_. 
- 
-All items not on Bookshop, below: 
+[Get the Reading List on Bookshop.org](https://bookshop.org/lists/civic-tech-book-club-reading-list). All items not on Bookshop, below: 
 
 ### Currently Reading
 * Movie. 
@@ -24,7 +21,7 @@ All items not on Bookshop, below:
 * ["So you want to reform democracy" by Josh Tauberer](https://medium.com/@joshuatauberer/so-you-want-to-reform-democracy-7f3b1ef10597#.qh36p8m0c).
 * ["Violence and Economic Activity:  Evidence from African American Patents, 1870 to 1940" by Lisa D. Cook](https://lisadcook.net/wp-content/uploads/2014/02/pats_paper17_1013_final_web.pdf) Source: Michigan State University, 2013.  
 
-_[See Previous Discussions for more information](/discussions)_. 
+[See Previous Discussions for more information](/discussions). 
 
 ### To Read
 * ["Affective Disorders of the State: A Spinozan Diagnosis and Cure" by Ericka Tucker](http://www.cpp.edu/~jet/Documents/JET/Jet7/Tucker97-119.pdf) Source: Journal of East-West Thought: 3 (2):97-120, 2013.
@@ -40,4 +37,4 @@ _[See Previous Discussions for more information](/discussions)_.
 * ["Some Thoughts" by Various on Sidewalk Toronto](https://some-thoughts.org/) Source, some-thoughts.org, 2019.
 * ["Truth and Politics" by Hannah Arendt](https://idanlandau.files.wordpress.com/2014/12/arendt-truth-and-politics.pdf) Source: The New Yorker, 1967.
 
-_[Submit a Reading, Correct a Citation](https://github.com/rebeccawilliams/bookclub/blob/gh-pages/readinglist.md)_.
+[Submit a Reading, correct a citation](https://github.com/rebeccawilliams/bookclub/blob/gh-pages/readinglist.md).

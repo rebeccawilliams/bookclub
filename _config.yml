@@ -45,7 +45,7 @@ repos:
 group:
 - name: Listserv
   description: Google Group
-  url: https://groups.google.com/g/civictechbookclub
-  
+  url: https://groups.google.com/forum/#!forum/civictechbookclub/join 
+
 # Style Variables
 brand_color: "#eca702"

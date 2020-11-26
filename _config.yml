@@ -38,13 +38,13 @@ navigation:
 # Repo list
 # List repos that you would like to appear on the homepage here
 repos:
-- name: Book Club
-  description: Code for this website
+- name: Open Source Code for this Website
+  description: GitHub
   url: https://github.com/rebeccawilliams/bookclub
 
 group:
-- name: Civic Tech Book Club
-  description: Google Group & Listserv
+- name: Listserv
+  description: Google Group
   url: https://groups.google.com/forum/#!forum/civictechbookclub
 
 # Style Variables

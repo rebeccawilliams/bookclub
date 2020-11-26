@@ -38,7 +38,7 @@ navigation:
 # Repo list
 # List repos that you would like to appear on the homepage here
 repos:
-- name: Open Source Code for this Website
+- name: Website Code
   description: GitHub
   url: https://github.com/rebeccawilliams/bookclub
 

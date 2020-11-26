@@ -25,7 +25,7 @@ logoalt:
 # Navigation
 # List links that should appear in the site sidebar here
 navigation:
-- text: Home
+- text: About
   url: " "
   internal: true
 - text: Discussions
@@ -44,7 +44,7 @@ repos:
 
 group:
 - name: Civic Tech Book Club
-  description: Google Group Listserv
+  description: Google Group & Listserv
   url: https://groups.google.com/forum/#!forum/civictechbookclub
 
 # Style Variables

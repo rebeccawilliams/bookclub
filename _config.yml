@@ -33,10 +33,7 @@ navigation:
   internal: true
 - text: Reading List
   url: readinglist
-  internal: true  
-- text: "Join the Club"
-  url: https://groups.google.com/forum/#!forum/civictechbookclub
-  internal: false    
+  internal: true   
 
 # Repo list
 # List repos that you would like to appear on the homepage here
@@ -46,7 +43,7 @@ repos:
   url: https://github.com/rebeccawilliams/bookclub
 
 group:
-- name: Civic Tech Book Clube
+- name: Civic Tech Book Club
   description: Google Group Listserv
   url: https://groups.google.com/forum/#!forum/civictechbookclub
 

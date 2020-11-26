@@ -8,7 +8,7 @@ _[Get the Reading List on Bookshop.org](https://bookshop.org/lists/civic-tech-bo
  
 All items not on Bookshop, below: 
 
-# Read 
+### Read 
 * ["The Affirmative Information Policy: Opening Up a Closed City" by John Kretzman](http://civictechbook.club/affirmativeinformationpolicy) Source: P. Clavel and W. Wiewel, eds, Harold Washington and the Neighbourhoods: Progressive City Government in Chicago 1983-1987. New Brunswick, N.J.: Rutgers University Press, 1991.
 * ["Convivial Reconstruction" by Ivan Illich from "Tools for Conviviality” ](http://civictechbook.club/convivial-reconstruction) Source: Fontana/Collins, 1973.
 * ["Designing Freedom, Regulating a Nation: Socialist Cybernetics in Allende’s Chile"  by Eden Medina](http://www.informatics.indiana.edu/edenm/EdenMedinaJLASAugust2006.pdf) Source: Journal of Latin American Studies 38 (2006): 571-606. United Kingdom: Cambridge University Press, 2006.
@@ -19,10 +19,11 @@ All items not on Bookshop, below:
 * ["Predictive Policing: The Role of Crime Forecasting in Law Enforcement Operations" by Walter L. Perry, Brian McInnis, Carter C. Price, Susan C. Smith, John S. Hollywood](https://www.rand.org/content/dam/rand/pubs/research_reports/RR200/RR233/RAND_RR233.pdf) Source: RAND Corporation, 2013
 * ["Roles for Computing in Social Change" by Rediet Abebe, Solon Barocas, Jon Kleinberg, Karen Levy, Manish Raghavan, David G. Robinson](https://arxiv.org/abs/1912.04883) Source: Cornell University, 2019.
 * ["So you want to reform democracy" by Josh Tauberer](https://medium.com/@joshuatauberer/so-you-want-to-reform-democracy-7f3b1ef10597#.qh36p8m0c).
-* ["Violence and Economic Activity:  Evidence from African American Patents, 1870 to 1940" by Lisa D. Cook](https://lisadcook.net/wp-content/uploads/2014/02/pats_paper17_1013_final_web.pdf) Source: Michigan State University, 2013.
+* ["Violence and Economic Activity:  Evidence from African American Patents, 1870 to 1940" by Lisa D. Cook](https://lisadcook.net/wp-content/uploads/2014/02/pats_paper17_1013_final_web.pdf) Source: Michigan State University, 2013.  
+
 _[See Previous Discussions for more information.](/discussions)_. 
 
-# To Read
+### To Read
 * ["Affective Disorders of the State: A Spinozan Diagnosis and Cure" by Ericka Tucker](http://www.cpp.edu/~jet/Documents/JET/Jet7/Tucker97-119.pdf) Source: Journal of East-West Thought: 3 (2):97-120, 2013.
 * ["The Government Machine: A Revolutionary History of the Computer" by Jon Agar](https://mitpress.mit.edu/books/government-machine) Source: MIT Press, September 2003.  
 * ["The Holodeck of Motive" by Aaron Straup Cope](http://www.aaronland.info/weblog/2015/02/24/effort/) Source: aaronland.info, February 2015.

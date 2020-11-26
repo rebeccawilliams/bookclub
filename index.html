@@ -32,12 +32,12 @@ permalink: /
 
 {% if site.group %}
 <section id="repositories">
-  <h2>Contribute</h2>
+  <h2>Join</h2>
   <ul class="repo-list group">
     <li class="list-icon">
       <img src="assets/img/octocat.png" width="25px" alt="">
     </li>
-    {% for repo in site.repos %}
+    {% for group in site.group %}
       <li>
         <a href="{{ group.url }}">
           <h4>{{ group.name }}</h4>

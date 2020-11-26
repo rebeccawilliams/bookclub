@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Predict and Surveil: Data, Discretion, and the Future of Policing 1/3"
+title:  "Predict and Surveil: Data, Discretion, and the Future of Policing (1/3)"
 date:   2020-12-07 21:00:00
 categories: jekyll update
 ---

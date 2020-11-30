@@ -29,7 +29,7 @@ title:  "Reading List"
 * ["The Holodeck of Motive" by Aaron Straup Cope](http://www.aaronland.info/weblog/2015/02/24/effort/) Source: aaronland.info, February 2015.
 * ["The Politics of Information Reform in Chicago: An Experiment in Democratization" by John P Kretzmann](https://www.worldcat.org/title/politics-of-information-reform-in-chicago-an-experiment-in-democratization/oclc/14881489) Source: Ph. D. (Sociology)--Northwestern University, 1985.
 * ["The Public and its Problems" by John Dewey](https://bookshop.org/books/the-public-and-its-problems-an-essay-in-political-inquiry/9780804011662?aid=13448) Source: Henry Holt and Company, 1927.
-* ["Red Plenty Platforms" by Nick Dyer-Witheford](http://www.culturemachine.net/index.php/cm/article/view/511/526) Source: Culture Machine Vol 14, 2013.
+* ["Red Plenty Platforms" by Nick Dyer-Witheford](https://culturemachine.net/wp-content/uploads/2019/05/511-1153-1-PB.pdf) Source: Culture Machine Vol 14, 2013.
 * ["Scenarios: Shooting the Rapids" by Pierre Wack](https://hbr.org/1985/11/scenarios-shooting-the-rapids/ar/1) Source: Harvard Business Review November, 1985.
 * ["Seeing Like a Geek" by Tom Slee](http://crookedtimber.org/2012/06/25/seeing-like-a-geek/) Source: crookedtimber.org, June 2012. 
 * ["Socialize the Data Centres!" by Evgeny Morozov](http://newleftreview.org/II/91/evgeny-morozov-socialize-the-data-centres) Source: New Left Review 91, January-February 2015.

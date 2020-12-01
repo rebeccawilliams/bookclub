@@ -6,7 +6,7 @@ title:  "Reading List"
 [Get the Reading List on Bookshop.org](https://bookshop.org/lists/civic-tech-book-club-reading-list). All items not on Bookshop are listed below.
 
 ### Currently Reading
-* [SNCC](https://vimeo.com/461037507) (film) by Danny Lyon.
+* [Predict and Surveil: Data, Discretion, and the Future of Policing](https://bookshop.org/books/predict-and-surveil-data-discretion-and-the-future-of-policing/9780190684099?aid=13448&listref=civic-tech-book-club-reading-list) by Sarah Brayne.
 
 ### Read 
 * ["The Affirmative Information Policy: Opening Up a Closed City" by John Kretzman](http://civictechbook.club/affirmativeinformationpolicy) Source: P. Clavel and W. Wiewel, eds, Harold Washington and the Neighbourhoods: Progressive City Government in Chicago 1983-1987. New Brunswick, N.J.: Rutgers University Press, 1991.
@@ -18,6 +18,7 @@ title:  "Reading List"
 * ["The Negro Family: The Case for National Action" (the 1965 Moynihan Report) by Daniel Patrick Moynihan](https://web.stanford.edu/~mrosenfe/Moynihan%27s%20The%20Negro%20Family.pdf) Source: Office of Policy and Planning. U.S. Department of Labor, March 1965.
 * ["Predictive Policing: The Role of Crime Forecasting in Law Enforcement Operations" by Walter L. Perry, Brian McInnis, Carter C. Price, Susan C. Smith, John S. Hollywood](https://www.rand.org/content/dam/rand/pubs/research_reports/RR200/RR233/RAND_RR233.pdf) Source: RAND Corporation, 2013
 * ["Roles for Computing in Social Change" by Rediet Abebe, Solon Barocas, Jon Kleinberg, Karen Levy, Manish Raghavan, David G. Robinson](https://arxiv.org/abs/1912.04883) Source: Cornell University, 2019.
+* [SNCC](https://vimeo.com/461037507) (film) by Danny Lyon.
 * ["So you want to reform democracy" by Josh Tauberer](https://medium.com/@joshuatauberer/so-you-want-to-reform-democracy-7f3b1ef10597#.qh36p8m0c).
 * ["Violence and Economic Activity:  Evidence from African American Patents, 1870 to 1940" by Lisa D. Cook](https://lisadcook.net/wp-content/uploads/2014/02/pats_paper17_1013_final_web.pdf) Source: Michigan State University, 2013.  
 

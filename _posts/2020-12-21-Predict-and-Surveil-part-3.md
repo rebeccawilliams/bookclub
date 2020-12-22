@@ -11,4 +11,4 @@ Chapter 6. Coding Inequality: How the Use of Big Data Reduces, Obscures, and Amp
 Chapter 7. Algorithmic Suspicion and Big Data: The Inadequacy of Law in the Digital Age  
 Chapter 8. Conclusion: Big Data as Social  
 
-Tune in at 8pm CT/9pm ET via [Zoom](https://harvard.zoom.us/j/97704612486)
+Tune in at 8pm CT/9pm ET via [Zoom](https://georgetown.zoom.us/j/7193408613)

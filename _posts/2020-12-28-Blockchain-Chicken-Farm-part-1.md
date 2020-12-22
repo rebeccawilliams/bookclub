@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Blockchain Chicken Farm: And Other Stories of Tech in China's Countryside (1/3)"
-date:   2020-12-28 21:00:00
+date:   2021-01-04 21:00:00
 categories: jekyll update
 ---
 

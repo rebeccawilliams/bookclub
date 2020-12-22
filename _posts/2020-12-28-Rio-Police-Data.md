@@ -16,3 +16,5 @@ Another cool dataset is this citizen-reported data on gun shootings in Rio de Ja
 Fogo Cruzado partnered with a couple of other organizations, including an anonymous citizen-reporting hot line, to create this map of criminal organizations <https://erickgn.github.io/mapafc/> in town. Militia are generally made up of former police, so here's a hint in case someone wants to look at where most shootings with police involvement are concentrated 👀
 
 And a cool complementary dataviz is the Public Prosecutor's office's Data Initiative <http://apps.mprj.mp.br/sistema/inloco/> where you can cross a bunch of social, economic, public service, public safety and other datasets. I recommend crossing the crossed fire dataset with info on where schools and basic health clinics are located. There's also a dataset on schools where classes where interrupted due to violence.
+
+Tune in at 8pm CT/9pm ET via [Zoom](https://harvard.zoom.us/j/97704612486)

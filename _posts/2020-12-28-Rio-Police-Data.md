@@ -9,7 +9,7 @@ Let's read a dataset, from Ana:
 
 Here's the data set on [drug+homicide+attempted-homicide reports](https://drive.google.com/file/d/1JY8-HVAQ6gbGIG4CGI4OoqwvKmusWjpZ/view?usp=sharing) I just got through the information access request. Haven't really worked on it yet, so excited to have an excuse to do so!
 
-For all things Rio police data related, [ISP Dados](https://www.ispdados.rj.gov.br:4432/) is the place to look. And I bet you can google translate the site. For precinct shape files, look here [https://www.ispdados.rj.gov.br:4432/Conteudo.html](CISPs are the smallest units of analysis).
+For all things Rio police data related, [ISP Dados](https://www.ispdados.rj.gov.br:4432/) is the place to look. And I bet you can google translate the site. For precinct shape files, [look here](https://www.ispdados.rj.gov.br:4432/Conteudo.html) (CISPs are the smallest units of analysis).
 
 Another cool dataset is this citizen-reported data on gun shootings in [Rio de Janeiro](https://fogocruzado.org.br/) (and Recife, another state capital here in the country). They have an api…and they report both if there was anyone injured as a result of the shooting and if there were any policemen involved. 
 

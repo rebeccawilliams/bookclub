@@ -3,10 +3,12 @@ layout: page
 title:  "Reading List"
 ---
 
-### Currently Reading: [Blockchain Chicken Farm: And Other Stories of Tech in China's Countryside](https://bookshop.org/books/blockchain-chicken-farm-and-other-stories-of-tech-in-china-s-countryside/9780374538668?aid=13448&listref=civic-tech-book-club-reading-list) by Xiaowei Wang.
+### Currently Reading
+* [Blockchain Chicken Farm: And Other Stories of Tech in China's Countryside](https://bookshop.org/books/blockchain-chicken-farm-and-other-stories-of-tech-in-china-s-countryside/9780374538668?aid=13448&listref=civic-tech-book-club-reading-list) by Xiaowei Wang.
 
 ### [Get the Reading List on Bookshop.org](https://bookshop.org/lists/civic-tech-book-club-reading-list). 
 All items not on Bookshop are listed below.
+[See Previous Discussions for more information](/discussions). 
 
 <u>Read (not on Bookshop list)</u>
 * ["The Affirmative Information Policy: Opening Up a Closed City" by John Kretzman](http://civictechbook.club/affirmativeinformationpolicy) Source: P. Clavel and W. Wiewel, eds, Harold Washington and the Neighbourhoods: Progressive City Government in Chicago 1983-1987. New Brunswick, N.J.: Rutgers University Press, 1991.
@@ -22,9 +24,7 @@ All items not on Bookshop are listed below.
 * ["So you want to reform democracy" by Josh Tauberer](https://medium.com/@joshuatauberer/so-you-want-to-reform-democracy-7f3b1ef10597#.qh36p8m0c).
 * ["Violence and Economic Activity:  Evidence from African American Patents, 1870 to 1940" by Lisa D. Cook](https://lisadcook.net/wp-content/uploads/2014/02/pats_paper17_1013_final_web.pdf) Source: Michigan State University, 2013.  
 
-[See Previous Discussions for more information](/discussions). 
-
-_To Read (not on Bookshop list)_
+<u>To Read (not on Bookshop list)</u>
 * ["Affective Disorders of the State: A Spinozan Diagnosis and Cure" by Ericka Tucker](http://www.cpp.edu/~jet/Documents/JET/Jet7/Tucker97-119.pdf) Source: Journal of East-West Thought: 3 (2):97-120, 2013.
 * ["The Government Machine: A Revolutionary History of the Computer" by Jon Agar](https://mitpress.mit.edu/books/government-machine) Source: MIT Press, September 2003.  
 * ["The Holodeck of Motive" by Aaron Straup Cope](http://www.aaronland.info/weblog/2015/02/24/effort/) Source: aaronland.info, February 2015.

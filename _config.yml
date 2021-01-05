@@ -34,6 +34,9 @@ navigation:
 - text: Discussions
   url: discussions
   internal: true
+- text: Book Notes
+  url: https://github.com/rebeccawilliams/bookclub/tree/gh-pages/book%20notes
+  internal: false
 - text: Join the Listserv
   url: https://groups.google.com/forum/#!forum/civictechbookclub/join 
   internal: false   

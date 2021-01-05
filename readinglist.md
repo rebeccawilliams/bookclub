@@ -3,13 +3,13 @@ layout: page
 title:  "Reading List"
 ---
 
-### [Get the Reading List on Bookshop.org](https://bookshop.org/lists/civic-tech-book-club-reading-list). 
-All items not on Bookshop are listed below.
-
 ### Currently Reading
 * [Blockchain Chicken Farm: And Other Stories of Tech in China's Countryside](https://bookshop.org/books/blockchain-chicken-farm-and-other-stories-of-tech-in-china-s-countryside/9780374538668?aid=13448&listref=civic-tech-book-club-reading-list) by Xiaowei Wang.
 
-### Read (not on Bookshop list)
+### [Get the Reading List on Bookshop.org](https://bookshop.org/lists/civic-tech-book-club-reading-list). 
+All items not on Bookshop are listed below.
+
+#### Read (not on Bookshop list)
 * ["The Affirmative Information Policy: Opening Up a Closed City" by John Kretzman](http://civictechbook.club/affirmativeinformationpolicy) Source: P. Clavel and W. Wiewel, eds, Harold Washington and the Neighbourhoods: Progressive City Government in Chicago 1983-1987. New Brunswick, N.J.: Rutgers University Press, 1991.
 * ["Convivial Reconstruction" by Ivan Illich from "Tools for Conviviality” ](http://civictechbook.club/convivial-reconstruction) Source: Fontana/Collins, 1973.
 * ["Designing Freedom, Regulating a Nation: Socialist Cybernetics in Allende’s Chile"  by Eden Medina](http://www.informatics.indiana.edu/edenm/EdenMedinaJLASAugust2006.pdf) Source: Journal of Latin American Studies 38 (2006): 571-606. United Kingdom: Cambridge University Press, 2006.
@@ -25,7 +25,7 @@ All items not on Bookshop are listed below.
 
 [See Previous Discussions for more information](/discussions). 
 
-### To Read (not on Bookshop list)
+#### To Read (not on Bookshop list)
 * ["Affective Disorders of the State: A Spinozan Diagnosis and Cure" by Ericka Tucker](http://www.cpp.edu/~jet/Documents/JET/Jet7/Tucker97-119.pdf) Source: Journal of East-West Thought: 3 (2):97-120, 2013.
 * ["The Government Machine: A Revolutionary History of the Computer" by Jon Agar](https://mitpress.mit.edu/books/government-machine) Source: MIT Press, September 2003.  
 * ["The Holodeck of Motive" by Aaron Straup Cope](http://www.aaronland.info/weblog/2015/02/24/effort/) Source: aaronland.info, February 2015.

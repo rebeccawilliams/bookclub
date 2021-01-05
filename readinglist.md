@@ -6,7 +6,7 @@ title:  "Reading List"
 [Get the Reading List on Bookshop.org](https://bookshop.org/lists/civic-tech-book-club-reading-list). All items not on Bookshop are listed below.
 
 ### Currently Reading
-* [Predict and Surveil: Data, Discretion, and the Future of Policing](https://bookshop.org/books/predict-and-surveil-data-discretion-and-the-future-of-policing/9780190684099?aid=13448&listref=civic-tech-book-club-reading-list) by Sarah Brayne.
+* [Blockchain Chicken Farm: And Other Stories of Tech in China's Countryside](https://bookshop.org/books/blockchain-chicken-farm-and-other-stories-of-tech-in-china-s-countryside/9780374538668?aid=13448&listref=civic-tech-book-club-reading-list) by Xiaowei Wang.
 
 ### Read 
 * ["The Affirmative Information Policy: Opening Up a Closed City" by John Kretzman](http://civictechbook.club/affirmativeinformationpolicy) Source: P. Clavel and W. Wiewel, eds, Harold Washington and the Neighbourhoods: Progressive City Government in Chicago 1983-1987. New Brunswick, N.J.: Rutgers University Press, 1991.

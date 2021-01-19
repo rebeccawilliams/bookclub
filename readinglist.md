@@ -6,7 +6,10 @@ title:  "Reading List"
 ### [Get the Reading List on Bookshop.org](https://bookshop.org/lists/civic-tech-book-club-reading-list). 
 
 ### Currently Reading
-* [Blockchain Chicken Farm: And Other Stories of Tech in China's Countryside](https://bookshop.org/books/blockchain-chicken-farm-and-other-stories-of-tech-in-china-s-countryside/9780374538668?aid=13448&listref=civic-tech-book-club-reading-list) by Xiaowei Wang.
+* [Data Club reprise](https://civictechbook.club/Rio-Police-Data)
+
+### Feburary Reading
+* ["Some Thoughts" by Various on Sidewalk Toronto](https://some-thoughts.org/) Source, some-thoughts.org, 2019.
 
 ### Read (not on Bookshop)
 * ["The Affirmative Information Policy: Opening Up a Closed City" by John Kretzman](http://civictechbook.club/affirmativeinformationpolicy) Source: P. Clavel and W. Wiewel, eds, Harold Washington and the Neighbourhoods: Progressive City Government in Chicago 1983-1987. New Brunswick, N.J.: Rutgers University Press, 1991.
@@ -33,7 +36,6 @@ title:  "Reading List"
 * ["Seeing Like a Geek" by Tom Slee](http://crookedtimber.org/2012/06/25/seeing-like-a-geek/) Source: crookedtimber.org, June 2012. 
 * ["Socialize the Data Centres!" by Evgeny Morozov](http://newleftreview.org/II/91/evgeny-morozov-socialize-the-data-centres) Source: New Left Review 91, January-February 2015.
 * ["Solidarity Not Charity: Mutual Aid for Mobilization and Survivial" by Dean Spade](http://www.deanspade.net/wp-content/uploads/2020/03/Mutual-Aid-Article-Social-Text-Final.pdf)
-* ["Some Thoughts" by Various on Sidewalk Toronto](https://some-thoughts.org/) Source, some-thoughts.org, 2019.
 * ["Truth and Politics" by Hannah Arendt](https://idanlandau.files.wordpress.com/2014/12/arendt-truth-and-politics.pdf) Source: The New Yorker, 1967.
 
 [Submit a Reading, correct a citation](https://github.com/rebeccawilliams/bookclub/blob/gh-pages/readinglist.md).

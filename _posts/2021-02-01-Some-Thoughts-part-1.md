@@ -5,7 +5,9 @@ date:   2021-02-01 21:00:00
 categories: jekyll update
 ---
 
-From [Some-Thoughts.org](https://some-thoughts.org/)
+[Some-Thoughts.org](https://some-thoughts.org/) Tables 1-3.
+
+Tune in at 8pm CT/9pm ET via [Zoom](https://harvard.zoom.us/j/97704612486)
 
 ### Table 1
 
@@ -36,5 +38,3 @@ From [Some-Thoughts.org](https://some-thoughts.org/)
 * [Socially Responsible Intellectual Property](https://some-thoughts.org/tawfik.html) by [Myra J. Tawfik](https://some-thoughts.org/tawfik.html)
 * [Public Space in a Smart City](https://some-thoughts.org/robinson.html) by [Pamela Robinson](https://some-thoughts.org/robinson.html)
 * [Land as a Platform](https://some-thoughts.org/parvin.html) by [Alastair Parvin](https://some-thoughts.org/parvin.html)
-
-Tune in at 8pm CT/9pm ET via [Zoom](https://harvard.zoom.us/j/97704612486)

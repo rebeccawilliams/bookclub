@@ -5,8 +5,8 @@ date:   2021-02-08 21:00:00
 categories: jekyll update
 ---
 
-[Some-Thoughts.org](https://some-thoughts.org/) Tables 4-8
-Tune in at 8pm CT/9pm ET via [Zoom](https://harvard.zoom.us/j/97704612486)
+[Some-Thoughts.org](https://some-thoughts.org/) Tables 4-8. 
+Tune in at 8pm CT/9pm ET via [Zoom](https://harvard.zoom.us/j/97704612486)  
 
 ### Table 4
 

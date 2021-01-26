@@ -1,11 +1,12 @@
 ---
 layout: post
-title:  "Some Thoughts (1/4)"
+title:  "Some Thoughts (2/4)"
 date:   2021-02-08 21:00:00
 categories: jekyll update
 ---
 
-From [Some-Thoughts.org](https://some-thoughts.org/)
+[Some-Thoughts.org](https://some-thoughts.org/) Tables 4-8
+Tune in at 8pm CT/9pm ET via [Zoom](https://harvard.zoom.us/j/97704612486)
 
 ### Table 4
 
@@ -56,4 +57,3 @@ From [Some-Thoughts.org](https://some-thoughts.org/)
 - [Urgency for a Bike-friendly City](https://some-thoughts.org/bambrick.html) by [Yvonne Bambrick](https://some-thoughts.org/bambrick.html)
 - [Civic (Ad)ventures](https://some-thoughts.org/claudel.html) by [Matthew Claudel](https://some-thoughts.org/claudel.html)
 
-Tune in at 8pm CT/9pm ET via [Zoom](https://harvard.zoom.us/j/97704612486)

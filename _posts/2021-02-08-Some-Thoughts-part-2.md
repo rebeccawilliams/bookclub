@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Some Thoughts (1/4)"
-date:   2021-02-01 21:00:00
+date:   2021-02-08 21:00:00
 categories: jekyll update
 ---
 

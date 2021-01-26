@@ -7,11 +7,10 @@ categories: jekyll update
 
 [Some-Thoughts.org](https://some-thoughts.org/) Tables 4-8. 
 
-
 Tune in at 8pm CT/9pm ET via [Zoom](https://harvard.zoom.us/j/97704612486).    
 
 
-### Table 4
+Table 4
 
 - [Community Benefits Agreements](https://some-thoughts.org/baker.html) by [Kumsa Baker](https://some-thoughts.org/baker.html)
 - [Art Shaping the Rules that Govern AI](https://some-thoughts.org/goddard.html) by [Valentine Goddard](https://some-thoughts.org/goddard.html)
@@ -21,7 +20,7 @@ Tune in at 8pm CT/9pm ET via [Zoom](https://harvard.zoom.us/j/97704612486).
 - [What If People Were Sensors, Not Things to be Sensed?](https://some-thoughts.org/doctorow.html) by [Cory Doctorow](https://some-thoughts.org/doctorow.html)
 - [Renegotiating the Social Contract in Smart Cities](https://some-thoughts.org/royall.html) by [Emily Royall](https://some-thoughts.org/royall.html)
 
-### Table 5
+Table 5
 
 - [Mental Health Design Playbook](https://some-thoughts.org/sethi_damico.html) by [Pam Sethi and Deborah D&#39;Amico](https://some-thoughts.org/sethi_damico.html)
 - [Municipal Briefings for Vendors and Partners](https://some-thoughts.org/agrell.html) by [Siri Agrell](https://some-thoughts.org/agrell.html)
@@ -31,7 +30,7 @@ Tune in at 8pm CT/9pm ET via [Zoom](https://harvard.zoom.us/j/97704612486).
 - [How Should a City Like Toronto Pay for Transit and Other Infrastructure?](https://some-thoughts.org/valverde.html) by [Mariana Valverde](https://some-thoughts.org/valverde.html)
 - [A Walkable Community 2.0](https://some-thoughts.org/parker.html) by [John Parker](https://some-thoughts.org/parker.html)
 
-### Table 6
+Table 6
 
 - [Coming to Terms with Digitally-Enabled Cities](https://some-thoughts.org/tam_zhou.html) by [Howard Tam &amp; Amy Zhou](https://some-thoughts.org/tam_zhou.html)
 - [The Time and Space of Urban Technologies](https://some-thoughts.org/keil.html) by [Roger Keil](https://some-thoughts.org/keil.html)
@@ -40,7 +39,7 @@ Tune in at 8pm CT/9pm ET via [Zoom](https://harvard.zoom.us/j/97704612486).
 - [Municipal Regulation, Disruption &amp; Public Good](https://some-thoughts.org/brail.html) by [Shauna Brail](https://some-thoughts.org/brail.html)
 - [Extract from Review of AGAINST THE SMART CITY by Adam Greenfield](https://some-thoughts.org/maughan.html) by [Tim Maughan](https://some-thoughts.org/maughan.html)
 
-### Table 7
+Table 7
 
 - [Health+Cities](https://some-thoughts.org/jianfar.html) by [Mojan Jianfar](https://some-thoughts.org/jianfar.html)
 - [In Visible Cities](https://some-thoughts.org/chishti.html) by [Asad Chishti](https://some-thoughts.org/chishti.html)
@@ -50,7 +49,7 @@ Tune in at 8pm CT/9pm ET via [Zoom](https://harvard.zoom.us/j/97704612486).
 - [Data Trusts](https://some-thoughts.org/ruhaak.html) by [Anouk Ruhaak](https://some-thoughts.org/ruhaak.html)
 - [The Promise of Free Local Wi-Fi](https://some-thoughts.org/roche.html) by [Jim Roche](https://some-thoughts.org/roche.html)
 
-### Table 8
+Table 8
 
 - [Food Independence in the City Requires Indigenous Knowledge Supported by New Technology](https://some-thoughts.org/sengupta.html) by [Ushnish Sengupta](https://some-thoughts.org/sengupta.html)
 - [Artificial Intelligence Has a Problem With Gender and Racial Bias. Here&#39;s How to Solve It.](https://some-thoughts.org/buolamwini.html) by [Joy Buolamwini](https://some-thoughts.org/buolamwini.html)

@@ -7,7 +7,7 @@ categories: jekyll update
 
 From [Some-Thoughts.org](https://some-thoughts.org/)
 
-# Table 1
+### Table 1
 
 * [Colonialism, City-Building, and What Could be Next?](https://some-thoughts.org/wiebe1.html) by [Justin Wiebe](https://some-thoughts.org/wiebe1.html)
 * [&#39;Smart&#39; Cities Begin at the Neighbourhood Level](https://some-thoughts.org/bhatia.html)) by [Aliya Bhatia](https://some-thoughts.org/bhatia.html)
@@ -17,7 +17,7 @@ From [Some-Thoughts.org](https://some-thoughts.org/)
 * [Economic Development: From Big to Small and Back Again](https://some-thoughts.org/townsend.html) by [Anthony Townsend](https://some-thoughts.org/townsend.html)
 * [Patent Collectives](https://some-thoughts.org/hinton.html) by [Jim Hinton](https://some-thoughts.org/hinton.html)
 
-# Table 2
+### Table 2
 
 * [Non-Citizen Voting Rights](https://some-thoughts.org/cole.html) by [Desmond Cole](https://some-thoughts.org/cole.html)
 * [#AbolishCars](https://some-thoughts.org/singh.html) by [sava saheli singh](https://some-thoughts.org/singh.html)
@@ -27,7 +27,7 @@ From [Some-Thoughts.org](https://some-thoughts.org/)
 * [Public Data Belongs in the Public Library](https://some-thoughts.org/williams.html)by [Mita Williams](https://some-thoughts.org/williams.html)
 * [MyData in the Smart City](https://some-thoughts.org/wunderlich.html) by [John Wunderlich](https://some-thoughts.org/wunderlich.html)
 
-# Table 3
+### Table 3
 
 * [Show Me the Money: How the Transit Funding Model is Broken](https://some-thoughts.org/darmanin.html) by [André Darmanin](https://some-thoughts.org/darmanin.html)
 * [Supporting Newcomer-owned Food Businesses](https://some-thoughts.org/do.html) by [Andrew Do](https://some-thoughts.org/do.html)

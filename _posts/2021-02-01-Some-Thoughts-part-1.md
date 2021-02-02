@@ -26,7 +26,7 @@ Tune in at 8pm CT/9pm ET via [Zoom](https://harvard.zoom.us/j/97704612486)
 * [Digital New Deal](https://some-thoughts.org/gokhale.html) by [Milan Gokhale](https://some-thoughts.org/gokhale.html)
 * [Can&#39;t Wait](https://some-thoughts.org/bednar.html) by [Vass Bednar](https://some-thoughts.org/bednar.html)
 * [Unplanning the City](https://some-thoughts.org/vannostrand.html) by [John van Nostrand](https://some-thoughts.org/vannostrand.html)
-* [Public Data Belongs in the Public Library](https://some-thoughts.org/williams.html)by [Mita Williams](https://some-thoughts.org/williams.html)
+* [Public Data Belongs in the Public Library](https://some-thoughts.org/williams.html) by [Mita Williams](https://some-thoughts.org/williams.html)
 * [MyData in the Smart City](https://some-thoughts.org/wunderlich.html) by [John Wunderlich](https://some-thoughts.org/wunderlich.html)
 
 ### Table 3

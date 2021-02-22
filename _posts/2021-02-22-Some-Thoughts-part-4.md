@@ -9,6 +9,14 @@ categories: jekyll update
 
 Tune in at 8pm CT/9pm ET via [Zoom](https://harvard.zoom.us/j/97704612486)
 
+**With special guests, the Some Thoughts creators:**  
+
+*Nasma Ahmed*  
+*Matthew Claudel*  
+*Zahra Ebrahim*  
+*Christopher Pandolfi*  
+*Bianca Wylie*
+
 ### Table 13
 
 - [Making a Difference in the Lives of Vulnerable Youth](https://some-thoughts.org/hope.html) by [Kofi Hope](https://some-thoughts.org/hope.html)

@@ -6,7 +6,7 @@ title:  "Reading List"
 ### [Get the Reading List on Bookshop.org](https://bookshop.org/lists/civic-tech-book-club-reading-list). 
 
 ### Currently Reading
-* [Data Club reprise](https://civictechbook.club/Rio-Police-Data)
+* [Algorithms in practice: Comparing web journalism and criminal justice by Angèle Christin](https://journals.sagepub.com/doi/pdf/10.1177/2053951717718855).
 
 ### Feburary Reading
 * ["Some Thoughts" by Various on Sidewalk Toronto](https://some-thoughts.org/) Source, some-thoughts.org, 2019.

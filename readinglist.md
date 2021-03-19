@@ -8,8 +8,8 @@ title:  "Reading List"
 ### Currently Reading
 * [Algorithms in practice: Comparing web journalism and criminal justice by Angèle Christin](https://journals.sagepub.com/doi/pdf/10.1177/2053951717718855).
 
-### Feburary Reading
-* ["Some Thoughts" by Various on Sidewalk Toronto](https://some-thoughts.org/) Source, some-thoughts.org, 2019.
+### April Reading
+* ["On Property" by Rinaldo Walcott](https://bookshop.org/books/on-property/9781771964074?aid=13448&listref=civic-tech-book-club-reading-list) Source: Biblioasis, 2021.
 
 ### Read (not on Bookshop)
 * ["The Affirmative Information Policy: Opening Up a Closed City" by John Kretzman](http://civictechbook.club/affirmativeinformationpolicy) Source: P. Clavel and W. Wiewel, eds, Harold Washington and the Neighbourhoods: Progressive City Government in Chicago 1983-1987. New Brunswick, N.J.: Rutgers University Press, 1991.

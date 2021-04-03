@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "On Propery (2/3)"
+title:  "On Property (2/3)"
 date:   2021-04-12 21:00:00
 categories: jekyll update
 ---

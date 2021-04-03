@@ -6,9 +6,6 @@ title:  "Reading List"
 ### [Get the Reading List on Bookshop.org](https://bookshop.org/lists/civic-tech-book-club-reading-list). 
 
 ### Currently Reading
-* [Algorithms in practice: Comparing web journalism and criminal justice by Angèle Christin](https://journals.sagepub.com/doi/pdf/10.1177/2053951717718855).
-
-### April Reading
 * ["On Property" by Rinaldo Walcott](https://bookshop.org/books/on-property/9781771964074?aid=13448&listref=civic-tech-book-club-reading-list) Source: Biblioasis, 2021.
 
 ### Read (not on Bookshop)

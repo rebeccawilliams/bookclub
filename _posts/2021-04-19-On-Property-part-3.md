@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "On Propery (3/3)"
-date:   2021-04-26 21:00:00
+date:   2021-05-03 21:00:00
 categories: jekyll update
 ---
 

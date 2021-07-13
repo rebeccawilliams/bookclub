@@ -17,6 +17,7 @@ title:  "Reading List"
 * ["Roles for Computing in Social Change" by Rediet Abebe, Solon Barocas, Jon Kleinberg, Karen Levy, Manish Raghavan, David G. Robinson](https://arxiv.org/abs/1912.04883) Source: Cornell University, 2019.
 * [SNCC](https://vimeo.com/461037507) (film) by Danny Lyon.
 * ["So you want to reform democracy" by Josh Tauberer](https://medium.com/@joshuatauberer/so-you-want-to-reform-democracy-7f3b1ef10597#.qh36p8m0c).
+* [Street–Level Algorithms: A Theory at the Gaps Between Policy and Decisions by  Alkhatib and Bernstein](https://dl.acm.org/doi/10.1145/3290605.3300760). 
 * ["Violence and Economic Activity:  Evidence from African American Patents, 1870 to 1940" by Lisa D. Cook](https://lisadcook.net/wp-content/uploads/2014/02/pats_paper17_1013_final_web.pdf) Source: Michigan State University, 2013.  
 
 ### To Read (not on Bookshop)

@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "A City Is Not a Computer (2/3)"
+title:  "A City Is Not a Computer: Other Urban Intelligences (2/3)"
 date:   2021-10-04 21:00:00
 categories: jekyll update
 ---

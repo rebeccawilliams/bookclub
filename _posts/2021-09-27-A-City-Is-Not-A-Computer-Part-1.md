@@ -11,4 +11,6 @@ categories: jekyll update
 
 If you get it directly from [the publisher](https://press.princeton.edu/books/paperback/9780691208053/a-city-is-not-a-computer) and use the code TWSU, you can get 30% off. (The promo code is from an episode of the [Tech Won't Save Us podcast](https://techwontsave.us/) about the book).
 
+Part 1: Pg 1-50. 
+
 See listserv for video chat link. 

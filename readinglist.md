@@ -5,6 +5,9 @@ title:  "Reading List"
 
 ### [Get the Reading List on Bookshop.org](https://bookshop.org/lists/civic-tech-book-club-reading-list). 
 
+### Currently Reading
+* [A City Is Not a Computer: Other Urban Intelligences by Shannon Mattern](https://bookshop.org/books/a-city-is-not-a-computer-other-urban-intelligences/9780691208053).
+
 ### Read (not on Bookshop)
 * ["The Affirmative Information Policy: Opening Up a Closed City" by John Kretzman](http://civictechbook.club/affirmativeinformationpolicy) Source: P. Clavel and W. Wiewel, eds, Harold Washington and the Neighbourhoods: Progressive City Government in Chicago 1983-1987. New Brunswick, N.J.: Rutgers University Press, 1991.
 * ["Convivial Reconstruction" by Ivan Illich from "Tools for Conviviality” ](http://civictechbook.club/convivial-reconstruction) Source: Fontana/Collins, 1973.

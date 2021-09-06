@@ -1,11 +1,13 @@
 ---
 layout: post
 title:  "A City Is Not a Computer: Other Urban Intelligences (2/3)"
-date:   2021-10-04 21:00:00
+date:   2021-10-06 21:00:00
 categories: jekyll update
 ---
 
 <img src="/assets/img/ACityNotAComputer.jpeg">
+
+NOTE THIS A WEDNESDAY DISCUSSION TO ENSURE THE AUTHOR CAN JOIN US 
 
 [A City Is Not a Computer: Other Urban Intelligences by Shannon Mattern](https://bookshop.org/books/a-city-is-not-a-computer-other-urban-intelligences/9780691208053). 
 

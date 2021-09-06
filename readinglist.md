@@ -3,7 +3,9 @@ layout: page
 title:  "Reading List"
 ---
 
-### [Get the Reading List on Bookshop.org](https://bookshop.org/lists/civic-tech-book-club-reading-list).
+### [Get the Reading List on Bookshop.org](https://bookshop.org/lists/civic-tech-book-club-reading-list). 
+
+Note: If you get it directly from [the publisher](https://press.princeton.edu/books/paperback/9780691208053/a-city-is-not-a-computer) and use the code TWSU, you can get 30% off. (The promo code is from an episode of the [Tech Won't Save Us podcast](https://techwontsave.us/) about the book).
 
 ### Currently Reading
 * [A City Is Not a Computer: Other Urban Intelligences by Shannon Mattern](https://bookshop.org/books/a-city-is-not-a-computer-other-urban-intelligences/9780691208053).

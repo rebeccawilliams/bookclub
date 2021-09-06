@@ -7,7 +7,7 @@ categories: jekyll update
 
 <img src="/assets/img/ACityNotAComputer.jpeg">
 
-NOTE THIS A WEDNESDAY DISCUSSION TO ENSURE THE AUTHOR CAN JOIN US.
+**NOTE THIS A WEDNESDAY DISCUSSION** to ensure the author can join us. 
 
 [A City Is Not a Computer: Other Urban Intelligences by Shannon Mattern](https://bookshop.org/books/a-city-is-not-a-computer-other-urban-intelligences/9780691208053). 
 

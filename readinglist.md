@@ -3,7 +3,7 @@ layout: page
 title:  "Reading List"
 ---
 
-### [Get the Reading List on Bookshop.org](https://bookshop.org/lists/civic-tech-book-club-reading-list). 
+### [Get the Reading List on Bookshop.org](https://bookshop.org/lists/civic-tech-book-club-reading-list).
 
 ### Currently Reading
 * [A City Is Not a Computer: Other Urban Intelligences by Shannon Mattern](https://bookshop.org/books/a-city-is-not-a-computer-other-urban-intelligences/9780691208053).

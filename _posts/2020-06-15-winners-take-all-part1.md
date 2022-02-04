@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Winners Take All (1/3)"
+title:  "Winners Take All: The Elite Charade of Changing the World (1/3)"
 date:   2020-06-15 21:00:00
 categories: jekyll update
 ---

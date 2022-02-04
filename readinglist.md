@@ -4,7 +4,7 @@ title:  "Reading List"
 ---
 
 ### Currently Reading / Watching
-* [Administrative Burdens in the time of COVID-19 (webinar)](https://www.irp.wisc.edu/resource/administrative-burdens-in-the-time-of-covid-19/)
+* [Administrative Burdens in the time of COVID-19 (webinar) with Pamela Herd and Donald Moynihan](https://www.irp.wisc.edu/resource/administrative-burdens-in-the-time-of-covid-19/)
 * [The Address Book: What Street Addresses Reveal about Identity, Race, Wealth, and Power By Deirdre Mask](https://bookshop.org/books/the-address-book-what-street-addresses-reveal-about-identity-race-wealth-and-power-9781250134769/9781250134769?aid=13448&listref=civic-tech-book-club-reading-list) 
 
 ### [Get the Full Reading List on Bookshop.org](https://bookshop.org/lists/civic-tech-book-club-reading-list). 
@@ -19,7 +19,7 @@ title:  "Reading List"
 * ["The Negro Family: The Case for National Action" (the 1965 Moynihan Report) by Daniel Patrick Moynihan](https://web.stanford.edu/~mrosenfe/Moynihan%27s%20The%20Negro%20Family.pdf) Source: Office of Policy and Planning. U.S. Department of Labor, March 1965.
 * ["Predictive Policing: The Role of Crime Forecasting in Law Enforcement Operations" by Walter L. Perry, Brian McInnis, Carter C. Price, Susan C. Smith, John S. Hollywood](https://www.rand.org/content/dam/rand/pubs/research_reports/RR200/RR233/RAND_RR233.pdf) Source: RAND Corporation, 2013
 * ["Roles for Computing in Social Change" by Rediet Abebe, Solon Barocas, Jon Kleinberg, Karen Levy, Manish Raghavan, David G. Robinson](https://arxiv.org/abs/1912.04883) Source: Cornell University, 2019.
-* [SNCC](https://vimeo.com/461037507) (film) by Danny Lyon.
+* [SNCC (film) by Danny Lyon](https://vimeo.com/461037507).
 * ["So you want to reform democracy" by Josh Tauberer](https://medium.com/@joshuatauberer/so-you-want-to-reform-democracy-7f3b1ef10597#.qh36p8m0c).
 * [Street–Level Algorithms: A Theory at the Gaps Between Policy and Decisions by  Alkhatib and Bernstein](https://dl.acm.org/doi/10.1145/3290605.3300760). 
 *  [The Participant by Christopher M. Kelty](https://press.uchicago.edu/ucp/books/book/chicago/P/bo44520895.html). 

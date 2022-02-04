@@ -29,6 +29,7 @@ title:  "Reading List"
 * ["Affective Disorders of the State: A Spinozan Diagnosis and Cure" by Ericka Tucker](http://www.cpp.edu/~jet/Documents/JET/Jet7/Tucker97-119.pdf) Source: Journal of East-West Thought: 3 (2):97-120, 2013.
 * ["The Government Machine: A Revolutionary History of the Computer" by Jon Agar](https://mitpress.mit.edu/books/government-machine) Source: MIT Press, September 2003.  
 * ["The Holodeck of Motive" by Aaron Straup Cope](http://www.aaronland.info/weblog/2015/02/24/effort/) Source: aaronland.info, February 2015.
+* ["Investigation into data analytics for political purposes" by the Information Commissioner Office](https://ico.org.uk/action-weve-taken/investigation-into-data-analytics-for-political-purposes/)
 * ["The Politics of Information Reform in Chicago: An Experiment in Democratization" by John P Kretzmann](https://www.worldcat.org/title/politics-of-information-reform-in-chicago-an-experiment-in-democratization/oclc/14881489) Source: Ph. D. (Sociology)--Northwestern University, 1985.
 * ["The Public and its Problems" by John Dewey](https://bookshop.org/books/the-public-and-its-problems-an-essay-in-political-inquiry/9780804011662?aid=13448) Source: Henry Holt and Company, 1927.
 * ["Red Plenty Platforms" by Nick Dyer-Witheford](https://culturemachine.net/wp-content/uploads/2019/05/511-1153-1-PB.pdf) Source: Culture Machine Vol 14, 2013.

@@ -4,7 +4,7 @@ title:  "Reading List"
 ---
 
 ### Currently Reading
-* [The Participant by Christopher M. Kelty](https://press.uchicago.edu/ucp/books/book/chicago/P/bo44520895.html). 
+* /Watching: Administrative Burdens in the time of COVID-19 [Pre-recorded Webinar](https://www.irp.wisc.edu/resource/administrative-burdens-in-the-time-of-covid-19/)
 
 ### [Get the Full Reading List on Bookshop.org](https://bookshop.org/lists/civic-tech-book-club-reading-list). 
 
@@ -21,6 +21,7 @@ title:  "Reading List"
 * [SNCC](https://vimeo.com/461037507) (film) by Danny Lyon.
 * ["So you want to reform democracy" by Josh Tauberer](https://medium.com/@joshuatauberer/so-you-want-to-reform-democracy-7f3b1ef10597#.qh36p8m0c).
 * [Street–Level Algorithms: A Theory at the Gaps Between Policy and Decisions by  Alkhatib and Bernstein](https://dl.acm.org/doi/10.1145/3290605.3300760). 
+*  [The Participant by Christopher M. Kelty](https://press.uchicago.edu/ucp/books/book/chicago/P/bo44520895.html). 
 * ["Violence and Economic Activity:  Evidence from African American Patents, 1870 to 1940" by Lisa D. Cook](https://lisadcook.net/wp-content/uploads/2014/02/pats_paper17_1013_final_web.pdf) Source: Michigan State University, 2013.  
 
 ### Other Readings (not available on Bookshop.org)

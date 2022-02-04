@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "The Participant (2/3)"
+title:  "The Participant: A Century of Participation in Four Stories (2/3)"
 date:   2021-12-06 21:00:00
 categories: jekyll update
 ---

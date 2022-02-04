@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "The Age of Surveillance Capitalism (3/5)"
+title:  "The Age of Surveillance Capitalism: The Fight for a Human Future at the New Frontier of Power (3/5)"
 date:   2020-08-24 21:00:00
 categories: jekyll update
 ---

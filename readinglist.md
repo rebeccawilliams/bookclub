@@ -4,7 +4,8 @@ title:  "Reading List"
 ---
 
 ### Currently Reading / Watching
-* Administrative Burdens in the time of COVID-19 [Pre-recorded Webinar](https://www.irp.wisc.edu/resource/administrative-burdens-in-the-time-of-covid-19/)
+* [Administrative Burdens in the time of COVID-19 (webinar)](https://www.irp.wisc.edu/resource/administrative-burdens-in-the-time-of-covid-19/)
+* [The Address Book: What Street Addresses Reveal about Identity, Race, Wealth, and Power By Deirdre Mask](https://bookshop.org/books/the-address-book-what-street-addresses-reveal-about-identity-race-wealth-and-power-9781250134769/9781250134769?aid=13448&listref=civic-tech-book-club-reading-list) 
 
 ### [Get the Full Reading List on Bookshop.org](https://bookshop.org/lists/civic-tech-book-club-reading-list). 
 

@@ -3,8 +3,8 @@ layout: page
 title:  "Reading List"
 ---
 
-### Currently Reading
-* /Watching: Administrative Burdens in the time of COVID-19 [Pre-recorded Webinar](https://www.irp.wisc.edu/resource/administrative-burdens-in-the-time-of-covid-19/)
+### Currently Reading / Watching
+* Administrative Burdens in the time of COVID-19 [Pre-recorded Webinar](https://www.irp.wisc.edu/resource/administrative-burdens-in-the-time-of-covid-19/)
 
 ### [Get the Full Reading List on Bookshop.org](https://bookshop.org/lists/civic-tech-book-club-reading-list). 
 

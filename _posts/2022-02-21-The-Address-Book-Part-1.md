@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "The Address Book (1/4)"
+title:  "The Address Book: What Street Addresses Reveal about Identity, Race, Wealth, and Power (1/4)"
 date:   2022-02-21 21:00:00
 categories: jekyll update
 ---

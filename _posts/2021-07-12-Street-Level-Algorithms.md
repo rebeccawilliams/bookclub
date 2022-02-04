@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Street–Level Algorithms"
+title:  "Street–Level Algorithms: A Theory at the Gaps Between Policy and Decisions"
 date:   2021-07-12 21:00:00
 categories: jekyll update
 ---

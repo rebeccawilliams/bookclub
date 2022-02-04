@@ -1,4 +1,3 @@
-
 ---
 layout: post
 title:  "The Address Book (1/4)"

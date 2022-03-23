@@ -3,13 +3,13 @@ layout: page
 title:  "Reading List"
 ---
 
-### Currently Reading / Watching
-* [Administrative Burdens in the time of COVID-19 (webinar) with Pamela Herd and Donald Moynihan](https://www.irp.wisc.edu/resource/administrative-burdens-in-the-time-of-covid-19/)
+### Currently Reading
 * [The Address Book: What Street Addresses Reveal about Identity, Race, Wealth, and Power By Deirdre Mask](https://bookshop.org/books/the-address-book-what-street-addresses-reveal-about-identity-race-wealth-and-power-9781250134769/9781250134769?aid=13448&listref=civic-tech-book-club-reading-list) 
 
 ### [Get the Full Reading List on Bookshop.org](https://bookshop.org/lists/civic-tech-book-club-reading-list). 
 
 ### Past Readings (not available on Bookshop.org)
+* [Administrative Burdens in the time of COVID-19 (webinar) with Pamela Herd and Donald Moynihan](https://www.irp.wisc.edu/resource/administrative-burdens-in-the-time-of-covid-19/)
 * ["The Affirmative Information Policy: Opening Up a Closed City" by John Kretzman](http://civictechbook.club/affirmative-information-policy) Source: P. Clavel and W. Wiewel, eds, Harold Washington and the Neighbourhoods: Progressive City Government in Chicago 1983-1987. New Brunswick, N.J.: Rutgers University Press, 1991.
 * ["Convivial Reconstruction" by Ivan Illich from "Tools for Conviviality” ](http://civictechbook.club/convivial-reconstruction) Source: Fontana/Collins, 1973.
 * ["Designing Freedom, Regulating a Nation: Socialist Cybernetics in Allende’s Chile"  by Eden Medina](http://www.informatics.indiana.edu/edenm/EdenMedinaJLASAugust2006.pdf) Source: Journal of Latin American Studies 38 (2006): 571-606. United Kingdom: Cambridge University Press, 2006.

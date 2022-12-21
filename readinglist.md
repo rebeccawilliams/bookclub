@@ -5,7 +5,7 @@ title:  "Reading List"
 
 ### Currently Reading
 
-* [Meet Us by the Roaring Sea](https://bookshop.org/p/books/meet-us-by-the-roaring-sea-akil-kumarasamy/18222498?aid=13448&ean=9780374177706&listref=civic-tech-book-club-reading-list)
+* [Meet Us by the Roaring Sea by Akil Kumarasamy](https://bookshop.org/p/books/meet-us-by-the-roaring-sea-akil-kumarasamy/18222498?aid=13448&ean=9780374177706&listref=civic-tech-book-club-reading-list) 
 
 ### [Get the Full Reading List on Bookshop.org](https://bookshop.org/lists/civic-tech-book-club-reading-list). 
 

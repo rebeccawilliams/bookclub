@@ -9,6 +9,6 @@ categories: jekyll update
 
 Pages 223-287
 
-Author Akil Kumarasamy will join use for discussion. 
+Author Akil Kumarasamy will join us for discussion. 
 
 See listserv for video chat link. 

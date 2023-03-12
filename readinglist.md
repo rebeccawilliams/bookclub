@@ -5,13 +5,14 @@ title:  "Reading List"
 
 ### Currently Reading
 
-* [Meet Us by the Roaring Sea by Akil Kumarasamy](https://bookshop.org/p/books/meet-us-by-the-roaring-sea-akil-kumarasamy/18222498?aid=13448&ean=9780374177706&listref=civic-tech-book-club-reading-list) 
+We are not currently reading anything. Check out our past & suggested readings; suggest our next reading on the listserv.
 
-### [Get the Full Reading List on Bookshop.org](https://bookshop.org/lists/civic-tech-book-club-reading-list). 
+### Past & Suggested Readings on Bookshop.org
+
+See our living list of recommended readings by [Civic Tech Book Club on Bookshop.org](https://bookshop.org/lists/civic-tech-book-club-reading-list). This list is sorted by recent reads by the group, then alphabetically. Bookshoip.org is committed to helping local, independent bookstores thrive in the age of e-commerce.
 
 ### Past Readings (not available on Bookshop.org)
 * [Administrative Burdens in the time of COVID-19 (webinar) with Pamela Herd and Donald Moynihan](https://www.irp.wisc.edu/resource/administrative-burdens-in-the-time-of-covid-19/)
-* [The Address Book: What Street Addresses Reveal about Identity, Race, Wealth, and Power By Deirdre Mask](https://bookshop.org/books/the-address-book-what-street-addresses-reveal-about-identity-race-wealth-and-power-9781250134769/9781250134769?aid=13448&listref=civic-tech-book-club-reading-list) 
 * [The Affirmative Information Policy: Opening Up a Closed City by John Kretzman](http://civictechbook.club/affirmative-information-policy) Source: P. Clavel and W. Wiewel, eds, Harold Washington and the Neighbourhoods: Progressive City Government in Chicago 1983-1987. New Brunswick, N.J.: Rutgers University Press, 1991.
 * [Convivial Reconstruction by Ivan Illich from Tools for Conviviality](http://civictechbook.club/convivial-reconstruction) Source: Fontana/Collins, 1973.
 * [Designing Freedom, Regulating a Nation: Socialist Cybernetics in Allende’s Chile by Eden Medina](http://www.informatics.indiana.edu/edenm/EdenMedinaJLASAugust2006.pdf) Source: Journal of Latin American Studies 38 (2006): 571-606. United Kingdom: Cambridge University Press, 2006.
@@ -27,7 +28,7 @@ title:  "Reading List"
 * [Street–Level Algorithms: A Theory at the Gaps Between Policy and Decisions by  Alkhatib and Bernstein](https://dl.acm.org/doi/10.1145/3290605.3300760). 
 * [Violence and Economic Activity:  Evidence from African American Patents, 1870 to 1940 by Lisa D. Cook](https://lisadcook.net/wp-content/uploads/2014/02/pats_paper17_1013_final_web.pdf) Source: Michigan State University, 2013.  
 
-### Other Readings (not available on Bookshop.org)
+### Suggested Readings (not available on Bookshop.org)
 * [Affective Disorders of the State: A Spinozan Diagnosis and Cure by Ericka Tucker](http://www.cpp.edu/~jet/Documents/JET/Jet7/Tucker97-119.pdf) Source: Journal of East-West Thought: 3 (2):97-120, 2013.
 * [The Government Machine: A Revolutionary History of the Computer by Jon Agar](https://mitpress.mit.edu/books/government-machine) Source: MIT Press, September 2003.  
 * [The Holodeck of Motive by Aaron Straup Cope](http://www.aaronland.info/weblog/2015/02/24/effort/) Source: aaronland.info, February 2015.

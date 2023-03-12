@@ -9,7 +9,7 @@ We are not currently reading anything. Check out our past & suggested readings; 
 
 ### Past & Suggested Readings on Bookshop.org
 
-See our living list of recommended readings by [Civic Tech Book Club on Bookshop.org](https://bookshop.org/lists/civic-tech-book-club-reading-list). This list is sorted by recent reads by the group, then alphabetically. Bookshoip.org is committed to helping local, independent bookstores thrive in the age of e-commerce.
+See our living list of recommended readings by [Civic Tech Book Club on Bookshop.org](https://bookshop.org/lists/civic-tech-book-club-reading-list). This list is sorted by recent reads by the group, then alphabetically. Bookshop.org is committed to helping local, independent bookstores thrive in the age of e-commerce.
 
 ### Past Readings (not available on Bookshop.org)
 * [Administrative Burdens in the time of COVID-19 (webinar) with Pamela Herd and Donald Moynihan](https://www.irp.wisc.edu/resource/administrative-burdens-in-the-time-of-covid-19/)

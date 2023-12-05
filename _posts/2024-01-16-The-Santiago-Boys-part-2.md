@@ -18,4 +18,4 @@ Episodes 8-13
 12. Operational Research in Chile
 13. The Athenaeum Club: Science, politics, empire 
 
-See the listserv for video chat link. 
+8pm ET/ 5pm PT. See the listserv for video chat link. 

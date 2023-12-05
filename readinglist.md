@@ -5,7 +5,7 @@ title:  "Reading List"
 
 ### Currently Reading
 
-We are not currently reading anything. Check out our past & suggested readings; suggest our next reading on the listserv.
+We are currently reading [The Santiago Boys podcast](https://the-santiago-boys.com/). We will discuss in two parts in January 2024. 
 
 ### Past & Suggested Readings on Bookshop.org
 

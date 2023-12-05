@@ -18,4 +18,4 @@ Episodes 1-7
 6. Eduardo Frei's Revolution in Liberty
 7. Che Guevara & Fidel Castro
 
-8pm ET/5pm PT. See the listserv for video chat link. 
+8pm ET/5pm PT. See the listserv for the video chat link. 

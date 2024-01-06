@@ -9,13 +9,11 @@ categories: jekyll update
 
 [The Santiago Boys](https://the-santiago-boys.com/episodes)
 
-Episodes 8-13
+Episodes 6-9
 
-8. MIR & MAPU
-9. 1970 presidential election in Chile
-10. "Make the economy scream"
-11. Social Property Area of the Economy
-12. Operational Research in Chile
-13. The Athenaeum Club: Science, politics, empire 
+EP 6: THE GEOPOLITICS OF EMPANADAS
+EP 7: A ROOM OF ONE’S OWN
+EP 8: OF CONDORS AND CARAVANS
+EP 9: CYBERSYN IN SILICON VALLEY
 
 8pm ET/5pm PT. See the listserv for the video chat link. 

@@ -9,13 +9,11 @@ categories: jekyll update
 
 [The Santiago Boys](https://the-santiago-boys.com/episodes)
 
-Episodes 1-7
-1. Salvador Allende
-2. International Telephone and Telegraph (ITT)
-3. The Bush-Allende encounter in New York
-4. 1967 occupation of the Catholic University
-5. 1964 presidential election in Chile
-6. Eduardo Frei's Revolution in Liberty
-7. Che Guevara & Fidel Castro
+Episodes 1-5
+EP 1: A BLAST IN MANHATTAN
+EP 2: THE SOCIALIST SPOON
+EP 3: STAFFORD IS GOING MAD AGAIN
+EP 4: THE CYBERNETIC JACKET
+EP 5: THE SUPER-TECHNOCRAT OF THEM ALL
 
 8pm ET/5pm PT. See the listserv for the video chat link. 

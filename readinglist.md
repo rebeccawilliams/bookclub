@@ -12,7 +12,7 @@ Suggest our next read on the listserv!
 See our living list of recommended readings by [Civic Tech Book Club on Bookshop.org](https://bookshop.org/lists/civic-tech-book-club-reading-list). This list is sorted by recent reads by the group, then alphabetically. Bookshop.org is committed to helping local, independent bookstores thrive in the age of e-commerce.
 
 ### Past Readings (not available on Bookshop.org)
-* [Administrative Burdens in the time of COVID-19 (webinar) with Pamela Herd and Donald Moynihan](https://www.irp.wisc.edu/resource/administrative-burdens-in-the-time-of-covid-19/)
+* [Administrative Burdens in the time of COVID-19 (webinar) with Pamela Herd and Donald Moynihan](https://www.irp.wisc.edu/resource/administrative-burdens-in-the-time-of-covid-19/).
 * [The Affirmative Information Policy: Opening Up a Closed City by John Kretzman](http://civictechbook.club/affirmative-information-policy) Source: P. Clavel and W. Wiewel, eds, Harold Washington and the Neighbourhoods: Progressive City Government in Chicago 1983-1987. New Brunswick, N.J.: Rutgers University Press, 1991.
 * [Convivial Reconstruction by Ivan Illich from Tools for Conviviality](http://civictechbook.club/convivial-reconstruction) Source: Fontana/Collins, 1973.
 * [Designing Freedom, Regulating a Nation: Socialist Cybernetics in Allende’s Chile by Eden Medina](http://www.informatics.indiana.edu/edenm/EdenMedinaJLASAugust2006.pdf) Source: Journal of Latin American Studies 38 (2006): 571-606. United Kingdom: Cambridge University Press, 2006.
@@ -33,14 +33,14 @@ See our living list of recommended readings by [Civic Tech Book Club on Bookshop
 * [Affective Disorders of the State: A Spinozan Diagnosis and Cure by Ericka Tucker](http://www.cpp.edu/~jet/Documents/JET/Jet7/Tucker97-119.pdf) Source: Journal of East-West Thought: 3 (2):97-120, 2013.
 * [The Government Machine: A Revolutionary History of the Computer by Jon Agar](https://mitpress.mit.edu/books/government-machine) Source: MIT Press, September 2003.  
 * [The Holodeck of Motive by Aaron Straup Cope](http://www.aaronland.info/weblog/2015/02/24/effort/) Source: aaronland.info, February 2015.
-* [Investigation into data analytics for political purposes by the Information Commissioner Office](https://ico.org.uk/action-weve-taken/investigation-into-data-analytics-for-political-purposes/)
+* [Investigation into data analytics for political purposes by the Information Commissioner Office](https://ico.org.uk/action-weve-taken/investigation-into-data-analytics-for-political-purposes/).
 * [The Politics of Information Reform in Chicago: An Experiment in Democratization by John P Kretzmann](https://www.worldcat.org/title/politics-of-information-reform-in-chicago-an-experiment-in-democratization/oclc/14881489) Source: Ph. D. (Sociology)--Northwestern University, 1985.
 * [The Public and its Problems by John Dewey](https://bookshop.org/books/the-public-and-its-problems-an-essay-in-political-inquiry/9780804011662?aid=13448) Source: Henry Holt and Company, 1927.
 * [Red Plenty Platforms by Nick Dyer-Witheford](https://culturemachine.net/wp-content/uploads/2019/05/511-1153-1-PB.pdf) Source: Culture Machine Vol 14, 2013.
 * [Scenarios: Shooting the Rapids by Pierre Wack](https://hbr.org/1985/11/scenarios-shooting-the-rapids/ar/1) Source: Harvard Business Review November, 1985.
 * [Seeing Like a Geek by Tom Slee](http://crookedtimber.org/2012/06/25/seeing-like-a-geek/) Source: crookedtimber.org, June 2012. 
 * [Socialize the Data Centres! by Evgeny Morozov](http://newleftreview.org/II/91/evgeny-morozov-socialize-the-data-centres) Source: New Left Review 91, January-February 2015.
-* [Solidarity Not Charity: Mutual Aid for Mobilization and Survivial by Dean Spade](http://www.deanspade.net/wp-content/uploads/2020/03/Mutual-Aid-Article-Social-Text-Final.pdf)
+* [Solidarity Not Charity: Mutual Aid for Mobilization and Survivial by Dean Spade](http://www.deanspade.net/wp-content/uploads/2020/03/Mutual-Aid-Article-Social-Text-Final.pdf).
 * [Truth and Politics by Hannah Arendt](https://idanlandau.files.wordpress.com/2014/12/arendt-truth-and-politics.pdf) Source: The New Yorker, 1967.
 
 ### [Submit a Reading, correct a citation](https://github.com/rebeccawilliams/bookclub/blob/gh-pages/readinglist.md).

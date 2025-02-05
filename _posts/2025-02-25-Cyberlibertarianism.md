@@ -5,7 +5,8 @@ date:   2025-02-25 20:00:00
 categories: jekyll update
 ---
 
-<img src="https://images-us.bookshop.org/ingram/9781517918149.jpg?width=640&v=v2">
+<img src="/assets/img/Cyberlibertarianism.jpg">
+<i>Photo by [Mar Hicks](https://bsky.app/profile/histoftech.bsky.social/post/3lhgpuobiy225)</i>
 
 [Cyberlibertarianism: The Right-Wing Politics of Digital Technology](https://bookshop.org/p/books/cyberlibertarianism-the-right-wing-politics-of-digital-technology-david-golumbia/21364333)
 

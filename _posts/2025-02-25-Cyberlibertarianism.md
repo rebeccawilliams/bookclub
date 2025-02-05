@@ -6,7 +6,7 @@ categories: jekyll update
 ---
 
 <img src="/assets/img/Cyberlibertarianism.jpg">
-Photo by [Mar Hicks](https://bsky.app/profile/histoftech.bsky.social/post/3lhgpuobiy225)
+Photo by [Mar Hicks](https://bsky.app/profile/histoftech.bsky.social/post/3lhgpuobiy225) 
 
 [Cyberlibertarianism: The Right-Wing Politics of Digital Technology](https://bookshop.org/p/books/cyberlibertarianism-the-right-wing-politics-of-digital-technology-david-golumbia/21364333)
 

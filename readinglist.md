@@ -5,7 +5,7 @@ title:  "Reading List"
 
 ### Currently Reading
 
-Suggest our next read on the listserv! 
+[Cyberlibertarianism: The Right-Wing Politics of Digital Technology](https://civictechbook.club/Cyberlibertarianism)
 
 ### Past & Suggested Readings on Bookshop.org
 

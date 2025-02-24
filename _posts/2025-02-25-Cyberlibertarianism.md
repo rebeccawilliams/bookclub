@@ -10,7 +10,7 @@ categories: jekyll update
 <i>Photo courtesy of [Mar Hicks](https://bsky.app/profile/histoftech.bsky.social/post/3lhgpuobiy225)</i>
 
 Our Read: 
-* [Cyberlibertarianism: The Right-Wing Politics of Digital Technology](https://bookshop.org/p/books/cyberlibertarianism-the-right-wing-politics-of-digital-technology-david-golumbia/21364333) We'll discuss the book in full. 
+* [Cyberlibertarianism: The Right-Wing Politics of Digital Technology](https://bookshop.org/p/books/cyberlibertarianism-the-right-wing-politics-of-digital-technology-david-golumbia/21364333). In this discussion, we'll discuss the book in full. 
 
 Extra Credit:
 * [The Problem With Cyberlibertarianism with Chris Gilliard](https://techwontsave.us/episode/261_the_problem_with_cyberlibertarianism_w_chris_gilliard) (Tech Won't Save Us pod)

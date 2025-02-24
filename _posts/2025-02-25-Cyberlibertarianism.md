@@ -13,4 +13,9 @@ categories: jekyll update
 
 We'll discuss the book in full. 
 
+Also, check out this companion media: 
+* The Problem With Cyberlibertarianism with Chris Gilliard [(Tech Won't Save Us pod)](https://techwontsave.us/episode/261_the_problem_with_cyberlibertarianism_w_chris_gilliard) 
+* ChatGPT Should Not Exist [(a short article by David Golumbia)](https://archive.is/Ruyam) 
+
+
 8pm ET/5pm PT. See the listserv for the video chat link. 

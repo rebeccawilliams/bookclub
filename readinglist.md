@@ -5,7 +5,7 @@ title:  "Reading List"
 
 ### Currently Reading
 
-[Cyberlibertarianism: The Right-Wing Politics of Digital Technology](https://civictechbook.club/Cyberlibertarianism)
+[Careless People: A Cautionary Tale of Power, Greed, and Lost Idealism](./Careless-People)
 
 ### Past & Suggested Readings on Bookshop.org
 

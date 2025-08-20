@@ -9,7 +9,9 @@ We do not currently have a pop-up discussion scheduled. Suggest a reading on the
 
 ### Past & Suggested Readings on Bookshop.org
 
-See our living list of recommended readings by [Civic Tech Book Club on Bookshop.org](https://bookshop.org/lists/civic-tech-book-club-reading-list). This list is sorted by recent reads by the group, then alphabetically. Bookshop.org is committed to helping local, independent bookstores thrive in the age of e-commerce.
+You can also browse past selections on our **[Civic Tech Book Club Reading List on Bookshop.org](https://bookshop.org/lists/civic-tech-book-club-reading-list)**. Bookshop.org is committed to helping local, independent bookstores thrive in the age of e-commerce.
+
+For titles not available on Bookshop, see below: 
 
 ### Past Readings (not available on Bookshop.org)
 * [Administrative Burdens in the time of COVID-19 (webinar) with Pamela Herd and Donald Moynihan](https://www.irp.wisc.edu/resource/administrative-burdens-in-the-time-of-covid-19/).
@@ -42,5 +44,3 @@ See our living list of recommended readings by [Civic Tech Book Club on Bookshop
 * [Socialize the Data Centres! by Evgeny Morozov](http://newleftreview.org/II/91/evgeny-morozov-socialize-the-data-centres) Source: New Left Review 91, January-February 2015.
 * [Solidarity Not Charity: Mutual Aid for Mobilization and Survivial by Dean Spade](http://www.deanspade.net/wp-content/uploads/2020/03/Mutual-Aid-Article-Social-Text-Final.pdf).
 * [Truth and Politics by Hannah Arendt](https://idanlandau.files.wordpress.com/2014/12/arendt-truth-and-politics.pdf) Source: The New Yorker, 1967.
-
-### [Submit a Reading, correct a citation](https://github.com/rebeccawilliams/bookclub/blob/gh-pages/readinglist.md).

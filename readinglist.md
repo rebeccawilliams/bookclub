@@ -9,11 +9,11 @@ We do not currently have a pop-up discussion scheduled. Suggest a reading on the
 
 ### Past & Suggested Readings on Bookshop.org
 
-You can also browse past selections on our **[Civic Tech Book Club Reading List on Bookshop.org](https://bookshop.org/lists/civic-tech-book-club-reading-list)**. Bookshop.org is committed to helping local, independent bookstores thrive in the age of e-commerce.
+You can also browse past reading selections and recommended reading on our **[Civic Tech Book Club Reading List on Bookshop.org](https://bookshop.org/lists/civic-tech-book-club-reading-list)**. Bookshop.org is committed to helping local, independent bookstores thrive in the age of e-commerce. For titles not available on Bookshop, see below.
 
-For titles not available on Bookshop, see below: 
+### Not Available on Bookshop.org
 
-### Past Readings (not available on Bookshop.org)
+*Past Readings*
 * [Administrative Burdens in the time of COVID-19 (webinar) with Pamela Herd and Donald Moynihan](https://www.irp.wisc.edu/resource/administrative-burdens-in-the-time-of-covid-19/).
 * [The Affirmative Information Policy: Opening Up a Closed City by John Kretzman](http://civictechbook.club/affirmative-information-policy) Source: P. Clavel and W. Wiewel, eds, Harold Washington and the Neighbourhoods: Progressive City Government in Chicago 1983-1987. New Brunswick, N.J.: Rutgers University Press, 1991.
 * [Convivial Reconstruction by Ivan Illich from Tools for Conviviality](http://civictechbook.club/convivial-reconstruction) Source: Fontana/Collins, 1973.
@@ -31,7 +31,7 @@ For titles not available on Bookshop, see below:
 * [Street–Level Algorithms: A Theory at the Gaps Between Policy and Decisions by  Alkhatib and Bernstein](https://dl.acm.org/doi/10.1145/3290605.3300760).
 * [Violence and Economic Activity:  Evidence from African American Patents, 1870 to 1940 by Lisa D. Cook](https://lisadcook.net/wp-content/uploads/2014/02/pats_paper17_1013_final_web.pdf) Source: Michigan State University, 2013.  
 
-### Suggested Readings (not available on Bookshop.org)
+*Suggested Readings*
 * [Affective Disorders of the State: A Spinozan Diagnosis and Cure by Ericka Tucker](http://www.cpp.edu/~jet/Documents/JET/Jet7/Tucker97-119.pdf) Source: Journal of East-West Thought: 3 (2):97-120, 2013.
 * [The Government Machine: A Revolutionary History of the Computer by Jon Agar](https://mitpress.mit.edu/books/government-machine) Source: MIT Press, September 2003.  
 * [The Holodeck of Motive by Aaron Straup Cope](http://www.aaronland.info/weblog/2015/02/24/effort/) Source: aaronland.info, February 2015.

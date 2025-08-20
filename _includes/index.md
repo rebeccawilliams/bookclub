@@ -2,4 +2,4 @@
 
 Membership generally leans more “civics” than “technology” and grows mainly by word of mouth, though anyone is welcome. Discussions are small and informal, with members joining virtually at their convenience and, on occasion, authors themselves joining the conversation.
 
-This website serves as an archive of past readings for the group’s organization and for others who may find them useful. You can also browse past selections on our **[Bookshop.org Civic Tech Book Shop list](https://bookshop.org/lists/civic-tech-book-club-reading-list)** or for titles not available on Bookshop, see our Reading List.
+This website serves as an archive of past readings for the group’s organization and for others who may find them useful. You can also browse past selections on our **[Bookshop.org Civic Tech Book Club list](https://bookshop.org/lists/civic-tech-book-club-reading-list)** or, for titles not available on Bookshop, see our Reading List.

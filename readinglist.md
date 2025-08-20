@@ -5,7 +5,7 @@ title:  "Reading List"
 
 ### Currently Reading
 
-[Careless People: A Cautionary Tale of Power, Greed, and Lost Idealism](./Careless-People)
+We do not currently have a pop-up discussion scheduled. Suggest a reading on the Listserv!
 
 ### Past & Suggested Readings on Bookshop.org
 

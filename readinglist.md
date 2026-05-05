@@ -5,7 +5,7 @@ title: "Reading List"
 
 ### Currently Reading
 
-[The Technologial Republic](./The-Technological-Republic)
+[The Technological Republic](./The-Technological-Republic)
 
 ### Past & Suggested Readings on Bookshop.org
 

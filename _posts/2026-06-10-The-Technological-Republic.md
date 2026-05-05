@@ -1,8 +1,6 @@
 ---
 layout: post
-title:
-  The Technological Republic: Hard Power, Soft Belief, and the Future of the
-  West (1/1)
+title: "The Technological Republic: Hard Power, Soft Belief, and the Future of the West (1/1)"
 date: 2026-06-10 20:00:00
 categories: jekyll update
 ---

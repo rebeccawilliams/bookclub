@@ -5,7 +5,7 @@ title: "Reading List"
 
 ### Currently Reading
 
-[The Technological Republic](./The-Technological-Republic)
+[End Times Fascism: And the Fight for the Living World](https://bookshop.org/p/books/end-times-fascism-and-the-fight-for-the-living-world-astra-taylor/66802b8005ce0f8f?ean=9780374621384) - *Discussion 12/9 @ 8pm ET* 
 
 ### Past & Suggested Readings on Bookshop.org
 

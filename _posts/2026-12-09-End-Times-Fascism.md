@@ -4,7 +4,7 @@ title: "End Times Fascism: And the Fight for the Living World (1/1)"
 date: 2026-12-09 20:00:00
 categories: jekyll update
 ---
-8pm ET/5pm PT.
+8pm ET/5pm PT, online.
 
 <img src="https://images-us.bookshop.org/ingram/9780374621384.jpg?v=ccaabb80a925410254d656f9e4341585&width=600">
 

@@ -8,7 +8,6 @@ categories: jekyll update
 
 <img src="https://images-us.bookshop.org/ingram/9780374621384.jpg?v=ccaabb80a925410254d656f9e4341585&width=600">
 
-Our Read:
 [End Times Fascism: And the Fight for the Living World](https://bookshop.org/p/books/end-times-fascism-and-the-fight-for-the-living-world-astra-taylor/66802b8005ce0f8f?ean=9780374621384) by Naomi Klein and Astra Taylor.
 
 Another whole book discussion.
